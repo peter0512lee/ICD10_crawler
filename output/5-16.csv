@@ -1,0 +1,35 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+813.08,S52.009A,"橈骨及尺骨上端閉鎖性骨折Fracture of radius with ulna, upper end (any part), closed","未明示側性尺骨上端閉鎖性骨折之初期照護Unspecified fracture of upper end of unspecified ulna, initial encounter for closed fracture",10112
+813.08,S52.109A,"橈骨及尺骨上端閉鎖性骨折Fracture of radius with ulna, upper end (any part), closed","未明示側性橈骨上端閉鎖性骨折之初期照護Unspecified fracture of upper end of unspecified radius, initial encounter for closed fracture",10111
+813.18,S52.009B,"橈骨及尺骨上端開放性骨折Fracture of radius with ulna, upper end (any part), open","未明示側性尺骨上端第I或II型開放性骨折之初期照護Unspecified fracture of upper end of unspecified ulna, initial encounter for open fracture type I or II",10112
+813.18,S52.009C,"橈骨及尺骨上端開放性骨折Fracture of radius with ulna, upper end (any part), open","未明示側性尺骨上端IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of upper end of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC",10112
+813.18,S52.109B,"橈骨及尺骨上端開放性骨折Fracture of radius with ulna, upper end (any part), open","未明示側性橈骨上端第I或II型開放性骨折之初期照護Unspecified fracture of upper end of unspecified radius, initial encounter for open fracture type I or II",10111
+813.18,S52.109C,"橈骨及尺骨上端開放性骨折Fracture of radius with ulna, upper end (any part), open","未明示側性橈骨上端IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of upper end of unspecified radius, initial encounter for open fracture type IIIA, IIIB, or IIIC",10111
+813.2,S52.90XA,"橈骨及尺骨骨幹閉鎖性骨折Unspecified fracture of shaft of radius and ulna, closed","未明示側性前臂閉鎖性骨折之初期照護Unspecified fracture of unspecified forearm, initial encounter for closed fracture",10000
+813.23,S52.209A,"橈骨及尺骨幹閉鎖性骨折Fracture of shaft of radius with ulna, closed","未明示側性尺骨骨幹閉鎖性骨折之初期照護Unspecified fracture of shaft of unspecified ulna, initial encounter for closed fracture",10111
+813.23,S52.309A,"橈骨及尺骨幹閉鎖性骨折Fracture of shaft of radius with ulna, closed","未明示側性橈骨骨幹閉鎖性骨折之初期照護Unspecified fracture of shaft of unspecified radius, initial encounter for closed fracture",10112
+813.3,S52.90XB,"橈骨及尺骨骨幹開放性骨折Unspecified fracture of shaft of radius and ulna, open","未明示側性前臂第I或II型開放性骨折之初期照護Unspecified fracture of unspecified forearm, initial encounter for open fracture type I or II",10000
+813.3,S52.90XC,"橈骨及尺骨骨幹開放性骨折Unspecified fracture of shaft of radius and ulna, open","未明示側性前臂IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of unspecified forearm, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+813.33,S52.209B,"橈骨及尺骨骨幹開放性骨折Fracture of shaft of radius with ulna, open","未明示側性尺骨骨幹第I或II型開放性骨折之初期照護Unspecified fracture of shaft of unspecified ulna, initial encounter for open fracture type I or II",10111
+813.33,S52.209C,"橈骨及尺骨骨幹開放性骨折Fracture of shaft of radius with ulna, open","未明示側性尺骨骨幹IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of shaft of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC",10111
+813.33,S52.309B,"橈骨及尺骨骨幹開放性骨折Fracture of shaft of radius with ulna, open","未明示側性橈骨骨幹第I或II型開放性骨折之初期照護Unspecified fracture of shaft of unspecified radius, initial encounter for open fracture type I or II",10112
+813.33,S52.309C,"橈骨及尺骨骨幹開放性骨折Fracture of shaft of radius with ulna, open","未明示側性橈骨骨幹IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of shaft of unspecified radius, initial encounter for open fracture type IIIA, IIIB, or IIIC",10112
+813.44,S52.501A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","右側橈骨下端閉鎖性骨折之初期照護Unspecified fracture of the lower end of right radius, initial encounter for closed fracture",10152
+813.44,S52.502A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","左側橈骨下端閉鎖性骨折之初期照護Unspecified fracture of the lower end of left radius, initial encounter for closed fracture",10162
+813.44,S52.509A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","未明示側性橈骨下端閉鎖性骨折之初期照護Unspecified fracture of the lower end of unspecified radius, initial encounter for closed fracture",10112
+813.44,S52.521A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","右側橈骨下端環面閉鎖性骨折之初期照護Torus fracture of lower end of right radius, initial encounter for closed fracture",10122
+813.44,S52.522A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","左側橈骨下端環面閉鎖性骨折之初期照護Torus fracture of lower end of left radius, initial encounter for closed fracture",10132
+813.44,S52.529A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","未明示側性橈骨下端環面閉鎖性骨折之初期照護Torus fracture of lower end of unspecified radius, initial encounter for closed fracture",10142
+813.44,S52.601A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","右側尺骨下端閉鎖性骨折之初期照護Unspecified fracture of lower end of right ulna, initial encounter for closed fracture",10151
+813.44,S52.602A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","左側尺骨下端閉鎖性骨折之初期照護Unspecified fracture of lower end of left ulna, initial encounter for closed fracture",10161
+813.44,S52.609A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","未明示側性尺骨下端閉鎖性骨折之初期照護Unspecified fracture of lower end of unspecified ulna, initial encounter for closed fracture",10111
+813.44,S52.621A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","右側尺骨下端環面閉鎖性骨折之初期照護Torus fracture of lower end of right ulna, initial encounter for closed fracture",10121
+813.44,S52.622A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","左側尺骨下端環面閉鎖性骨折之初期照護Torus fracture of lower end of left ulna, initial encounter for closed fracture",10131
+813.44,S52.629A,"橈骨及尺骨下端閉鎖性骨折Fracture of radius with ulna, lower end, closed","未明示側性尺骨下端環面閉鎖性骨折之初期照護Torus fracture of lower end of unspecified ulna, initial encounter for closed fracture",10141
+813.54,S52.509B,"橈骨及尺骨下端開放性骨折Fracture of radius with ulna, lower end, open","未明示側性橈骨下端第I或II型開放性骨折之初期照護Unspecified fracture of the lower end of unspecified radius, initial encounter for open fracture type I or II",10112
+813.54,S52.509C,"橈骨及尺骨下端開放性骨折Fracture of radius with ulna, lower end, open","未明示側性橈骨下端IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of the lower end of unspecified radius, initial encounter for open fracture type IIIA, IIIB, or IIIC",10112
+813.54,S52.609B,"橈骨及尺骨下端開放性骨折Fracture of radius with ulna, lower end, open","未明示側性尺骨下端第I或II型開放性骨折之初期照護Unspecified fracture of lower end of unspecified ulna, initial encounter for open fracture type I or II",10111
+813.54,S52.609C,"橈骨及尺骨下端開放性骨折Fracture of radius with ulna, lower end, open","未明示側性尺骨下端IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of lower end of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC",10111
+813.83,S52.90XA,"橈骨及尺骨之閉鎖性骨折Fracture in unspecified part of radius with ulna, closed","未明示側性前臂閉鎖性骨折之初期照護Unspecified fracture of unspecified forearm, initial encounter for closed fracture",10000
+813.93,S52.90XB,"橈骨及尺骨之開放性骨折Fracture in unspecified part of radius with ulna, open","未明示側性前臂第I或II型開放性骨折之初期照護Unspecified fracture of unspecified forearm, initial encounter for open fracture type I or II",10000
+813.93,S52.90XC,"橈骨及尺骨之開放性骨折Fracture in unspecified part of radius with ulna, open","未明示側性前臂IIIA、IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of unspecified forearm, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000

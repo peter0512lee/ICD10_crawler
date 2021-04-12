@@ -1,0 +1,761 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+805.0,S12.9XXA,"頸椎閉鎖性骨折Fracture in unspecified level of cervical vertebra, closed","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10000
+805.01,S12.000A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.001A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.01xA,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎穩定爆裂閉鎖性骨折之初期照護Stable burst fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.02xA,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎不穩定爆裂閉鎖性骨折之初期照護Unstable burst fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.030A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎後弓移位閉鎖性骨折之初期照護Displaced posterior arch fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.031A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎後弓非移位閉鎖性骨折之初期照護Nondisplaced posterior arch fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.040A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎側塊移位閉鎖性骨折之初期照護Displaced lateral mass fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.041A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎側塊非移位閉鎖性骨折之初期照護Nondisplaced lateral mass fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.090A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎其他移位閉鎖性骨折之初期照護Other displaced fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.01,S12.091A,"第一頸椎閉鎖性骨折Fracture of first cervical vertebra, closed","第一頸椎其他非移位閉鎖性骨折之初期照護Other nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.100A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.101A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.110A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎前側第 II 型齒狀突移位閉鎖性骨折之初期照護Anterior displaced Type II dens fracture, initial encounter for closed fracture",10000
+805.02,S12.111A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎後側第 II 型齒狀突移位閉鎖性骨折之初期照護Posterior displaced Type II dens fracture, initial encounter for closed fracture",10000
+805.02,S12.112A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎後側第 II 型齒狀突非移位閉鎖性骨折之初期照護Nondisplaced Type II dens fracture, initial encounter for closed fracture",10000
+805.02,S12.120A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎其他齒狀突移位閉鎖性骨折之初期照護Other displaced dens fracture, initial encounter for closed fracture",10000
+805.02,S12.121A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎其他齒狀突非移位閉鎖性骨折之初期照護Other nondisplaced dens fracture, initial encounter for closed fracture",10000
+805.02,S12.130A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎創傷性移位滑脫閉鎖性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.131A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎創傷性非移位滑脫閉鎖性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.14xA,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎第 III 型創傷性滑脫閉鎖性骨折之初期照護Type III traumatic spondylolisthesis of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.150A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎其他創傷性移位滑脫閉鎖性骨折之初期照護Other traumatic displaced spondylolisthesis of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.151A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎其他創傷性非移位滑脫閉鎖性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.190A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎其他移位閉鎖性骨折之初期照護Other displaced fracture of second cervical vertebra, initial encounter for closed fracture",10000
+805.02,S12.191A,"第二頸椎閉鎖性骨折Fracture of second cervical vertebra, closed","第二頸椎其他非移位閉鎖性骨折之初期照護Other nondisplaced fracture of second cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.200A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.201A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.230A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎創傷性移位滑脫閉鎖性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.231A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎創傷性非移位滑脫閉鎖性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.24xA,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎第 III 型創傷性滑脫閉鎖性骨折之初期照護Type III traumatic spondylolisthesis of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.250A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎其他創傷性移位滑脫閉鎖性骨折之初期照護Other traumatic displaced spondylolisthesis of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.251A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎其他創傷性非移位滑脫閉鎖性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.290A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎其他移位閉鎖性骨折之初期照護Other displaced fracture of third cervical vertebra, initial encounter for closed fracture",10000
+805.03,S12.291A,"第三頸椎閉鎖性骨折Fracture of third cervical vertebra, closed","第三頸椎其他非移位閉鎖性骨折之初期照護Other nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.300A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.301A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.330A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎創傷性移位滑脫閉鎖性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.331A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎創傷性非移位滑脫閉鎖性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.34xA,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎第三型創傷性滑脫閉鎖性骨折之初期照護Type III traumatic spondylolisthesis of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.350A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎其他創傷性移位滑脫閉鎖性骨折之初期照護Other traumatic displaced spondylolisthesis of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.351A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎其他創傷性非移位滑脫閉鎖性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.390A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎其他移位閉鎖性骨折之初期照護Other displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.04,S12.391A,"第四頸椎閉鎖性骨折Fracture of fourth cervical vertebra, closed","第四頸椎其他非移位閉鎖性骨折之初期照護Other nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.400A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.401A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.430A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎創傷性移位滑脫閉鎖性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.431A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎創傷性非移位滑脫閉鎖性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.44xA,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎第III型創傷性滑脫閉鎖性骨折之初期照護Type III traumatic spondylolisthesis of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.450A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎其他創傷性移位滑脫閉鎖性骨折之初期照護Other traumatic displaced spondylolisthesis of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.451A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎其他創傷性非移位滑脫閉鎖性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.490A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎其他移位閉鎖性骨折之初期照護Other displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.05,S12.491A,"第五頸椎閉鎖性骨折Fracture of fifth cervical vertebra, closed","第五頸椎其他非移位閉鎖性骨折之初期照護Other nondisplaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.500A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.501A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.530A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎創傷性移位滑脫閉鎖性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.531A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎創傷性非移位滑脫閉鎖性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.54xA,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎第III型創傷性滑脫閉鎖性骨折之初期照護Type III traumatic spondylolisthesis of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.550A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎其他創傷性移位滑脫閉鎖性骨折之初期照護Other traumatic displaced spondylolisthesis of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.551A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎其他創傷性非移位滑脫閉鎖性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.590A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎其他移位閉鎖性骨折之初期照護Other displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.06,S12.591A,"第六頸椎閉鎖性骨折Fracture of sixth cervical vertebra, closed","第六頸椎其他非移位閉鎖性骨折之初期照護Other nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.600A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.601A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.630A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎創傷性移位滑脫閉鎖性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.631A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎創傷性非移位滑脫閉鎖性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.64xA,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎第III型創傷性滑脫閉鎖性骨折之初期照護Type III traumatic spondylolisthesis of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.650A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎其他創傷性移位滑脫閉鎖性骨折之初期照護Other traumatic displaced spondylolisthesis of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.651A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎其他創傷性非移位滑脫閉鎖性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.690A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎其他移位閉鎖性骨折之初期照護Other displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.07,S12.691A,"第七頸椎閉鎖性骨折Fracture of seventh cervical vertebra, closed","第七頸椎其他非移位閉鎖性骨折之初期照護Other nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10000
+805.08,S12.9XXA,"多發性頸椎閉鎖性骨折Fracture of multiple cervical vertebra, closed","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10000
+805.1,S12.9XXA,"頸椎開放性骨折Fracture in unspecified level of cervical vertebra, open","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10000
+805.11,S12.000B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎移位開放性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.001B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.01xB,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎穩定爆裂開放性骨折之初期照護Stable burst fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.02xB,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎不穩定爆裂開放性骨折之初期照護Unstable burst fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.030B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎後弓移位開放性骨折之初期照護Displaced posterior arch fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.031B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎後弓非移位開放性骨折之初期照護Nondisplaced posterior arch fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.040B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎側塊移位開放性骨折之初期照護Displaced lateral mass fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.041B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎側塊非移位開放性骨折之初期照護Nondisplaced lateral mass fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.090B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎其他移位開放性骨折之初期照護Other displaced fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.11,S12.091B,"第一頸椎開放性骨折Fracture of first cervical vertebra, open","第一頸椎其他非移位開放性骨折之初期照護Other nondisplaced fracture of first cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.100B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎移位開放性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.101B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.110B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎前側第 II 型齒狀突移位開放性骨折之初期照護Anterior displaced Type II dens fracture, initial encounter for open fracture",10000
+805.12,S12.111B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎後側第 II 型齒狀突移位開放性骨折之初期照護Posterior displaced Type II dens fracture, initial encounter for open fracture",10000
+805.12,S12.112B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎後側第 II 型齒狀突非移位開放性骨折之初期照護Nondisplaced Type II dens fracture, initial encounter for open fracture",10000
+805.12,S12.120B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎其他齒狀突移位開放性骨折之初期照護Other displaced dens fracture, initial encounter for open fracture",10000
+805.12,S12.121B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎其他齒狀突非移位開放性骨折之初期照護Other nondisplaced dens fracture, initial encounter for open fracture",10000
+805.12,S12.130B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎創傷性移位滑脫開放性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.131B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎創傷性非移位滑脫開放性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.14xB,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎第 III 型創傷性滑脫開放性骨折之初期照護Type III traumatic spondylolisthesis of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.150B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎其他創傷性移位滑脫開放性骨折之初期照護Other traumatic displaced spondylolisthesis of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.151B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎其他創傷性非移位滑脫開放性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.190B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎其他移位開放性骨折之初期照護Other displaced fracture of second cervical vertebra, initial encounter for open fracture",10000
+805.12,S12.191B,"第二頸椎開放性骨折Fracture of second cervical vertebra, open","第二頸椎其他非移位開放性骨折之初期照護Other nondisplaced fracture of second cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.200B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎移位開放性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.201B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.230B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎創傷性移位滑脫開放性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.231B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎創傷性非移位滑脫開放性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.24xB,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎第 III 型創傷性滑脫開放性骨折之初期照護Type III traumatic spondylolisthesis of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.250B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎其他創傷性移位滑脫開放性骨折之初期照護Other traumatic displaced spondylolisthesis of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.251B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎其他創傷性非移位滑脫開放性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.290B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎其他移位開放性骨折之初期照護Other displaced fracture of third cervical vertebra, initial encounter for open fracture",10000
+805.13,S12.291B,"第三頸椎開放性骨折Fracture of third cervical vertebra, open","第三頸椎其他非移位開放性骨折之初期照護Other nondisplaced fracture of third cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.300B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.301B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.330B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎創傷性移位滑脫開放性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.331B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎創傷性非移位滑脫開放性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.34xB,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎第三型創傷性滑脫開放性骨折之初期照護Type III traumatic spondylolisthesis of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.350B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎其他創傷性移位滑脫開放性骨折之初期照護Other traumatic displaced spondylolisthesis of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.351B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎其他創傷性非移位滑脫開放性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.390B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎其他移位開放性骨折之初期照護Other displaced fracture of fourth cervical vertebra, initial encounter for open fracture",10000
+805.14,S12.391B,"第四頸椎開放性骨折Fracture of fourth cervical vertebra, open","第四頸椎其他非移位開放性骨折之初期照護Other nondisplaced fracture of fourth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.400B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.401B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.430B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎創傷性移位滑脫開放性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.431B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎創傷性非移位滑脫開放性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.44xB,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎第III型創傷性滑脫骨折之初期照護Type III traumatic spondylolisthesis of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.450B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎其他創傷性移位滑脫開放性骨折之初期照護Other traumatic displaced spondylolisthesis of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.451B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎其他創傷性非移位滑脫開放性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.490B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎其他移位開放性骨折之初期照護Other displaced fracture of fifth cervical vertebra, initial encounter for open fracture",10000
+805.15,S12.491B,"第五頸椎開放性骨折Fracture of fifth cervical vertebra, open","第五頸椎其他非移位性骨折之初期照護Other nondisplaced fracture of fifth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.500B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎移位開放性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.501B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.530B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎創傷性移位滑脫開放性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.531B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎創傷性非移位滑脫開放性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.54xB,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎第III型創傷性滑脫開放性骨折之初期照護Type III traumatic spondylolisthesis of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.550B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎其他創傷性移位滑脫開放性骨折之初期照護Other traumatic displaced spondylolisthesis of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.551B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎其他創傷性非移位滑脫開放性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.590B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎其他移位開放性骨折之初期照護Other displaced fracture of sixth cervical vertebra, initial encounter for open fracture",10000
+805.16,S12.591B,"第六頸椎開放性骨折Fracture of sixth cervical vertebra, open","第六頸椎其他非移位開放性骨折之初期照護Other nondisplaced fracture of sixth cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.600B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎移位開放性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.601B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.630B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎創傷性移位滑脫開放性骨折之初期照護Unspecified traumatic displaced spondylolisthesis of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.631B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎創傷性非移位滑脫開放性骨折之初期照護Unspecified traumatic nondisplaced spondylolisthesis of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.64xB,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎第III型創傷性滑脫開放性骨折之初期照護Type III traumatic spondylolisthesis of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.650B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎其他創傷性移位滑脫開放性骨折之初期照護Other traumatic displaced spondylolisthesis of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.651B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎其他創傷性非移位滑脫開放性骨折之初期照護Other traumatic nondisplaced spondylolisthesis of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.690B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎其他移位開放性骨折之初期照護Other displaced fracture of seventh cervical vertebra, initial encounter for open fracture",10000
+805.17,S12.691B,"第七頸椎開放性骨折Fracture of seventh cervical vertebra, open","第七頸椎其他非移位開放性骨折之初期照護Other nondisplaced fracture of seventh cervical vertebra, initial encounter for open fracture",10000
+805.18,S12.9XXA,"多發性頸椎開放性骨折Fracture of multiple cervical vertebra, open","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10000
+805.2,S22.000A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","未明示胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of unspecified thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.001A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","未明示胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of unspecified thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.002A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","未明示胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of unspecified thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.008A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","未明示胸椎其他閉鎖性骨折之初期照護Other fracture of unspecified thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.009A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","未明示胸椎閉鎖性骨折之初期照護Unspecified fracture of unspecified thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.010A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第1胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of first thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.011A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第1胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of first thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.012A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第1胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of first thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.018A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第1胸椎其他閉鎖性骨折之初期照護Other fracture of first thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.019A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第1胸椎閉鎖性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.020A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第2胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of second thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.021A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第2胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of second thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.022A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第2胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of second thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.028A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第2胸椎其他閉鎖性骨折之初期照護Other fracture of second thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.029A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第2胸椎閉鎖性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.030A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第3胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of third thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.031A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第3胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of third thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.032A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第3胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of third thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.038A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第3胸椎其他閉鎖性骨折之初期照護Other fracture of third thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.039A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第3胸椎閉鎖性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.040A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第4胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of fourth thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.041A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第4胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of fourth thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.042A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第4胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of fourth thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.048A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第4胸椎其他閉鎖性骨折之初期照護Other fracture of fourth thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.049A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第4胸椎閉鎖性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.050A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第5-6胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of T5-T6 vertebra, initial encounter for closed fracture",10000
+805.2,S22.051A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第5-6胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of T5-T6 vertebra, initial encounter for closed fracture",10000
+805.2,S22.052A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第5-6胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of T5-T6 vertebra, initial encounter for closed fracture",10000
+805.2,S22.058A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第5-6胸椎其他閉鎖性骨折之初期照護Other fracture of T5-T6 vertebra, initial encounter for closed fracture",10000
+805.2,S22.059A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第5-6胸椎閉鎖性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",10000
+805.2,S22.060A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第7-8胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of T7-T8 vertebra, initial encounter for closed fracture",10000
+805.2,S22.061A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第7-8胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of T7-T8 vertebra, initial encounter for closed fracture",10000
+805.2,S22.062A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第7-8胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of T7-T8 vertebra, initial encounter for closed fracture",10000
+805.2,S22.068A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第7-8胸椎其他閉鎖性骨折之初期照護Other fracture of T7-T8 thoracic vertebra, initial encounter for closed fracture",10000
+805.2,S22.069A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第7-8胸椎閉鎖性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",10000
+805.2,S22.070A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第9-10胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of T9-T10 vertebra, initial encounter for closed fracture",10000
+805.2,S22.071A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第9-10胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of T9-T10 vertebra, initial encounter for closed fracture",10000
+805.2,S22.072A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第9-10胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of T9-T10 vertebra, initial encounter for closed fracture",10000
+805.2,S22.078A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第9-10胸椎其他閉鎖性骨折之初期照護Other fracture of T9-T10 vertebra, initial encounter for closed fracture",10000
+805.2,S22.079A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第9-10胸椎閉鎖性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for closed fracture",10000
+805.2,S22.080A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第11-12胸椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of T11-T12 vertebra, initial encounter for closed fracture",10000
+805.2,S22.081A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第11-12胸椎椎體穩定之爆裂閉鎖性骨折之初期照護Stable burst fracture of T11-T12 vertebra, initial encounter for closed fracture",10000
+805.2,S22.082A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第11-12胸椎椎體不穩定之爆裂閉鎖性骨折之初期照護Unstable burst fracture of T11-T12 vertebra, initial encounter for closed fracture",10000
+805.2,S22.088A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第11-12胸椎其他閉鎖性骨折之初期照護Other fracture of T11-T12 vertebra, initial encounter for closed fracture",10000
+805.2,S22.089A,"背部(胸部)脊椎閉鎖性骨折Fracture of dorsal (thoracic) vertebra, closed","第11-12胸椎閉鎖性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture",10000
+805.3,S22.000B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","未明示胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of unspecified thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.001B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","未明示胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of unspecified thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.002B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","未明示胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of unspecified thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.008B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","未明示胸椎其他開放性骨折之初期照護Other fracture of unspecified thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.009B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","未明示胸椎開放性骨折之初期照護Unspecified fracture of unspecified thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.010B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第1胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of first thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.011B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第1胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of first thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.012B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第1胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of first thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.018B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第1胸椎其他開放性骨折之初期照護Other fracture of first thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.019B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第1胸椎開放性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.020B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第2胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of second thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.021B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第2胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of second thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.022B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第2胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of second thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.028B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第2胸椎其他開放性骨折之初期照護Other fracture of second thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.029B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第2胸椎開放性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.030B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第3胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of third thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.031B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第3胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of third thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.032B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第3胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of third thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.038B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第3胸椎其他開放性骨折之初期照護Other fracture of third thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.039B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第3胸椎開放性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.040B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第4胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of fourth thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.041B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第4胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of fourth thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.042B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第4胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of fourth thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.048B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第4胸椎其他開放性骨折之初期照護Other fracture of fourth thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.049B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第4胸椎開放性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.050B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第5-6胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of T5-T6 vertebra, initial encounter for open fracture",10000
+805.3,S22.051B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第5-6胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of T5-T6 vertebra, initial encounter for open fracture",10000
+805.3,S22.052B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第5-6胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of T5-T6 vertebra, initial encounter for open fracture",10000
+805.3,S22.058B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第5-6胸椎其他開放性骨折之初期照護Other fracture of T5-T6 vertebra, initial encounter for open fracture",10000
+805.3,S22.059B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第5-6胸椎開放性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for open fracture",10000
+805.3,S22.060B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第7-8胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of T7-T8 vertebra, initial encounter for open fracture",10000
+805.3,S22.061B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第7-8胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of T7-T8 vertebra, initial encounter for open fracture",10000
+805.3,S22.062B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第7-8胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of T7-T8 vertebra, initial encounter for open fracture",10000
+805.3,S22.068B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第7-8胸椎其他開放性骨折之初期照護Other fracture of T7-T8 thoracic vertebra, initial encounter for open fracture",10000
+805.3,S22.069B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第7-8胸椎開放性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for open fracture",10000
+805.3,S22.070B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第9-10胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of T9-T10 vertebra, initial encounter for open fracture",10000
+805.3,S22.071B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第9-10胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of T9-T10 vertebra, initial encounter for open fracture",10000
+805.3,S22.072B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第9-10胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of T9-T10 vertebra, initial encounter for open fracture",10000
+805.3,S22.078B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第9-10胸椎其他開放性骨折之初期照護Other fracture of T9-T10 vertebra, initial encounter for open fracture",10000
+805.3,S22.079B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第9-10胸椎開放性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for open fracture",10000
+805.3,S22.080B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第11-12胸椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of T11-T12 vertebra, initial encounter for open fracture",10000
+805.3,S22.081B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第11-12胸椎椎體穩定之爆裂開放性骨折之初期照護Stable burst fracture of T11-T12 vertebra, initial encounter for open fracture",10000
+805.3,S22.082B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第11-12胸椎椎體不穩定之爆裂開放性骨折之初期照護Unstable burst fracture of T11-T12 vertebra, initial encounter for open fracture",10000
+805.3,S22.088B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第11-12胸椎其他開放性骨折之初期照護Other fracture of T11-T12 vertebra, initial encounter for open fracture",10000
+805.3,S22.089B,"背部(胸部)脊椎開放性骨折Fracture of dorsal (thoracic) vertebra, open","第11-12胸椎開放性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for open fracture",10000
+805.4,S32.000A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","未明示腰椎楔狀壓迫閉鎖性骨折之初期照護Wedge compression fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.001A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","未明示腰椎穩定型爆裂閉鎖性骨折之初期照護Stable burst fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.002A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","未明示腰椎不穩定型爆裂閉鎖性骨折之初期照護Unstable burst fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.008A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","未明示腰椎其他閉鎖性骨折之初期照護Other fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.009A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","未明示腰椎閉鎖性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.010A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第一腰椎楔形壓迫閉鎖性骨折之初期照護Wedge compression fracture of first lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.011A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第一腰椎穩定爆裂閉鎖性骨折之初期照護Stable burst fracture of first lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.012A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第一腰椎不穩定爆裂閉鎖性骨折之初期照護Unstable burst fracture of first lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.018A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第一腰椎其他閉鎖性骨折之初期照護Other fracture of first lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.019A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第一腰椎閉鎖性骨折之初期照護Unspecified fracture of first lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.020A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第二腰椎楔形壓迫閉鎖性骨折之初期照護Wedge compression fracture of second lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.021A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第二腰椎穩定爆裂閉鎖性骨折之初期照護Stable burst fracture of second lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.022A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第二腰椎不穩定爆裂閉鎖性骨折之初期照護Unstable burst fracture of second lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.028A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第二腰椎其他閉鎖性骨折之初期照護Other fracture of second lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.029A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第二腰椎閉鎖性骨折之初期照護Unspecified fracture of second lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.030A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第三腰椎楔形壓迫閉鎖性骨折之初期照護Wedge compression fracture of third lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.031A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第三腰椎穩定爆裂閉鎖性骨折之初期照護Stable burst fracture of third lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.032A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第三腰椎不穩定爆裂閉鎖性骨折之初期照護Unstable burst fracture of third lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.038A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第三腰椎其他閉鎖性骨折之初期照護Other fracture of third lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.039A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第三腰椎閉鎖性骨折之初期照護Unspecified fracture of third lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.040A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第四腰椎楔形壓迫閉鎖性骨折之初期照護Wedge compression fracture of fourth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.041A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第四腰椎穩定爆裂閉鎖性骨折之初期照護Stable burst fracture of fourth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.042A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第四腰椎不穩定爆裂閉鎖性骨折之初期照護Unstable burst fracture of fourth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.048A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第四腰椎其他閉鎖性骨折之初期照護Other fracture of fourth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.049A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第四腰椎閉鎖性骨折之初期照護Unspecified fracture of fourth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.050A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第五腰椎楔形壓迫閉鎖性骨折之初期照護Wedge compression fracture of fifth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.051A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第五腰椎穩定爆裂閉鎖性骨折之初期照護Stable burst fracture of fifth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.052A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第五腰椎不穩定爆裂閉鎖性骨折之初期照護Unstable burst fracture of fifth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.058A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第五腰椎其他閉鎖性骨折之初期照護Other fracture of fifth lumbar vertebra, initial encounter for closed fracture",10000
+805.4,S32.059A,"腰椎閉鎖性骨折Fracture of lumbar vertebra, closed","第五腰椎閉鎖性骨折之初期照護Unspecified fracture of fifth lumbar vertebra, initial encounter for closed fracture",10000
+805.5,S32.000B,"腰椎開放性骨折Fracture of lumbar vertebra, open","未明示腰椎楔狀壓迫開放性骨折之初期照護Wedge compression fracture of unspecified lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.001B,"腰椎開放性骨折Fracture of lumbar vertebra, open","未明示腰椎穩定型爆裂開放性骨折之初期照護Stable burst fracture of unspecified lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.002B,"腰椎開放性骨折Fracture of lumbar vertebra, open","未明示腰椎不穩定型爆裂開放性骨折之初期照護Unstable burst fracture of unspecified lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.008B,"腰椎開放性骨折Fracture of lumbar vertebra, open","未明示腰椎其他開放性骨折之初期照護Other fracture of unspecified lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.009B,"腰椎開放性骨折Fracture of lumbar vertebra, open","未明示腰椎開放性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.010B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第一腰椎楔形壓迫性開放性骨折之初期照護Wedge compression fracture of first lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.011B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第一腰椎穩定爆裂開放性骨折之初期照護Stable burst fracture of first lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.012B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第一腰椎不穩定爆裂性開放性骨折之初期照護Unstable burst fracture of first lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.018B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第一腰椎其他開放性骨折之初期照護Other fracture of first lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.019B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第一腰椎開放性骨折之初期照護Unspecified fracture of first lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.020B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第二腰椎楔形壓迫性開放性骨折之初期照護Wedge compression fracture of second lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.021B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第二腰椎穩定爆裂開放性骨折之初期照護Stable burst fracture of second lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.022B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第二腰椎不穩定爆裂開放性骨折之初期照護Unstable burst fracture of second lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.028B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第二腰椎其他開放性骨折之初期照護Other fracture of second lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.029B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第二腰椎開放性骨折之初期照護Unspecified fracture of second lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.030B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第三腰椎楔形壓迫開放性骨折之初期照護Wedge compression fracture of third lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.031B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第三腰椎穩定爆裂開放性骨折之初期照護Stable burst fracture of third lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.032B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第三腰椎不穩定爆裂開放性骨折之初期照護Unstable burst fracture of third lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.038B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第三腰椎其他開放性骨折之初期照護Other fracture of third lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.039B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第三腰椎開放性骨折之初期照護Unspecified fracture of third lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.040B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第四腰椎楔形壓迫開放性骨折之初期照護Wedge compression fracture of fourth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.041B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第四腰椎穩定爆裂開放性骨折之初期照護Stable burst fracture of fourth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.042B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第四腰椎不穩定爆裂開放性骨折之初期照護Unstable burst fracture of fourth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.048B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第四腰椎其他開放性骨折之初期照護Other fracture of fourth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.049B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第四腰椎開放性骨折之初期照護Unspecified fracture of fourth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.050B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第五腰椎楔形壓迫開放性骨折之初期照護Wedge compression fracture of fifth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.051B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第五腰椎穩定爆裂開放性骨折之初期照護Stable burst fracture of fifth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.052B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第五腰椎不穩定爆裂開放性骨折之初期照護Unstable burst fracture of fifth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.058B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第五腰椎其他開放性骨折之初期照護Other fracture of fifth lumbar vertebra, initial encounter for open fracture",10000
+805.5,S32.059B,"腰椎開放性骨折Fracture of lumbar vertebra, open","第五腰椎開放性骨折之初期照護Unspecified fracture of fifth lumbar vertebra, initial encounter for open fracture",10000
+805.6,S32.10XA,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨閉鎖性骨折之初期照護Unspecified fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.110A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone I無移位閉鎖性骨折之初期照護Nondisplaced Zone I fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.111A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone I 輕微移位閉鎖性骨折之初期照護Minimally displaced Zone I fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.112A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone I 嚴重移位閉鎖性骨折之初期照護Severely displaced Zone I fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.119A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone I 閉鎖性骨折之初期照護Unspecified Zone I fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.120A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone II 無移位閉鎖性骨折之初期照護Nondisplaced Zone II fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.121A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone II 輕微移位閉鎖性骨折之初期照護Minimally displaced Zone II fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.122A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone II 嚴重移位閉鎖性骨折之初期照護Severely displaced Zone II fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.129A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone II 閉鎖性骨折之初期照護Unspecified Zone II fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.130A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone III 無移位閉鎖性骨折之初期照護Nondisplaced Zone III fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.131A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone III 輕微移位閉鎖性骨折之初期照護Minimally displaced Zone III fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.132A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone III 嚴重移位閉鎖性骨折之初期照護Severely displaced Zone III fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.139A,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","?骨Zone III 閉鎖性骨折之初期照護Unspecified Zone III fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.14xA,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","第一型?骨閉鎖性骨折之初期照護Type 1 fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.15xA,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","第二型?骨閉鎖性骨折之初期照護Type 2 fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.16xA,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","第三型?骨閉鎖性骨折之初期照護Type 3 fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.17xA,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","第四型?骨閉鎖性骨折之初期照護Type 4 fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.19xA,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","其他?骨閉鎖性骨折之初期照護Other fracture of sacrum, initial encounter for closed fracture",10000
+805.6,S32.2XXA,"胝骨及尾骨閉鎖性骨折Fracture of sacrum and coccyx, closed","尾骨閉鎖性骨折之初期照護Fracture of coccyx, initial encounter for closed fracture",10000
+805.7,S32.10XB,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨開放性骨折之初期照護Unspecified fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.110B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone I 無移位開放性骨折之初期照護Nondisplaced Zone I fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.111B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone I 輕微移位開放性骨折之初期照護Minimally displaced Zone I fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.112B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone I嚴重移位開放性骨折之初期照護Severely displaced Zone I fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.119B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone I開放性骨折之初期照護Unspecified Zone I fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.120B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone II 無移位開放性骨折之初期照護Nondisplaced Zone II fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.121B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone II 輕微移位開放性骨折之初期照護Minimally displaced Zone II fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.122B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone II嚴重移位開放性骨折之初期照護Severely displaced Zone II fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.129B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone II 開放性骨折之初期照護Unspecified Zone II fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.130B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone III 無移位開放性骨折之初期照護Nondisplaced Zone III fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.131B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone III 輕微移位開放性骨折之初期照護Minimally displaced Zone III fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.132B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone II嚴重移位開放性骨折之初期照護Severely displaced Zone III fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.139B,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","?骨Zone III 開放性骨折之初期照護Unspecified Zone III fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.14xB,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","第一型?骨開放性骨折之初期照護Type 1 fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.15xB,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","第二型?骨開放性骨折之初期照護Type 2 fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.16xB,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","第三型?骨開放性骨折之初期照護Type 3 fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.17xB,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","第四型?骨開放性骨折之初期照護Type 4 fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.19xB,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","其他?骨開放性骨折之初期照護Other fracture of sacrum, initial encounter for open fracture",10000
+805.7,S32.2XXB,"胝骨及尾骨開放性骨折Fracture of sacrum and coccyx, open","尾骨開放性骨折之初期照護Fracture of coccyx, initial encounter for open fracture",10000
+805.8,S12.9XXA,"脊椎閉鎖性骨折Unspecified fracture of vertebra column, closed","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10000
+805.8,S22.009A,"脊椎閉鎖性骨折Unspecified fracture of vertebra column, closed","未明示胸椎閉鎖性骨折之初期照護Unspecified fracture of unspecified thoracic vertebra, initial encounter for closed fracture",10000
+805.8,S32.009A,"脊椎閉鎖性骨折Unspecified fracture of vertebra column, closed","未明示腰椎閉鎖性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10000
+805.8,S32.10XA,"脊椎閉鎖性骨折Unspecified fracture of vertebra column, closed","?骨閉鎖性骨折之初期照護Unspecified fracture of sacrum, initial encounter for closed fracture",10000
+805.8,S32.2XXA,"脊椎閉鎖性骨折Unspecified fracture of vertebra column, closed","尾骨閉鎖性骨折之初期照護Fracture of coccyx, initial encounter for closed fracture",10000
+805.9,S12.9XXA,"脊椎開放性骨折Unspecified fracture of of vertebral column, open","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10000
+805.9,S22.009B,"脊椎開放性骨折Unspecified fracture of of vertebral column, open","未明示胸椎開放性骨折之初期照護Unspecified fracture of unspecified thoracic vertebra, initial encounter for open fracture",10000
+805.9,S32.009B,"脊椎開放性骨折Unspecified fracture of of vertebral column, open","未明示腰椎開放性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for open fracture",10000
+805.9,S32.10XB,"脊椎開放性骨折Unspecified fracture of of vertebral column, open","?骨開放性骨折之初期照護Unspecified fracture of sacrum, initial encounter for open fracture",10000
+805.9,S32.2XXB,"脊椎開放性骨折Unspecified fracture of of vertebral column, open","尾骨開放性骨折之初期照護Fracture of coccyx, initial encounter for open fracture",10000
+806.01,S14.111A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第一頸椎脊髓完全損傷之初期照護Complete lesion at C1 level of cervical spinal cord, initial encounter",10111
+806.01,S14.112A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第二頸椎脊髓完全損傷之初期照護Complete lesion at C2 level of cervical spinal cord, initial encounter",10121
+806.01,S14.113A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第三頸椎脊髓完全損傷之初期照護Complete lesion at C3 level of cervical spinal cord, initial encounter",10131
+806.01,S14.114A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第四頸椎脊髓完全損傷之初期照護Complete lesion at C4 level of cervical spinal cord, initial encounter",10141
+806.02,S12.000A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第一頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.02,S12.001A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第一頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.02,S12.100A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第二頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.02,S12.101A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第二頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.02,S12.200A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第三頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.02,S12.201A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第三頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.02,S12.300A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第四頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.02,S12.301A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第四頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.02,S14.131A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第一頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C1 level of cervical spinal cord, initial encounter",10111
+806.02,S14.132A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第二頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C2 level of cervical spinal cord, initial encounter",10121
+806.02,S14.133A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第三頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C3 level of cervical spinal cord, initial encounter",10131
+806.02,S14.134A,"頸椎第1～4節閉鎖性骨折，合併脊髓前索症候群C1- C4 level fracture with anterior cord syndrome, closed","第四頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C4 level of cervical spinal cord, initial encounter",10141
+806.03,S12.000A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第一頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.03,S12.001A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第一頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.03,S12.100A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第二頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.03,S12.101A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第二頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.03,S12.200A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第三頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.03,S12.201A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第三頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.03,S12.300A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第四頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.03,S12.301A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第四頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.03,S14.121A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第一頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C1 level of cervical spinal cord, initial encounter",10111
+806.03,S14.122A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第二頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C2 level of cervical spinal cord, initial encounter",10121
+806.03,S14.123A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第三頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C3 level of cervical spinal cord, initial encounter",10131
+806.03,S14.124A,"頸椎第1～4節閉鎖性骨折，合併脊髓中樞帶症候群C1- C4 level fracture with central cord syndrome, closed","第四頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C4 level of cervical spinal cord, initial encounter",10141
+806.04,S12.000A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第一頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.04,S12.001A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第一頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.04,S12.100A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第二頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.04,S12.101A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第二頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.04,S12.200A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第三頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.04,S12.201A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第三頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.04,S12.300A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第四頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.04,S12.301A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第四頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.04,S14.151A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第一頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C1 level of cervical spinal cord, initial encounter",10111
+806.04,S14.152A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第二頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C2 level of cervical spinal cord, initial encounter",10121
+806.04,S14.153A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第三頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C3 level of cervical spinal cord, initial encounter",10131
+806.04,S14.154A,"頸椎第1～4節閉鎖性骨折，合併其他部位之脊髓損傷C1- C4 level fracture with other specified spinal cord injury, closed","第四頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C4 level of cervical spinal cord, initial encounter",10141
+806.05,S12.400A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第五頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.05,S12.401A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第五頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.05,S12.500A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第六頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.05,S12.501A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第六頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.05,S12.600A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第七頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.05,S12.601A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第七頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.05,S14.105A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第五頸椎脊髓損傷之初期照護Unspecified injury at C5 level of cervical spinal cord, initial encounter",10111
+806.05,S14.106A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第六頸椎脊髓損傷之初期照護Unspecified injury at C6 level of cervical spinal cord, initial encounter",10121
+806.05,S14.107A,"頸椎第5～7節閉鎖性骨折，合併脊髓損傷C5- C7 level fracture with unspecified spinal cord injury, closed","第七頸椎脊髓損傷之初期照護Unspecified injury at C7 level of cervical spinal cord, initial encounter",10131
+806.06,S12.400A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第五頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.06,S12.401A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第五頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.06,S12.500A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第六頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.06,S12.501A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第六頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.06,S12.600A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第七頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.06,S12.601A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第七頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.06,S14.115A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第五頸椎脊髓完全損傷之初期照護Complete lesion at C5 level of cervical spinal cord, initial encounter",10111
+806.06,S14.116A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第六頸椎脊髓完全損傷之初期照護Complete lesion at C6 level of cervical spinal cord, initial encounter",10121
+806.06,S14.117A,"頸椎第5～7節閉鎖性骨折，合併脊髓完全損傷C5- C7 level fracture with complete lesion of cord, closed","第七頸椎脊髓完全損傷之初期照護Complete lesion at C7 level of cervical spinal cord, initial encounter",10131
+806.07,S12.400A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第五頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.07,S12.401A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第五頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.07,S12.500A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第六頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.07,S12.501A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第六頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.07,S12.600A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第七頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.07,S12.601A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第七頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.07,S14.135A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第五頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C5 level of cervical spinal cord, initial encounter",10111
+806.07,S14.136A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第六頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C6 level of cervical spinal cord, initial encounter",10121
+806.07,S14.137A,"頸椎第5～7節閉鎖性骨折，合併脊髓前索症候群C5- C7 level fracture with anterior cord syndrome, closed","第七頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C7 level of cervical spinal cord, initial encounter",10131
+806.08,S12.400A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第五頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.08,S12.401A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第五頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.08,S12.500A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第六頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.08,S12.501A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第六頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.08,S12.600A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第七頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.08,S12.601A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第七頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.08,S14.125A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第五頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C5 level of cervical spinal cord, initial encounter",10111
+806.08,S14.126A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第六頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C6 level of cervical spinal cord, initial encounter",10121
+806.08,S14.127A,"頸椎第5～7節閉鎖性骨折，合併脊髓中樞帶症候群C5- C7 level fracture with central cord syndrome, closed","第七頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C7 level of cervical spinal cord, initial encounter",10131
+806.09,S12.400A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第五頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.09,S12.401A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第五頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for closed fracture",10112
+806.09,S12.500A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第六頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.09,S12.501A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第六頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for closed fracture",10122
+806.09,S12.600A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第七頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.09,S12.601A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第七頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for closed fracture",10132
+806.09,S14.155A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第五頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C5 level of cervical spinal cord, initial encounter",10111
+806.09,S14.156A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第六頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C6 level of cervical spinal cord, initial encounter",10121
+806.09,S14.157A,"頸椎第5～7節閉鎖性骨折，合併其他特定部位之脊髓受損傷C5-C7 level fracture with other specified spinal cord injury, closed","第七頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C7 level of cervical spinal cord, initial encounter",10131
+806.1,S12.000B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第一頸椎移位開放性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.1,S12.001B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第一頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.1,S12.100B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第二頸椎移位開放性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.1,S12.101B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第二頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.1,S12.200B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第三頸椎移位開放性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.1,S12.201B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第三頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.1,S12.300B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第四頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.1,S12.301B,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第四頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.1,S14.101A,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第一頸椎脊髓損傷之初期照護Unspecified injury at C1 level of cervical spinal cord, initial encounter",10111
+806.1,S14.102A,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第二頸椎脊髓損傷之初期照護Unspecified injury at C2 level of cervical spinal cord, initial encounter",10121
+806.1,S14.103A,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第三頸椎脊髓損傷之初期照護Unspecified injury at C3 level of cervical spinal cord, initial encounter",10131
+806.1,S14.104A,"頸椎第1～4節開放性骨折，合併脊髓受傷C1-C4 level fracture with unspecified spinal cord injury, open","第四頸椎脊髓損傷之初期照護Unspecified injury at C4 level of cervical spinal cord, initial encounter",10141
+806.11,S12.000B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第一頸椎移位開放性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.11,S12.001B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第一頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.11,S12.100B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第二頸椎移位開放性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.11,S12.101B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第二頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.11,S12.200B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第三頸椎移位開放性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.11,S12.201B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第三頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.11,S12.300B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第四頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.11,S12.301B,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第四頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.11,S14.111A,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第一頸椎脊髓完全損傷之初期照護Complete lesion at C1 level of cervical spinal cord, initial encounter",10111
+806.11,S14.112A,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第二頸椎脊髓完全損傷之初期照護Complete lesion at C2 level of cervical spinal cord, initial encounter",10121
+806.11,S14.113A,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第三頸椎脊髓完全損傷之初期照護Complete lesion at C3 level of cervical spinal cord, initial encounter",10131
+806.11,S14.114A,"頸椎第1～4節開放性骨折，合併脊髓完全受損C1-C4 level fracture with complete lesion of cord, open","第四頸椎脊髓完全損傷之初期照護Complete lesion at C4 level of cervical spinal cord, initial encounter",10141
+806.12,S12.000B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第一頸椎移位開放性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.12,S12.001B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第一頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.12,S12.100B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第二頸椎移位開放性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.12,S12.101B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第二頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.12,S12.200B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第三頸椎移位開放性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.12,S12.201B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第三頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.12,S12.300B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第四頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.12,S12.301B,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第四頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.12,S14.131A,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第一頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C1 level of cervical spinal cord, initial encounter",10111
+806.12,S14.132A,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第二頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C2 level of cervical spinal cord, initial encounter",10121
+806.12,S14.133A,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第三頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C3 level of cervical spinal cord, initial encounter",10131
+806.12,S14.134A,"頸椎第1～4節開放性骨折，合併脊髓前索症候群C1-C4 level fracture with anterior cord syndrome, open","第四頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C4 level of cervical spinal cord, initial encounter",10141
+806.13,S12.000B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第一頸椎移位開放性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.13,S12.001B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第一頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.13,S12.100B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第二頸椎移位開放性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.13,S12.101B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第二頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.13,S12.200B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第三頸椎移位開放性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.13,S12.201B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第三頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.13,S12.300B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第四頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.13,S12.301B,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第四頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.13,S14.121A,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第一頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C1 level of cervical spinal cord, initial encounter",10111
+806.13,S14.122A,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第二頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C2 level of cervical spinal cord, initial encounter",10121
+806.13,S14.123A,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第三頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C3 level of cervical spinal cord, initial encounter",10131
+806.13,S14.124A,"頸椎第1～4節開放性骨折，合併脊髓中樞帶症候群C1-C4 level fracture with central cord syndrome, open","第四頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C4 level of cervical spinal cord, initial encounter",10141
+806.14,S12.000B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第一頸椎移位開放性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.14,S12.001B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第一頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for open fracture",10112
+806.14,S12.100B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第二頸椎移位開放性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.14,S12.101B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第二頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for open fracture",10122
+806.14,S12.200B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第三頸椎移位開放性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.14,S12.201B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第三頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for open fracture",10132
+806.14,S12.300B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第四頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.14,S12.301B,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第四頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for open fracture",10142
+806.14,S14.151A,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第一頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C1 level of cervical spinal cord, initial encounter",10111
+806.14,S14.152A,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第二頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C2 level of cervical spinal cord, initial encounter",10121
+806.14,S14.153A,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第三頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C3 level of cervical spinal cord, initial encounter",10131
+806.14,S14.154A,"頸椎第1～4節開放性骨折，合併其他脊髓損傷C1-C4 level fracture with other specified spinal cord injury, open","第四頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C4 level of cervical spinal cord, initial encounter",10141
+806.15,S12.400B,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第五頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.15,S12.401B,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第五頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.15,S12.500B,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第六頸椎移位開放性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.15,S12.501B,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第六頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.15,S12.600B,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第七頸椎移位開放性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.15,S12.601B,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第七頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.15,S14.105A,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第五頸椎脊髓損傷之初期照護Unspecified injury at C5 level of cervical spinal cord, initial encounter",10111
+806.15,S14.106A,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第六頸椎脊髓損傷之初期照護Unspecified injury at C6 level of cervical spinal cord, initial encounter",10121
+806.15,S14.107A,"頸椎第5～7節開放性骨折，合併脊髓損傷C5-C7 level fracture with unspecified spinal cord injury, open","第七頸椎脊髓損傷之初期照護Unspecified injury at C7 level of cervical spinal cord, initial encounter",10131
+806.16,S12.400B,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第五頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.16,S12.401B,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第五頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.16,S12.500B,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第六頸椎移位開放性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.16,S12.501B,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第六頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.16,S12.600B,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第七頸椎移位開放性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.16,S12.601B,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第七頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.16,S14.115A,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第五頸椎脊髓完全損傷之初期照護Complete lesion at C5 level of cervical spinal cord, initial encounter",10111
+806.16,S14.116A,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第六頸椎脊髓完全損傷之初期照護Complete lesion at C6 level of cervical spinal cord, initial encounter",10121
+806.16,S14.117A,"頸椎第5～7節開放性骨折，合併髓部完全受損C5-C7 level fracture with complete lesion of cord, open","第七頸椎脊髓完全損傷之初期照護Complete lesion at C7 level of cervical spinal cord, initial encounter",10131
+806.17,S12.400B,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第五頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.17,S12.401B,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第五頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.17,S12.500B,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第六頸椎移位開放性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.17,S12.501B,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第六頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.17,S12.600B,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第七頸椎移位開放性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.17,S12.601B,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第七頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.17,S14.135A,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第五頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C5 level of cervical spinal cord, initial encounter",10111
+806.17,S14.136A,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第六頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C6 level of cervical spinal cord, initial encounter",10121
+806.17,S14.137A,"頸椎第5～7節開放性骨折，合併脊髓前索症候群C5-C7 level fracture with anterior cord syndrome, open","第七頸椎脊髓前索症候群（Anterior cord syndrome ）之初期照護Anterior cord syndrome at C7 level of cervical spinal cord, initial encounter",10131
+806.18,S12.400B,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第五頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.18,S12.401B,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第五頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.18,S12.500B,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第六頸椎移位開放性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.18,S12.501B,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第六頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.18,S12.600B,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第七頸椎移位開放性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.18,S12.601B,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第七頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.18,S14.125A,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第五頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C5 level of cervical spinal cord, initial encounter",10111
+806.18,S14.126A,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第六頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C6 level of cervical spinal cord, initial encounter",10121
+806.18,S14.127A,"頸椎第5～7節開放性骨折，合併脊髓中樞帶症候群C5-C7 level fracture with central cord syndrome, open","第七頸椎中心脊髓症候群 （Central cord syndrome）之初期照護Central cord syndrome at C7 level of cervical spinal cord, initial encounter",10131
+806.19,S12.400B,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第五頸椎移位開放性骨折之初期照護Unspecified displaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.19,S12.401B,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第五頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of fifth cervical vertebra, initial encounter for open fracture",10112
+806.19,S12.500B,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第六頸椎移位開放性骨折之初期照護Unspecified displaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.19,S12.501B,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第六頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of sixth cervical vertebra, initial encounter for open fracture",10122
+806.19,S12.600B,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第七頸椎移位開放性骨折之初期照護Unspecified displaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.19,S12.601B,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第七頸椎非移位開放性骨折之初期照護Unspecified nondisplaced fracture of seventh cervical vertebra, initial encounter for open fracture",10132
+806.19,S14.155A,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第五頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C5 level of cervical spinal cord, initial encounter",10111
+806.19,S14.156A,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第六頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C6 level of cervical spinal cord, initial encounter",10121
+806.19,S14.157A,"頸椎第5～7節開放性骨折，合併其他脊髓損傷C5-C7 level fracture with other specified spinal cord injury, open","第七頸椎脊髓不完全損傷 之初期照護Other incomplete lesion at C7 level of cervical spinal cord, initial encounter",10131
+806.2,S22.019A,"胸椎1～6節閉鎖性骨折，合併脊髓損傷T1-T6 level fracture with unspecified spinal cord injury, closed","第1胸椎閉鎖性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",10112
+806.2,S22.029A,"胸椎1～6節閉鎖性骨折，合併脊髓損傷T1-T6 level fracture with unspecified spinal cord injury, closed","第2胸椎閉鎖性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for closed fracture",10122
+806.2,S22.039A,"胸椎1～6節閉鎖性骨折，合併脊髓損傷T1-T6 level fracture with unspecified spinal cord injury, closed","第3胸椎閉鎖性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for closed fracture",10122
+806.2,S22.049A,"胸椎1～6節閉鎖性骨折，合併脊髓損傷T1-T6 level fracture with unspecified spinal cord injury, closed","第4胸椎閉鎖性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",10122
+806.2,S22.059A,"胸椎1～6節閉鎖性骨折，合併脊髓損傷T1-T6 level fracture with unspecified spinal cord injury, closed","第5-6胸椎閉鎖性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",10122
+806.2,S24.101A,"胸椎1～6節閉鎖性骨折，合併脊髓損傷T1-T6 level fracture with unspecified spinal cord injury, closed","第1胸脊髓損傷之初期照護Unspecified injury at T1 level of thoracic spinal cord, initial encounter",10111
+806.2,S24.102A,"胸椎1～6節閉鎖性骨折，合併脊髓損傷T1-T6 level fracture with unspecified spinal cord injury, closed","第2-6胸脊髓損傷之初期照護Unspecified injury at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.21,S22.019A,"胸椎1～6節閉鎖性骨折，合併脊髓完全損傷T1- T6 level fracture with complete lesion of cord, closed","第1胸椎閉鎖性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",10112
+806.21,S22.029A,"胸椎1～6節閉鎖性骨折，合併脊髓完全損傷T1- T6 level fracture with complete lesion of cord, closed","第2胸椎閉鎖性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for closed fracture",10122
+806.21,S22.039A,"胸椎1～6節閉鎖性骨折，合併脊髓完全損傷T1- T6 level fracture with complete lesion of cord, closed","第3胸椎閉鎖性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for closed fracture",10122
+806.21,S22.049A,"胸椎1～6節閉鎖性骨折，合併脊髓完全損傷T1- T6 level fracture with complete lesion of cord, closed","第4胸椎閉鎖性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",10122
+806.21,S22.059A,"胸椎1～6節閉鎖性骨折，合併脊髓完全損傷T1- T6 level fracture with complete lesion of cord, closed","第5-6胸椎閉鎖性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",10122
+806.21,S24.111A,"胸椎1～6節閉鎖性骨折，合併脊髓完全損傷T1- T6 level fracture with complete lesion of cord, closed","第1胸脊髓完全損傷之初期照護Complete lesion at T1 level of thoracic spinal cord, initial encounter",10111
+806.21,S24.112A,"胸椎1～6節閉鎖性骨折，合併脊髓完全損傷T1- T6 level fracture with complete lesion of cord, closed","第2-6胸脊髓完全損傷之初期照護Complete lesion at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.22,S22.019A,"胸椎1～6節閉鎖性骨折，合併脊髓前索症候群T1-T6 level fracture with anterior cord syndrome, closed","第1胸椎閉鎖性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",10112
+806.22,S22.029A,"胸椎1～6節閉鎖性骨折，合併脊髓前索症候群T1-T6 level fracture with anterior cord syndrome, closed","第2胸椎閉鎖性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for closed fracture",10122
+806.22,S22.039A,"胸椎1～6節閉鎖性骨折，合併脊髓前索症候群T1-T6 level fracture with anterior cord syndrome, closed","第3胸椎閉鎖性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for closed fracture",10122
+806.22,S22.049A,"胸椎1～6節閉鎖性骨折，合併脊髓前索症候群T1-T6 level fracture with anterior cord syndrome, closed","第4胸椎閉鎖性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",10122
+806.22,S22.059A,"胸椎1～6節閉鎖性骨折，合併脊髓前索症候群T1-T6 level fracture with anterior cord syndrome, closed","第5-6胸椎閉鎖性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",10122
+806.22,S24.131A,"胸椎1～6節閉鎖性骨折，合併脊髓前索症候群T1-T6 level fracture with anterior cord syndrome, closed","第1胸椎間前脊索症候群之初期照護Anterior cord syndrome at T1 level of thoracic spinal cord, initial encounter",10111
+806.22,S24.132A,"胸椎1～6節閉鎖性骨折，合併脊髓前索症候群T1-T6 level fracture with anterior cord syndrome, closed","第2-6胸椎間前脊索症候群之初期照護Anterior cord syndrome at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.23,S22.019A,"胸椎1～6節閉鎖性骨折，合併脊髓中樞帶症候群T1-T6 level fracture with central cord syndrome, closed","第1胸椎閉鎖性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",10112
+806.23,S22.029A,"胸椎1～6節閉鎖性骨折，合併脊髓中樞帶症候群T1-T6 level fracture with central cord syndrome, closed","第2胸椎閉鎖性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for closed fracture",10122
+806.23,S22.039A,"胸椎1～6節閉鎖性骨折，合併脊髓中樞帶症候群T1-T6 level fracture with central cord syndrome, closed","第3胸椎閉鎖性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for closed fracture",10122
+806.23,S22.049A,"胸椎1～6節閉鎖性骨折，合併脊髓中樞帶症候群T1-T6 level fracture with central cord syndrome, closed","第4胸椎閉鎖性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",10122
+806.23,S22.059A,"胸椎1～6節閉鎖性骨折，合併脊髓中樞帶症候群T1-T6 level fracture with central cord syndrome, closed","第5-6胸椎閉鎖性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",10122
+806.23,S24.151A,"胸椎1～6節閉鎖性骨折，合併脊髓中樞帶症候群T1-T6 level fracture with central cord syndrome, closed","第1胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T1 level of thoracic spinal cord, initial encounter",10111
+806.23,S24.152A,"胸椎1～6節閉鎖性骨折，合併脊髓中樞帶症候群T1-T6 level fracture with central cord syndrome, closed","第2-6胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.24,S22.019A,"胸椎1～6節閉鎖性骨折，合併其他脊髓損傷T1-T6 level fracture with other specified spinal cord injury, closed","第1胸椎閉鎖性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",10112
+806.24,S22.029A,"胸椎1～6節閉鎖性骨折，合併其他脊髓損傷T1-T6 level fracture with other specified spinal cord injury, closed","第2胸椎閉鎖性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for closed fracture",10122
+806.24,S22.039A,"胸椎1～6節閉鎖性骨折，合併其他脊髓損傷T1-T6 level fracture with other specified spinal cord injury, closed","第3胸椎閉鎖性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for closed fracture",10122
+806.24,S22.049A,"胸椎1～6節閉鎖性骨折，合併其他脊髓損傷T1-T6 level fracture with other specified spinal cord injury, closed","第4胸椎閉鎖性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",10122
+806.24,S22.059A,"胸椎1～6節閉鎖性骨折，合併其他脊髓損傷T1-T6 level fracture with other specified spinal cord injury, closed","第5-6胸椎閉鎖性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",10122
+806.24,S24.151A,"胸椎1～6節閉鎖性骨折，合併其他脊髓損傷T1-T6 level fracture with other specified spinal cord injury, closed","第1胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T1 level of thoracic spinal cord, initial encounter",10111
+806.24,S24.152A,"胸椎1～6節閉鎖性骨折，合併其他脊髓損傷T1-T6 level fracture with other specified spinal cord injury, closed","第2-6胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.25,S22.069A,"胸椎7～12 節閉鎖性骨折，合併脊髓損傷T7-T12 level fracture with unspecified spinal cord injury, closed","第7-8胸椎閉鎖性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",10112
+806.25,S22.079A,"胸椎7～12 節閉鎖性骨折，合併脊髓損傷T7-T12 level fracture with unspecified spinal cord injury, closed","第9-10胸椎閉鎖性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for closed fracture",10112
+806.25,S22.089A,"胸椎7～12 節閉鎖性骨折，合併脊髓損傷T7-T12 level fracture with unspecified spinal cord injury, closed","第11-12胸椎閉鎖性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture",10122
+806.25,S24.103A,"胸椎7～12 節閉鎖性骨折，合併脊髓損傷T7-T12 level fracture with unspecified spinal cord injury, closed","第7-10胸脊髓損傷之初期照護Unspecified injury at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.25,S24.104A,"胸椎7～12 節閉鎖性骨折，合併脊髓損傷T7-T12 level fracture with unspecified spinal cord injury, closed","第11-12胸脊髓損傷之初期照護Unspecified injury at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.26,S22.069A,"胸椎7～12 節閉鎖性骨折，合併脊髓完全損傷T7- T12 level fracture with complete lesion of cord, closed","第7-8胸椎閉鎖性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",10112
+806.26,S22.079A,"胸椎7～12 節閉鎖性骨折，合併脊髓完全損傷T7- T12 level fracture with complete lesion of cord, closed","第9-10胸椎閉鎖性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for closed fracture",10112
+806.26,S22.089A,"胸椎7～12 節閉鎖性骨折，合併脊髓完全損傷T7- T12 level fracture with complete lesion of cord, closed","第11-12胸椎閉鎖性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture",10122
+806.26,S24.113A,"胸椎7～12 節閉鎖性骨折，合併脊髓完全損傷T7- T12 level fracture with complete lesion of cord, closed","第7-10胸脊髓完全損傷之初期照護Complete lesion at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.26,S24.114A,"胸椎7～12 節閉鎖性骨折，合併脊髓完全損傷T7- T12 level fracture with complete lesion of cord, closed","第11-12胸脊髓完全損傷之初期照護Complete lesion at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.27,S22.069A,"胸椎7～12 節閉鎖性骨折，合併脊髓前索症候群，T7- T12 level fracture with anterior cord syndrome, closed","第7-8胸椎閉鎖性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",10112
+806.27,S22.079A,"胸椎7～12 節閉鎖性骨折，合併脊髓前索症候群，T7- T12 level fracture with anterior cord syndrome, closed","第9-10胸椎閉鎖性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for closed fracture",10112
+806.27,S22.089A,"胸椎7～12 節閉鎖性骨折，合併脊髓前索症候群，T7- T12 level fracture with anterior cord syndrome, closed","第11-12胸椎閉鎖性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture",10122
+806.27,S24.133A,"胸椎7～12 節閉鎖性骨折，合併脊髓前索症候群，T7- T12 level fracture with anterior cord syndrome, closed","第7-10胸椎間前脊索症候群之初期照護Anterior cord syndrome at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.27,S24.134A,"胸椎7～12 節閉鎖性骨折，合併脊髓前索症候群，T7- T12 level fracture with anterior cord syndrome, closed","第11-12胸椎節前脊索症候群之初期照護Anterior cord syndrome at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.28,S22.069A,"胸椎7～12 節閉鎖性骨折，合併脊髓中樞帶症候群T7- T12 level fracture with central cord syndrome, closed","第7-8胸椎閉鎖性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",10112
+806.28,S22.079A,"胸椎7～12 節閉鎖性骨折，合併脊髓中樞帶症候群T7- T12 level fracture with central cord syndrome, closed","第9-10胸椎閉鎖性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for closed fracture",10112
+806.28,S22.089A,"胸椎7～12 節閉鎖性骨折，合併脊髓中樞帶症候群T7- T12 level fracture with central cord syndrome, closed","第11-12胸椎閉鎖性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture",10122
+806.28,S24.153A,"胸椎7～12 節閉鎖性骨折，合併脊髓中樞帶症候群T7- T12 level fracture with central cord syndrome, closed","第7-10胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.28,S24.154A,"胸椎7～12 節閉鎖性骨折，合併脊髓中樞帶症候群T7- T12 level fracture with central cord syndrome, closed","第11-12胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.29,S22.069A,"胸椎7～12 節閉鎖性骨折，合併其他脊髓損傷T7- T12 level fracture with other specified spinal cord injury, closed","第7-8胸椎閉鎖性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",10112
+806.29,S22.079A,"胸椎7～12 節閉鎖性骨折，合併其他脊髓損傷T7- T12 level fracture with other specified spinal cord injury, closed","第9-10胸椎閉鎖性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for closed fracture",10112
+806.29,S22.089A,"胸椎7～12 節閉鎖性骨折，合併其他脊髓損傷T7- T12 level fracture with other specified spinal cord injury, closed","第11-12胸椎閉鎖性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for closed fracture",10122
+806.29,S24.153A,"胸椎7～12 節閉鎖性骨折，合併其他脊髓損傷T7- T12 level fracture with other specified spinal cord injury, closed","第7-10胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.29,S24.154A,"胸椎7～12 節閉鎖性骨折，合併其他脊髓損傷T7- T12 level fracture with other specified spinal cord injury, closed","第11-12胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.3,S22.019B,"胸椎1～6節開放性骨折，合併脊髓損傷T1-t6 level fracture with unspecified spinal cord injury, open","第1胸椎開放性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for open fracture",10112
+806.3,S22.029B,"胸椎1～6節開放性骨折，合併脊髓損傷T1-t6 level fracture with unspecified spinal cord injury, open","第2胸椎開放性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for open fracture",10122
+806.3,S22.039B,"胸椎1～6節開放性骨折，合併脊髓損傷T1-t6 level fracture with unspecified spinal cord injury, open","第3胸椎開放性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for open fracture",10122
+806.3,S22.049B,"胸椎1～6節開放性骨折，合併脊髓損傷T1-t6 level fracture with unspecified spinal cord injury, open","第4胸椎開放性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for open fracture",10122
+806.3,S22.059B,"胸椎1～6節開放性骨折，合併脊髓損傷T1-t6 level fracture with unspecified spinal cord injury, open","第5-6胸椎開放性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for open fracture",10122
+806.3,S24.101A,"胸椎1～6節開放性骨折，合併脊髓損傷T1-t6 level fracture with unspecified spinal cord injury, open","第1胸脊髓損傷之初期照護Unspecified injury at T1 level of thoracic spinal cord, initial encounter",10111
+806.3,S24.102A,"胸椎1～6節開放性骨折，合併脊髓損傷T1-t6 level fracture with unspecified spinal cord injury, open","第2-6胸脊髓損傷之初期照護Unspecified injury at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.31,S22.019B,"胸椎1～6節開放性骨折，合併脊髓完全損傷T1-t6 level fracture with complete lesion of cord, open","第1胸椎開放性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for open fracture",10112
+806.31,S22.029B,"胸椎1～6節開放性骨折，合併脊髓完全損傷T1-t6 level fracture with complete lesion of cord, open","第2胸椎開放性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for open fracture",10122
+806.31,S22.039B,"胸椎1～6節開放性骨折，合併脊髓完全損傷T1-t6 level fracture with complete lesion of cord, open","第3胸椎開放性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for open fracture",10122
+806.31,S22.049B,"胸椎1～6節開放性骨折，合併脊髓完全損傷T1-t6 level fracture with complete lesion of cord, open","第4胸椎開放性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for open fracture",10122
+806.31,S22.059B,"胸椎1～6節開放性骨折，合併脊髓完全損傷T1-t6 level fracture with complete lesion of cord, open","第5-6胸椎開放性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for open fracture",10122
+806.31,S24.111A,"胸椎1～6節開放性骨折，合併脊髓完全損傷T1-t6 level fracture with complete lesion of cord, open","第1胸脊髓完全損傷之初期照護Complete lesion at T1 level of thoracic spinal cord, initial encounter",10111
+806.31,S24.112A,"胸椎1～6節開放性骨折，合併脊髓完全損傷T1-t6 level fracture with complete lesion of cord, open","第2-6胸脊髓完全損傷之初期照護Complete lesion at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.32,S22.019B,"胸椎1～6節開放性骨折，合併脊髓前索症候群T1-t6 level fracture with anterior cord syndrome, open","第1胸椎開放性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for open fracture",10112
+806.32,S22.029B,"胸椎1～6節開放性骨折，合併脊髓前索症候群T1-t6 level fracture with anterior cord syndrome, open","第2胸椎開放性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for open fracture",10122
+806.32,S22.039B,"胸椎1～6節開放性骨折，合併脊髓前索症候群T1-t6 level fracture with anterior cord syndrome, open","第3胸椎開放性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for open fracture",10122
+806.32,S22.049B,"胸椎1～6節開放性骨折，合併脊髓前索症候群T1-t6 level fracture with anterior cord syndrome, open","第4胸椎開放性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for open fracture",10122
+806.32,S22.059B,"胸椎1～6節開放性骨折，合併脊髓前索症候群T1-t6 level fracture with anterior cord syndrome, open","第5-6胸椎開放性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for open fracture",10122
+806.32,S24.131A,"胸椎1～6節開放性骨折，合併脊髓前索症候群T1-t6 level fracture with anterior cord syndrome, open","第1胸椎間前脊索症候群之初期照護Anterior cord syndrome at T1 level of thoracic spinal cord, initial encounter",10111
+806.32,S24.132A,"胸椎1～6節開放性骨折，合併脊髓前索症候群T1-t6 level fracture with anterior cord syndrome, open","第2-6胸椎間前脊索症候群之初期照護Anterior cord syndrome at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.33,S22.019B,"胸椎1～6節開放性骨折，合併中樞帶症候群T1-t6 level fracture with central cord syndrome, open","第1胸椎開放性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for open fracture",10112
+806.33,S22.029B,"胸椎1～6節開放性骨折，合併中樞帶症候群T1-t6 level fracture with central cord syndrome, open","第2胸椎開放性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for open fracture",10122
+806.33,S22.039B,"胸椎1～6節開放性骨折，合併中樞帶症候群T1-t6 level fracture with central cord syndrome, open","第3胸椎開放性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for open fracture",10122
+806.33,S22.049B,"胸椎1～6節開放性骨折，合併中樞帶症候群T1-t6 level fracture with central cord syndrome, open","第4胸椎開放性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for open fracture",10122
+806.33,S22.059B,"胸椎1～6節開放性骨折，合併中樞帶症候群T1-t6 level fracture with central cord syndrome, open","第5-6胸椎開放性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for open fracture",10122
+806.33,S24.151A,"胸椎1～6節開放性骨折，合併中樞帶症候群T1-t6 level fracture with central cord syndrome, open","第1胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T1 level of thoracic spinal cord, initial encounter",10111
+806.33,S24.152A,"胸椎1～6節開放性骨折，合併中樞帶症候群T1-t6 level fracture with central cord syndrome, open","第2-6胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.34,S22.019B,"胸椎1～6節開放性骨折，合併其他脊髓損傷T1-t6 level fracture with other specified spinal cord injury, open","第1胸椎開放性骨折之初期照護Unspecified fracture of first thoracic vertebra, initial encounter for open fracture",10112
+806.34,S22.029B,"胸椎1～6節開放性骨折，合併其他脊髓損傷T1-t6 level fracture with other specified spinal cord injury, open","第2胸椎開放性骨折之初期照護Unspecified fracture of second thoracic vertebra, initial encounter for open fracture",10122
+806.34,S22.039B,"胸椎1～6節開放性骨折，合併其他脊髓損傷T1-t6 level fracture with other specified spinal cord injury, open","第3胸椎開放性骨折之初期照護Unspecified fracture of third thoracic vertebra, initial encounter for open fracture",10122
+806.34,S22.049B,"胸椎1～6節開放性骨折，合併其他脊髓損傷T1-t6 level fracture with other specified spinal cord injury, open","第4胸椎開放性骨折之初期照護Unspecified fracture of fourth thoracic vertebra, initial encounter for open fracture",10122
+806.34,S22.059B,"胸椎1～6節開放性骨折，合併其他脊髓損傷T1-t6 level fracture with other specified spinal cord injury, open","第5-6胸椎開放性骨折之初期照護Unspecified fracture of T5-T6 vertebra, initial encounter for open fracture",10122
+806.34,S24.151A,"胸椎1～6節開放性骨折，合併其他脊髓損傷T1-t6 level fracture with other specified spinal cord injury, open","第1胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T1 level of thoracic spinal cord, initial encounter",10111
+806.34,S24.152A,"胸椎1～6節開放性骨折，合併其他脊髓損傷T1-t6 level fracture with other specified spinal cord injury, open","第2-6胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T2-T6 level of thoracic spinal cord, initial encounter",10121
+806.35,S22.069B,"胸椎7～12 節開放性骨折，合併脊髓損傷T7-t12 level fracture with unspecified spinal cord injury, open","第7-8胸椎開放性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for open fracture",10112
+806.35,S22.079B,"胸椎7～12 節開放性骨折，合併脊髓損傷T7-t12 level fracture with unspecified spinal cord injury, open","第9-10胸椎開放性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for open fracture",10112
+806.35,S22.089B,"胸椎7～12 節開放性骨折，合併脊髓損傷T7-t12 level fracture with unspecified spinal cord injury, open","第11-12胸椎開放性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for open fracture",10122
+806.35,S24.103A,"胸椎7～12 節開放性骨折，合併脊髓損傷T7-t12 level fracture with unspecified spinal cord injury, open","第7-10胸脊髓損傷之初期照護Unspecified injury at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.35,S24.104A,"胸椎7～12 節開放性骨折，合併脊髓損傷T7-t12 level fracture with unspecified spinal cord injury, open","第11-12胸脊髓損傷之初期照護Unspecified injury at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.36,S22.069B,"胸椎7～12 節開放性骨折，合併脊髓完全損傷T7-t12 level fracture with complete lesion of cord, open","第7-8胸椎開放性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for open fracture",10112
+806.36,S22.079B,"胸椎7～12 節開放性骨折，合併脊髓完全損傷T7-t12 level fracture with complete lesion of cord, open","第9-10胸椎開放性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for open fracture",10112
+806.36,S22.089B,"胸椎7～12 節開放性骨折，合併脊髓完全損傷T7-t12 level fracture with complete lesion of cord, open","第11-12胸椎開放性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for open fracture",10122
+806.36,S24.113A,"胸椎7～12 節開放性骨折，合併脊髓完全損傷T7-t12 level fracture with complete lesion of cord, open","第7-10胸脊髓完全損傷之初期照護Complete lesion at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.36,S24.114A,"胸椎7～12 節開放性骨折，合併脊髓完全損傷T7-t12 level fracture with complete lesion of cord, open","第11-12胸脊髓完全損傷之初期照護Complete lesion at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.37,S22.069B,"胸椎7～12 節開放性骨折，合併脊髓前索症候群T7-t12 level fracture with anterior cord syndrome, open","第7-8胸椎開放性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for open fracture",10112
+806.37,S22.079B,"胸椎7～12 節開放性骨折，合併脊髓前索症候群T7-t12 level fracture with anterior cord syndrome, open","第9-10胸椎開放性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for open fracture",10112
+806.37,S22.089B,"胸椎7～12 節開放性骨折，合併脊髓前索症候群T7-t12 level fracture with anterior cord syndrome, open","第11-12胸椎開放性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for open fracture",10122
+806.37,S24.133A,"胸椎7～12 節開放性骨折，合併脊髓前索症候群T7-t12 level fracture with anterior cord syndrome, open","第7-10胸椎間前脊索症候群之初期照護Anterior cord syndrome at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.37,S24.134A,"胸椎7～12 節開放性骨折，合併脊髓前索症候群T7-t12 level fracture with anterior cord syndrome, open","第11-12胸椎節前脊索症候群之初期照護Anterior cord syndrome at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.38,S22.069B,"胸椎7～12 節開放性骨折，合併脊髓中樞帶症候群T7-t12 level fracture with central cord syndrome, open","第7-8胸椎開放性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for open fracture",10112
+806.38,S22.079B,"胸椎7～12 節開放性骨折，合併脊髓中樞帶症候群T7-t12 level fracture with central cord syndrome, open","第9-10胸椎開放性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for open fracture",10112
+806.38,S22.089B,"胸椎7～12 節開放性骨折，合併脊髓中樞帶症候群T7-t12 level fracture with central cord syndrome, open","第11-12胸椎開放性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for open fracture",10122
+806.38,S24.153A,"胸椎7～12 節開放性骨折，合併脊髓中樞帶症候群T7-t12 level fracture with central cord syndrome, open","第7-10胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.38,S24.154A,"胸椎7～12 節開放性骨折，合併脊髓中樞帶症候群T7-t12 level fracture with central cord syndrome, open","第11-12胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.39,S22.069B,"胸椎7～12 節開放性骨折，合併其他脊髓損傷T7-t12 level fracture with other specified spinal cord injury, open","第7-8胸椎開放性骨折之初期照護Unspecified fracture of T7-T8 vertebra, initial encounter for open fracture",10112
+806.39,S22.079B,"胸椎7～12 節開放性骨折，合併其他脊髓損傷T7-t12 level fracture with other specified spinal cord injury, open","第9-10胸椎開放性骨折之初期照護Unspecified fracture of T9-T10 vertebra, initial encounter for open fracture",10112
+806.39,S22.089B,"胸椎7～12 節開放性骨折，合併其他脊髓損傷T7-t12 level fracture with other specified spinal cord injury, open","第11-12胸椎開放性骨折之初期照護Unspecified fracture of T11-T12 vertebra, initial encounter for open fracture",10122
+806.39,S24.153A,"胸椎7～12 節開放性骨折，合併其他脊髓損傷T7-t12 level fracture with other specified spinal cord injury, open","第7-10胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T7-T10 level of thoracic spinal cord, initial encounter",10111
+806.39,S24.154A,"胸椎7～12 節開放性骨折，合併其他脊髓損傷T7-t12 level fracture with other specified spinal cord injury, open","第11-12胸脊髓其他不完全損傷之初期照護Other incomplete lesion at T11-T12 level of thoracic spinal cord, initial encounter",10121
+806.4,S32.009A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","未明示腰椎閉鎖性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10112
+806.4,S32.019A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","第一腰椎閉鎖性骨折之初期照護Unspecified fracture of first lumbar vertebra, initial encounter for closed fracture",10122
+806.4,S32.029A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","第二腰椎閉鎖性骨折之初期照護Unspecified fracture of second lumbar vertebra, initial encounter for closed fracture",10132
+806.4,S32.039A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","第三腰椎閉鎖性骨折之初期照護Unspecified fracture of third lumbar vertebra, initial encounter for closed fracture",10142
+806.4,S32.049A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","第四腰椎閉鎖性骨折之初期照護Unspecified fracture of fourth lumbar vertebra, initial encounter for closed fracture",10152
+806.4,S32.059A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","第五腰椎閉鎖性骨折之初期照護Unspecified fracture of fifth lumbar vertebra, initial encounter for closed fracture",10162
+806.4,S34.101A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第一節脊髓損傷之初期照護Unspecified injury to L1 level of lumbar spinal cord, initial encounter",10121
+806.4,S34.102A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第二節脊髓損傷之初期照護Unspecified injury to L2 level of lumbar spinal cord, initial encounter",10131
+806.4,S34.103A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第三節脊髓損傷之初期照護Unspecified injury to L3 level of lumbar spinal cord, initial encounter",10141
+806.4,S34.104A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第四節脊髓損傷之初期照護Unspecified injury to L4 level of lumbar spinal cord, initial encounter",10151
+806.4,S34.105A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第五節脊髓損傷之初期照護Unspecified injury to L5 level of lumbar spinal cord, initial encounter",10161
+806.4,S34.109A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","未明示部位腰椎脊髓損傷之初期照護Unspecified injury to unspecified level of lumbar spinal cord, initial encounter",10111
+806.4,S34.111A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第一節完全性的脊髓損傷之初期照護Complete lesion of L1 level of lumbar spinal cord, initial encounter",10121
+806.4,S34.112A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第二節完全性的脊髓損傷之初期照護Complete lesion of L2 level of lumbar spinal cord, initial encounter",10131
+806.4,S34.113A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第三節完全性的脊髓損傷之初期照護Complete lesion of L3 level of lumbar spinal cord, initial encounter",10141
+806.4,S34.114A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第四節完全性的脊髓損傷之初期照護Complete lesion of L4 level of lumbar spinal cord, initial encounter",10151
+806.4,S34.115A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第五節完全性的脊髓損傷之初期照護Complete lesion of L5 level of lumbar spinal cord, initial encounter",10161
+806.4,S34.119A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","未明示部位腰椎完全性脊髓損傷之初期照護Complete lesion of unspecified level of lumbar spinal cord, initial encounter",10111
+806.4,S34.121A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第一節不完全性的脊髓損傷之初期照護Incomplete lesion of L1 level of lumbar spinal cord, initial encounter",10121
+806.4,S34.122A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第二節不完全性的脊髓損傷之初期照護Incomplete lesion of L2 level of lumbar spinal cord, initial encounter",10131
+806.4,S34.123A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第三節不完全性的脊髓損傷之初期照護Incomplete lesion of L3 level of lumbar spinal cord, initial encounter",10141
+806.4,S34.124A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第四節不完全性的脊髓損傷之初期照護Incomplete lesion of L4 level of lumbar spinal cord, initial encounter",10151
+806.4,S34.125A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","腰椎第五節不完全性的脊髓損傷之初期照護Incomplete lesion of L5 level of lumbar spinal cord, initial encounter",10161
+806.4,S34.129A,"腰椎閉鎖性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, closed","未明示部位腰椎不完全性的脊髓損傷之初期照護Incomplete lesion of unspecified level of lumbar spinal cord, initial encounter",10111
+806.5,S32.009B,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","未明示腰椎開放性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for open fracture",10112
+806.5,S32.019B,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","第一腰椎開放性骨折之初期照護Unspecified fracture of first lumbar vertebra, initial encounter for open fracture",10122
+806.5,S32.029B,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","第二腰椎開放性骨折之初期照護Unspecified fracture of second lumbar vertebra, initial encounter for open fracture",10132
+806.5,S32.039B,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","第三腰椎開放性骨折之初期照護Unspecified fracture of third lumbar vertebra, initial encounter for open fracture",10142
+806.5,S32.049B,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","第四腰椎開放性骨折之初期照護Unspecified fracture of fourth lumbar vertebra, initial encounter for open fracture",10152
+806.5,S32.059B,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","第五腰椎開放性骨折之初期照護Unspecified fracture of fifth lumbar vertebra, initial encounter for open fracture",10162
+806.5,S34.101A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第一節脊髓損傷之初期照護Unspecified injury to L1 level of lumbar spinal cord, initial encounter",10121
+806.5,S34.102A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第二節脊髓損傷之初期照護Unspecified injury to L2 level of lumbar spinal cord, initial encounter",10131
+806.5,S34.103A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第三節脊髓損傷之初期照護Unspecified injury to L3 level of lumbar spinal cord, initial encounter",10141
+806.5,S34.104A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第四節脊髓損傷之初期照護Unspecified injury to L4 level of lumbar spinal cord, initial encounter",10151
+806.5,S34.105A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第五節脊髓損傷之初期照護Unspecified injury to L5 level of lumbar spinal cord, initial encounter",10161
+806.5,S34.109A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","未明示部位腰椎脊髓損傷之初期照護Unspecified injury to unspecified level of lumbar spinal cord, initial encounter",10111
+806.5,S34.111A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第一節完全性的脊髓損傷之初期照護Complete lesion of L1 level of lumbar spinal cord, initial encounter",10121
+806.5,S34.112A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第二節完全性的脊髓損傷之初期照護Complete lesion of L2 level of lumbar spinal cord, initial encounter",10131
+806.5,S34.113A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第三節完全性的脊髓損傷之初期照護Complete lesion of L3 level of lumbar spinal cord, initial encounter",10141
+806.5,S34.114A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第四節完全性的脊髓損傷之初期照護Complete lesion of L4 level of lumbar spinal cord, initial encounter",10151
+806.5,S34.115A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第五節完全性的脊髓損傷之初期照護Complete lesion of L5 level of lumbar spinal cord, initial encounter",10161
+806.5,S34.119A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","未明示部位腰椎完全性脊髓損傷之初期照護Complete lesion of unspecified level of lumbar spinal cord, initial encounter",10111
+806.5,S34.121A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第一節不完全性的脊髓損傷之初期照護Incomplete lesion of L1 level of lumbar spinal cord, initial encounter",10121
+806.5,S34.122A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第二節不完全性的脊髓損傷之初期照護Incomplete lesion of L2 level of lumbar spinal cord, initial encounter",10131
+806.5,S34.123A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第三節不完全性的脊髓損傷之初期照護Incomplete lesion of L3 level of lumbar spinal cord, initial encounter",10141
+806.5,S34.124A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第四節不完全性的脊髓損傷之初期照護Incomplete lesion of L4 level of lumbar spinal cord, initial encounter",10151
+806.5,S34.125A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","腰椎第五節不完全性的脊髓損傷之初期照護Incomplete lesion of L5 level of lumbar spinal cord, initial encounter",10161
+806.5,S34.129A,"腰椎開放性骨折，伴有脊髓損傷Fracture of lumbar with spinal cord injury, open","未明示部位腰椎不完全性的脊髓損傷之初期照護Incomplete lesion of unspecified level of lumbar spinal cord, initial encounter",10111
+806.6,S32.10XA,"胝骨及尾骨閉鎖性骨折，合併脊髓損傷Fracture of sacrum and coccyx with spinal cord injury, closed","?骨閉鎖性骨折之初期照護Unspecified fracture of sacrum, initial encounter for closed fracture",10112
+806.6,S32.2XXA,"胝骨及尾骨閉鎖性骨折，合併脊髓損傷Fracture of sacrum and coccyx with spinal cord injury, closed","尾骨閉鎖性骨折之初期照護Fracture of coccyx, initial encounter for closed fracture",10112
+806.6,S34.139A,"胝骨及尾骨閉鎖性骨折，合併脊髓損傷Fracture of sacrum and coccyx with spinal cord injury, closed","薦椎脊髓損傷之初期照護Unspecified injury to sacral spinal cord, initial encounter",10111
+806.61,S32.10XA,"胝骨及尾骨閉鎖性骨折，合併脊髓馬尾完全損傷，Fracture of sacrum and coccyx with complete cauda equina lesion,closed","?骨閉鎖性骨折之初期照護Unspecified fracture of sacrum, initial encounter for closed fracture",10112
+806.61,S32.2XXA,"胝骨及尾骨閉鎖性骨折，合併脊髓馬尾完全損傷，Fracture of sacrum and coccyx with complete cauda equina lesion,closed","尾骨閉鎖性骨折之初期照護Fracture of coccyx, initial encounter for closed fracture",10112
+806.61,S34.3XXA,"胝骨及尾骨閉鎖性骨折，合併脊髓馬尾完全損傷，Fracture of sacrum and coccyx with complete cauda equina lesion,closed","脊髓馬尾損傷之初期照護Injury of cauda equina, initial encounter",10111
+806.62,S32.10XA,"胝骨及尾骨閉鎖性骨折，合併其他脊髓馬尾損傷Fracture of sacrum and coccyx with other cauda equina injury, closed","?骨閉鎖性骨折之初期照護Unspecified fracture of sacrum, initial encounter for closed fracture",10112
+806.62,S32.2XXA,"胝骨及尾骨閉鎖性骨折，合併其他脊髓馬尾損傷Fracture of sacrum and coccyx with other cauda equina injury, closed","尾骨閉鎖性骨折之初期照護Fracture of coccyx, initial encounter for closed fracture",10112
+806.62,S34.3XXA,"胝骨及尾骨閉鎖性骨折，合併其他脊髓馬尾損傷Fracture of sacrum and coccyx with other cauda equina injury, closed","脊髓馬尾損傷之初期照護Injury of cauda equina, initial encounter",10111
+806.69,S32.10XA,"胝骨及尾骨閉鎖性骨折，合併其他脊髓損傷frracture of sacrum and coccyx with other spinal cord injury, closed","?骨閉鎖性骨折之初期照護Unspecified fracture of sacrum, initial encounter for closed fracture",10112
+806.69,S32.2XXA,"胝骨及尾骨閉鎖性骨折，合併其他脊髓損傷frracture of sacrum and coccyx with other spinal cord injury, closed","尾骨閉鎖性骨折之初期照護Fracture of coccyx, initial encounter for closed fracture",10112
+806.69,S34.131A,"胝骨及尾骨閉鎖性骨折，合併其他脊髓損傷frracture of sacrum and coccyx with other spinal cord injury, closed","薦椎完全性的脊髓損傷之初期照護Complete lesion of sacral spinal cord, initial encounter",10111
+806.69,S34.132A,"胝骨及尾骨閉鎖性骨折，合併其他脊髓損傷frracture of sacrum and coccyx with other spinal cord injury, closed","薦椎不完全性的脊髓損傷之初期照護Incomplete lesion of sacral spinal cord, initial encounter",10111
+806.7,S32.10XB,"胝骨及尾骨開放性骨折，合併脊髓損傷Fracture of sacrum and coccyx with spinal cord injury, open","?骨開放性骨折之初期照護Unspecified fracture of sacrum, initial encounter for open fracture",10112
+806.7,S32.2XXB,"胝骨及尾骨開放性骨折，合併脊髓損傷Fracture of sacrum and coccyx with spinal cord injury, open","尾骨開放性骨折之初期照護Fracture of coccyx, initial encounter for open fracture",10112
+806.7,S34.139A,"胝骨及尾骨開放性骨折，合併脊髓損傷Fracture of sacrum and coccyx with spinal cord injury, open","薦椎脊髓損傷之初期照護Unspecified injury to sacral spinal cord, initial encounter",10111
+806.71,S32.10XB,"胝骨及尾骨開放性骨折，合併脊髓馬尾完全損傷Fracture of sacrum and coccyx with complete cauda equina lesion, open","?骨開放性骨折之初期照護Unspecified fracture of sacrum, initial encounter for open fracture",10112
+806.71,S32.2XXB,"胝骨及尾骨開放性骨折，合併脊髓馬尾完全損傷Fracture of sacrum and coccyx with complete cauda equina lesion, open","尾骨開放性骨折之初期照護Fracture of coccyx, initial encounter for open fracture",10112
+806.71,S34.3XXA,"胝骨及尾骨開放性骨折，合併脊髓馬尾完全損傷Fracture of sacrum and coccyx with complete cauda equina lesion, open","脊髓馬尾損傷之初期照護Injury of cauda equina, initial encounter",10111
+806.72,S32.10XB,"胝骨及尾骨開放性骨折，合併其他脊髓馬尾損傷Fracture of sacrum and coccyx with other cauda equina injury, open","?骨開放性骨折之初期照護Unspecified fracture of sacrum, initial encounter for open fracture",10112
+806.72,S32.2XXB,"胝骨及尾骨開放性骨折，合併其他脊髓馬尾損傷Fracture of sacrum and coccyx with other cauda equina injury, open","尾骨開放性骨折之初期照護Fracture of coccyx, initial encounter for open fracture",10112
+806.72,S34.3XXA,"胝骨及尾骨開放性骨折，合併其他脊髓馬尾損傷Fracture of sacrum and coccyx with other cauda equina injury, open","脊髓馬尾損傷之初期照護Injury of cauda equina, initial encounter",10111
+806.79,S32.10XB,"胝骨及尾骨開放性骨折，合併其他脊髓損傷Fracture of sacrum and coccyx with other spinal cord injury, open","?骨開放性骨折之初期照護Unspecified fracture of sacrum, initial encounter for open fracture",10112
+806.79,S32.2XXB,"胝骨及尾骨開放性骨折，合併其他脊髓損傷Fracture of sacrum and coccyx with other spinal cord injury, open","尾骨開放性骨折之初期照護Fracture of coccyx, initial encounter for open fracture",10112
+806.79,S34.131A,"胝骨及尾骨開放性骨折，合併其他脊髓損傷Fracture of sacrum and coccyx with other spinal cord injury, open","薦椎完全性的脊髓損傷之初期照護Complete lesion of sacral spinal cord, initial encounter",10111
+806.79,S34.132A,"胝骨及尾骨開放性骨折，合併其他脊髓損傷Fracture of sacrum and coccyx with other spinal cord injury, open","薦椎不完全性的脊髓損傷之初期照護Incomplete lesion of sacral spinal cord, initial encounter",10111
+806.8,S12.9XXA,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10112
+806.8,S14.109A,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","頸椎脊髓損傷之初期照護Unspecified injury at unspecified level of cervical spinal cord, initial encounter",10111
+806.8,S22.009A,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","未明示胸椎閉鎖性骨折之初期照護Unspecified fracture of unspecified thoracic vertebra, initial encounter for closed fracture",10122
+806.8,S24.109A,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","未明示胸脊髓損傷之初期照護Unspecified injury at unspecified level of thoracic spinal cord, initial encounter",10121
+806.8,S32.009A,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","未明示腰椎閉鎖性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for closed fracture",10132
+806.8,S32.10XA,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","?骨閉鎖性骨折之初期照護Unspecified fracture of sacrum, initial encounter for closed fracture",10142
+806.8,S34.109A,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","未明示部位腰椎脊髓損傷之初期照護Unspecified injury to unspecified level of lumbar spinal cord, initial encounter",10131
+806.8,S34.139A,"未明示之脊柱骨折，合併脊髓受損，閉鎖性fractue of vertebral column with spinal cord injury, unspecified, closed","薦椎脊髓損傷之初期照護Unspecified injury to sacral spinal cord, initial encounter",10141
+806.9,S12.9XXA,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","頸部骨折之初期照護Fracture of neck, unspecified, initial encounter",10112
+806.9,S14.109A,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","頸椎脊髓損傷之初期照護Unspecified injury at unspecified level of cervical spinal cord, initial encounter",10111
+806.9,S22.009B,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","未明示胸椎開放性骨折之初期照護Unspecified fracture of unspecified thoracic vertebra, initial encounter for open fracture",10122
+806.9,S24.109A,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","未明示胸脊髓損傷之初期照護Unspecified injury at unspecified level of thoracic spinal cord, initial encounter",10121
+806.9,S32.009B,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","未明示腰椎開放性骨折之初期照護Unspecified fracture of unspecified lumbar vertebra, initial encounter for open fracture",10132
+806.9,S32.10XB,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","?骨開放性骨折之初期照護Unspecified fracture of sacrum, initial encounter for open fracture",10142
+806.9,S34.109A,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","未明示部位腰椎脊髓損傷之初期照護Unspecified injury to unspecified level of lumbar spinal cord, initial encounter",10131
+806.9,S34.139A,"未明示之脊柱骨折，合併脊髓受損，開放性fracture of vertebral column with spinal cord injury, unspecified open","薦椎脊髓損傷之初期照護Unspecified injury to sacral spinal cord, initial encounter",10141
+806.0,S12.000A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第一頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.0,S12.001A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第一頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.0,S12.100A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第二頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.0,S12.101A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第二頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.0,S12.200A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第三頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.0,S12.201A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第三頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.0,S12.300A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第四頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.0,S12.301A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第四頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.0,S14.101A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第一頸椎脊髓損傷之初期照護Unspecified injury at C1 level of cervical spinal cord, initial encounter",10111
+806.0,S14.102A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第二頸椎脊髓損傷之初期照護Unspecified injury at C2 level of cervical spinal cord, initial encounter",10121
+806.0,S14.103A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第三頸椎脊髓損傷之初期照護Unspecified injury at C3 level of cervical spinal cord, initial encounter",10131
+806.0,S14.104A,"頸椎第1～4節閉鎖性骨折，合併脊髓損傷C1-C4 level fracture with unspecified spinal cord injury, closed","第四頸椎脊髓損傷之初期照護Unspecified injury at C4 level of cervical spinal cord, initial encounter",10141
+806.01,S12.000A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第一頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.01,S12.001A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第一頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture",10112
+806.01,S12.100A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第二頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.01,S12.101A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第二頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of second cervical vertebra, initial encounter for closed fracture",10122
+806.01,S12.200A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第三頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.01,S12.201A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第三頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of third cervical vertebra, initial encounter for closed fracture",10132
+806.01,S12.300A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第四頸椎移位閉鎖性骨折之初期照護Unspecified displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142
+806.01,S12.301A,"頸椎第1～4節閉鎖性骨折，合併脊髓完全損傷C1- C4 level fracture with complete lesion of cord, closed","第四頸椎非移位閉鎖性骨折之初期照護Unspecified nondisplaced fracture of fourth cervical vertebra, initial encounter for closed fracture",10142

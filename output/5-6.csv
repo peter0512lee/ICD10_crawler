@@ -1,0 +1,74 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+807.0,S22.32xA,"肋骨閉鎖性骨折Unspecified fracture of rib(s), closed","左側肋骨閉鎖性骨折之初期照護Fracture of one rib, left side, initial encounter for closed fracture",10000
+807.0,S22.39XA,"肋骨閉鎖性骨折Unspecified fracture of rib(s), closed","未明示側性肋骨閉鎖性骨折之初期照護Fracture of one rib, unspecified side, initial encounter for closed fracture",10000
+807.01,S22.31xA,"一根肋骨閉鎖性骨折Fracture of one rib, closed","右側肋骨閉鎖性骨折之初期照護Fracture of one rib, right side, initial encounter for closed fracture",10000
+807.01,S22.32xA,"一根肋骨閉鎖性骨折Fracture of one rib, closed","左側肋骨閉鎖性骨折之初期照護Fracture of one rib, left side, initial encounter for closed fracture",10000
+807.01,S22.39XA,"一根肋骨閉鎖性骨折Fracture of one rib, closed","未明示側性肋骨閉鎖性骨折之初期照護Fracture of one rib, unspecified side, initial encounter for closed fracture",10000
+807.02,S22.41xA,"二根肋骨閉鎖性骨折Fracture of two ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.02,S22.42xA,"二根肋骨閉鎖性骨折Fracture of two ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.02,S22.43xA,"二根肋骨閉鎖性骨折Fracture of two ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.02,S22.49XA,"二根肋骨閉鎖性骨折Fracture of two ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.03,S22.41xA,"三根肋骨閉鎖性骨折Fracture of three ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.03,S22.42xA,"三根肋骨閉鎖性骨折Fracture of three ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.03,S22.43xA,"三根肋骨閉鎖性骨折Fracture of three ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.03,S22.49XA,"三根肋骨閉鎖性骨折Fracture of three ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.04,S22.41xA,"四根肋骨閉鎖性骨折Fracture of four ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.04,S22.42xA,"四根肋骨閉鎖性骨折Fracture of four ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.04,S22.43xA,"四根肋骨閉鎖性骨折Fracture of four ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.04,S22.49XA,"四根肋骨閉鎖性骨折Fracture of four ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.05,S22.41xA,"五根肋骨閉鎖性骨折Fracture of five ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.05,S22.42xA,"五根肋骨閉鎖性骨折Fracture of five ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.05,S22.43xA,"五根肋骨閉鎖性骨折Fracture of five ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.05,S22.49XA,"五根肋骨閉鎖性骨折Fracture of five ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.06,S22.41xA,"六根肋骨閉鎖性骨折Fracture of six ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.06,S22.42xA,"六根肋骨閉鎖性骨折Fracture of six ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.06,S22.43xA,"六根肋骨閉鎖性骨折Fracture of six ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.06,S22.49XA,"六根肋骨閉鎖性骨折Fracture of six ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.07,S22.41xA,"七根肋骨閉鎖性骨折Fracture of seven ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.07,S22.42xA,"七根肋骨閉鎖性骨折Fracture of seven ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.07,S22.43xA,"七根肋骨閉鎖性骨折Fracture of seven ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.07,S22.49XA,"七根肋骨閉鎖性骨折Fracture of seven ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.08,S22.41xA,"八根或更多肋骨閉鎖性骨折Fracture of eight or more ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.08,S22.42xA,"八根或更多肋骨閉鎖性骨折Fracture of eight or more ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.08,S22.43xA,"八根或更多肋骨閉鎖性骨折Fracture of eight or more ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.08,S22.49XA,"八根或更多肋骨閉鎖性骨折Fracture of eight or more ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.09,S22.41xA,"多數肋骨閉鎖性骨折Unspecified fracture of multiple ribs, closed","右側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for closed fracture",10000
+807.09,S22.42xA,"多數肋骨閉鎖性骨折Unspecified fracture of multiple ribs, closed","左側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for closed fracture",10000
+807.09,S22.43xA,"多數肋骨閉鎖性骨折Unspecified fracture of multiple ribs, closed","雙側肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for closed fracture",10000
+807.09,S22.49XA,"多數肋骨閉鎖性骨折Unspecified fracture of multiple ribs, closed","未明示側性肋骨多發性閉鎖性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for closed fracture",10000
+807.1,S22.39XB,"肋骨開放性骨折Unspecified fracture of rib(s), open","未明示側性肋骨開放性骨折之初期照護Fracture of one rib, unspecified side, initial encounter for open fracture",10000
+807.11,S22.31xB,"一根肋骨開放性骨折Fracture of one rib, open","右側肋骨開放性骨折之初期照護Fracture of one rib, right side, initial encounter for open fracture",10000
+807.11,S22.32xB,"一根肋骨開放性骨折Fracture of one rib, open","左側肋骨開放性骨折之初期照護Fracture of one rib, left side, initial encounter for open fracture",10000
+807.11,S22.39XB,"一根肋骨開放性骨折Fracture of one rib, open","未明示側性肋骨開放性骨折之初期照護Fracture of one rib, unspecified side, initial encounter for open fracture",10000
+807.12,S22.41xB,"二根肋骨開放性骨折Fracture of two ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.12,S22.42xB,"二根肋骨開放性骨折Fracture of two ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.12,S22.43xB,"二根肋骨開放性骨折Fracture of two ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.12,S22.49XB,"二根肋骨開放性骨折Fracture of two ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000
+807.13,S22.41xB,"三根肋骨開放性骨折Fracture of three ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.13,S22.42xB,"三根肋骨開放性骨折Fracture of three ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.13,S22.43xB,"三根肋骨開放性骨折Fracture of three ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.13,S22.49XB,"三根肋骨開放性骨折Fracture of three ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000
+807.14,S22.41xB,"四根肋骨開放性骨折Fracture of four ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.14,S22.42xB,"四根肋骨開放性骨折Fracture of four ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.14,S22.43xB,"四根肋骨開放性骨折Fracture of four ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.14,S22.49XB,"四根肋骨開放性骨折Fracture of four ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000
+807.15,S22.41xB,"五根肋骨開放性骨折Fracture of five ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.15,S22.42xB,"五根肋骨開放性骨折Fracture of five ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.15,S22.43xB,"五根肋骨開放性骨折Fracture of five ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.15,S22.49XB,"五根肋骨開放性骨折Fracture of five ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000
+807.16,S22.41xB,"六根肋骨開放性骨折Fracture of six ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.16,S22.42xB,"六根肋骨開放性骨折Fracture of six ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.16,S22.43xB,"六根肋骨開放性骨折Fracture of six ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.16,S22.49XB,"六根肋骨開放性骨折Fracture of six ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000
+807.17,S22.41xB,"七根肋骨開放性骨折Fracture of seven ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.17,S22.42xB,"七根肋骨開放性骨折Fracture of seven ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.17,S22.43xB,"七根肋骨開放性骨折Fracture of seven ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.17,S22.49XB,"七根肋骨開放性骨折Fracture of seven ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000
+807.18,S22.41xB,"八根或更多肋骨開放性骨折Fracture of eight or more ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.18,S22.42xB,"八根或更多肋骨開放性骨折Fracture of eight or more ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.18,S22.43xB,"八根或更多肋骨開放性骨折Fracture of eight or more ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.18,S22.49XB,"八根或更多肋骨開放性骨折Fracture of eight or more ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000
+807.19,S22.41xB,"多數肋骨開放性骨折Unspecified fracture of multiple ribs, open","右側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, right side, initial encounter for open fracture",10000
+807.19,S22.42xB,"多數肋骨開放性骨折Unspecified fracture of multiple ribs, open","左側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, left side, initial encounter for open fracture",10000
+807.19,S22.43xB,"多數肋骨開放性骨折Unspecified fracture of multiple ribs, open","雙側肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, bilateral, initial encounter for open fracture",10000
+807.19,S22.49XB,"多數肋骨開放性骨折Unspecified fracture of multiple ribs, open","未明示側性肋骨多發性開放性骨折之初期照護Multiple fractures of ribs, unspecified side, initial encounter for open fracture",10000

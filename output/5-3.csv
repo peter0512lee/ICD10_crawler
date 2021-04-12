@@ -1,0 +1,17 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+802.0,S02.2XXA,"鼻骨閉鎖性骨折Fracture of nasal bones, closed","鼻骨閉鎖性骨折之初期照護Fracture of nasal bones, initial encounter for closed fracture",10000
+802.1,S02.2XXB,"鼻骨開放性骨折Fracture of nasal bones, open","鼻骨開放性骨折之初期照護Fracture of nasal bones, initial encounter for open fracture",10000
+802.4,S02.400A,"顴骨及上頷骨閉鎖性骨折Fracture of malar and maxillary bones, closed","顴骨閉鎖性骨折之初期照護Malar fracture unspecified, initial encounter for closed fracture",10000
+802.4,S02.401A,"顴骨及上頷骨閉鎖性骨折Fracture of malar and maxillary bones, closed","上頷骨閉鎖性骨折之初期照護Maxillary fracture, unspecified, initial encounter for closed fracture",10000
+802.4,S02.402A,"顴骨及上頷骨閉鎖性骨折Fracture of malar and maxillary bones, closed","顴骨閉鎖性骨折之初期照護Zygomatic fracture, unspecified, initial encounter for closed fracture",10000
+802.4,S02.411A,"顴骨及上頷骨閉鎖性骨折Fracture of malar and maxillary bones, closed","李霍氏I型閉鎖性骨折之初期照護LeFort I fracture, initial encounter for closed fracture",10000
+802.4,S02.412A,"顴骨及上頷骨閉鎖性骨折Fracture of malar and maxillary bones, closed","李霍氏II型閉鎖性骨折之初期照護LeFort II fracture, initial encounter for closed fracture",10000
+802.4,S02.413A,"顴骨及上頷骨閉鎖性骨折Fracture of malar and maxillary bones, closed","李霍氏III型閉鎖性骨折之初期照護LeFort III fracture, initial encounter for closed fracture",10000
+802.5,S02.400B,"顴骨及上頷骨開放性骨折Fracture of malar and maxillary bones, open","顴骨開放性骨折之初期照護Malar fracture unspecified, initial encounter for open fracture",10000
+802.5,S02.401B,"顴骨及上頷骨開放性骨折Fracture of malar and maxillary bones, open","上頷骨開放性骨折之初期照護Maxillary fracture, unspecified, initial encounter for open fracture",10000
+802.5,S02.402B,"顴骨及上頷骨開放性骨折Fracture of malar and maxillary bones, open","顴骨開放性骨折之初期照護Zygomatic fracture, unspecified, initial encounter for open fracture",10000
+802.5,S02.411B,"顴骨及上頷骨開放性骨折Fracture of malar and maxillary bones, open","李霍氏I型開放性骨折之初期照護LeFort I fracture, initial encounter for open fracture",10000
+802.5,S02.412B,"顴骨及上頷骨開放性骨折Fracture of malar and maxillary bones, open","李霍氏II型開放性骨折之初期照護LeFort II fracture, initial encounter for open fracture",10000
+802.5,S02.413B,"顴骨及上頷骨開放性骨折Fracture of malar and maxillary bones, open","李霍氏III型開放性骨折之初期照護LeFort III fracture, initial encounter for open fracture",10000
+802.6,S02.3XXA,"眶底閉鎖性骨折Fracture of orbital floor (blow-out), closed","眶底閉鎖性骨折之初期照護Fracture of orbital floor, initial encounter for closed fracture",10000
+802.7,S02.3XXB,"眶底開放性骨折Fracture of orbital floor (blow-out), open","眶底開放性骨折之初期照護Fracture of orbital floor, initial encounter for open fracture",10000

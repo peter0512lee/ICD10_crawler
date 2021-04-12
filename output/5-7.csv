@@ -1,0 +1,49 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+810.0,S42.001A,"鎖骨閉鎖性骨折Fracture in unspecified part of clavicle, closed","右側鎖骨未明示部位閉鎖性骨折之初期照護Fracture of unspecified part of right clavicle, initial encounter for closed fracture",10000
+810.0,S42.002A,"鎖骨閉鎖性骨折Fracture in unspecified part of clavicle, closed","左側鎖骨未明示部位閉鎖性骨折之初期照護Fracture of unspecified part of left clavicle, initial encounter for closed fracture",10000
+810.0,S42.009A,"鎖骨閉鎖性骨折Fracture in unspecified part of clavicle, closed","未明示側性鎖骨未明示部位閉鎖性骨折之初期照護Fracture of unspecified part of unspecified clavicle, initial encounter for closed fracture",10000
+810.01,S42.011A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","右側鎖骨胸骨端前移位閉鎖性骨折之初期照護Anterior displaced fracture of sternal end of right clavicle, initial encounter for closed fracture",10000
+810.01,S42.012A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","左側鎖骨胸骨端前移位閉鎖性骨折之初期照護Anterior displaced fracture of sternal end of left clavicle, initial encounter for closed fracture",10000
+810.01,S42.013A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","未明示側性鎖骨胸骨端前移位閉鎖性骨折之初期照護Anterior displaced fracture of sternal end of unspecified clavicle, initial encounter for closed fracture",10000
+810.01,S42.014A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","右側鎖骨胸骨端後移位閉鎖性骨折之初期照護Posterior displaced fracture of sternal end of right clavicle, initial encounter for closed fracture",10000
+810.01,S42.015A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","左側鎖骨胸骨端後移位閉鎖性骨折之初期照護Posterior displaced fracture of sternal end of left clavicle, initial encounter for closed fracture",10000
+810.01,S42.016A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","未明示側性鎖骨胸骨端後移位閉鎖性骨折之初期照護Posterior displaced fracture of sternal end of unspecified clavicle, initial encounter for closed fracture",10000
+810.01,S42.017A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","右側鎖骨胸骨端非移位閉鎖性骨折之初期照護Nondisplaced fracture of sternal end of right clavicle, initial encounter for closed fracture",10000
+810.01,S42.018A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","左側鎖骨胸骨端非移位閉鎖性骨折之初期照護Nondisplaced fracture of sternal end of left clavicle, initial encounter for closed fracture",10000
+810.01,S42.019A,"鎖骨之胸骨端閉鎖性骨折Fracture in sternal end of clavicle, closed","未明示側性鎖骨胸骨端非移位閉鎖性骨折之初期照護Nondisplaced fracture of sternal end of unspecified clavicle, initial encounter for closed fracture",10000
+810.02,S42.021A,"鎖骨幹閉鎖性骨折Fracture in shaft of clavicle, closed","右側鎖骨骨幹移位閉鎖性骨折之初期照護Displaced fracture of shaft of right clavicle, initial encounter for closed fracture",10000
+810.02,S42.022A,"鎖骨幹閉鎖性骨折Fracture in shaft of clavicle, closed","左側鎖骨骨幹移位閉鎖性骨折之初期照護Displaced fracture of shaft of left clavicle, initial encounter for closed fracture",10000
+810.02,S42.023A,"鎖骨幹閉鎖性骨折Fracture in shaft of clavicle, closed","未明示側性鎖骨骨幹移位閉鎖性骨折之初期照護Displaced fracture of shaft of unspecified clavicle, initial encounter for closed fracture",10000
+810.02,S42.024A,"鎖骨幹閉鎖性骨折Fracture in shaft of clavicle, closed","右側鎖骨骨幹非移位閉鎖性骨折之初期照護Nondisplaced fracture of shaft of right clavicle, initial encounter for closed fracture",10000
+810.02,S42.025A,"鎖骨幹閉鎖性骨折Fracture in shaft of clavicle, closed","左側鎖骨骨幹非移位閉鎖性骨折之初期照護Nondisplaced fracture of shaft of left clavicle, initial encounter for closed fracture",10000
+810.02,S42.026A,"鎖骨幹閉鎖性骨折Fracture in shaft of clavicle, closed","未明示側性鎖骨骨幹非移位閉鎖性骨折之初期照護Nondisplaced fracture of shaft of unspecified clavicle, initial encounter for closed fracture",10000
+810.03,S42.031A,"鎖骨肩峰尾端閉鎖性骨折Fracture in acromial end of clavicle, closed","右側鎖骨外側端移位閉鎖性骨折之初期照護Displaced fracture of lateral end of right clavicle, initial encounter for closed fracture",10000
+810.03,S42.032A,"鎖骨肩峰尾端閉鎖性骨折Fracture in acromial end of clavicle, closed","左側鎖骨外側端移位閉鎖性骨折之初期照護Displaced fracture of lateral end of left clavicle, initial encounter for closed fracture",10000
+810.03,S42.033A,"鎖骨肩峰尾端閉鎖性骨折Fracture in acromial end of clavicle, closed","未明示側性鎖骨外側端移位閉鎖性骨折之初期照護Displaced fracture of lateral end of unspecified clavicle, initial encounter for closed fracture",10000
+810.03,S42.034A,"鎖骨肩峰尾端閉鎖性骨折Fracture in acromial end of clavicle, closed","右側鎖骨外側端非移位閉鎖性骨折之初期照護Nondisplaced fracture of lateral end of right clavicle, initial encounter for closed fracture",10000
+810.03,S42.035A,"鎖骨肩峰尾端閉鎖性骨折Fracture in acromial end of clavicle, closed","左側鎖骨外側端非移位閉鎖性骨折之初期照護Nondisplaced fracture of lateral end of left clavicle, initial encounter for closed fracture",10000
+810.03,S42.036A,"鎖骨肩峰尾端閉鎖性骨折Fracture in acromial end of clavicle, closed","未明示側性鎖骨外側端非移位閉鎖性骨折之初期照護Nondisplaced fracture of lateral end of unspecified clavicle, initial encounter for closed fracture",10000
+810.1,S42.001B,"鎖骨開放性骨折Fracture in unspecified part of clavicle, open","右側鎖骨未明示部位開放性骨折之初期照護Fracture of unspecified part of right clavicle, initial encounter for open fracture",10000
+810.1,S42.002B,"鎖骨開放性骨折Fracture in unspecified part of clavicle, open","左側鎖骨未明示部位開放性骨折之初期照護Fracture of unspecified part of left clavicle, initial encounter for open fracture",10000
+810.1,S42.009B,"鎖骨開放性骨折Fracture in unspecified part of clavicle, open","未明示側性鎖骨未明示部位開放性骨折之初期照護Fracture of unspecified part of unspecified clavicle, initial encounter for open fracture",10000
+810.11,S42.011B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","右側鎖骨胸骨端前移位開放性骨折之初期照護Anterior displaced fracture of sternal end of right clavicle, initial encounter for open fracture",10000
+810.11,S42.012B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","左側鎖骨胸骨端前移位開放性骨折之初期照護Anterior displaced fracture of sternal end of left clavicle, initial encounter for open fracture",10000
+810.11,S42.013B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","未明示側性鎖骨胸骨端前移位開放性骨折之初期照護Anterior displaced fracture of sternal end of unspecified clavicle, initial encounter for open fracture",10000
+810.11,S42.014B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","右側鎖骨胸骨端後移位開放性骨折之初期照護Posterior displaced fracture of sternal end of right clavicle, initial encounter for open fracture",10000
+810.11,S42.015B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","左側鎖骨胸骨端後移位開放性骨折之初期照護Posterior displaced fracture of sternal end of left clavicle, initial encounter for open fracture",10000
+810.11,S42.016B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","未明示側性鎖骨胸骨端後移位開放性骨折之初期照護Posterior displaced fracture of sternal end of unspecified clavicle, initial encounter for open fracture",10000
+810.11,S42.017B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","右側鎖骨胸骨端非移位開放性骨折之初期照護Nondisplaced fracture of sternal end of right clavicle, initial encounter for open fracture",10000
+810.11,S42.018B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","左側鎖骨胸骨端非移位開放性骨折之初期照護Nondisplaced fracture of sternal end of left clavicle, initial encounter for open fracture",10000
+810.11,S42.019B,"鎖骨之胸骨端開放性骨折Fracture in sternal end of clavicle, open","未明示側性鎖骨胸骨端非移位開放性骨折之初期照護Nondisplaced fracture of sternal end of unspecified clavicle, initial encounter for open fracture",10000
+810.12,S42.021B,"鎖骨幹開放性骨折Fracture in shaft of clavicle, open","右側鎖骨骨幹移位開放性骨折之初期照護Displaced fracture of shaft of right clavicle, initial encounter for open fracture",10000
+810.12,S42.022B,"鎖骨幹開放性骨折Fracture in shaft of clavicle, open","左側鎖骨骨幹移位開放性骨折之初期照護Displaced fracture of shaft of left clavicle, initial encounter for open fracture",10000
+810.12,S42.023B,"鎖骨幹開放性骨折Fracture in shaft of clavicle, open","未明示側性鎖骨骨幹移位開放性骨折之初期照護Displaced fracture of shaft of unspecified clavicle, initial encounter for open fracture",10000
+810.12,S42.024B,"鎖骨幹開放性骨折Fracture in shaft of clavicle, open","右側鎖骨骨幹非移位開放性骨折之初期照護Nondisplaced fracture of shaft of right clavicle, initial encounter for open fracture",10000
+810.12,S42.025B,"鎖骨幹開放性骨折Fracture in shaft of clavicle, open","左側鎖骨骨幹非移位開放性骨折之初期照護Nondisplaced fracture of shaft of left clavicle, initial encounter for open fracture",10000
+810.12,S42.026B,"鎖骨幹開放性骨折Fracture in shaft of clavicle, open","未明示側性鎖骨骨幹非移位開放性骨折之初期照護Nondisplaced fracture of shaft of unspecified clavicle, initial encounter for open fracture",10000
+810.13,S42.031B,"鎖骨肩峰尾端開放性骨折Fracture in acromial end of clavicle, open","右側鎖骨外側端移位開放性骨折之初期照護Displaced fracture of lateral end of right clavicle, initial encounter for open fracture",10000
+810.13,S42.032B,"鎖骨肩峰尾端開放性骨折Fracture in acromial end of clavicle, open","左側鎖骨外側端移位開放性骨折之初期照護Displaced fracture of lateral end of left clavicle, initial encounter for open fracture",10000
+810.13,S42.033B,"鎖骨肩峰尾端開放性骨折Fracture in acromial end of clavicle, open","未明示側性鎖骨外側端移位開放性骨折之初期照護Displaced fracture of lateral end of unspecified clavicle, initial encounter for open fracture",10000
+810.13,S42.034B,"鎖骨肩峰尾端開放性骨折Fracture in acromial end of clavicle, open","右側鎖骨外側端非移位開放性骨折之初期照護Nondisplaced fracture of lateral end of right clavicle, initial encounter for open fracture",10000
+810.13,S42.035B,"鎖骨肩峰尾端開放性骨折Fracture in acromial end of clavicle, open","左側鎖骨外側端非移位開放性骨折之初期照護Nondisplaced fracture of lateral end of left clavicle, initial encounter for open fracture",10000
+810.13,S42.036B,"鎖骨肩峰尾端開放性骨折Fracture in acromial end of clavicle, open","未明示側性鎖骨外側端非移位開放性骨折之初期照護Nondisplaced fracture of lateral end of unspecified clavicle, initial encounter for open fracture",10000

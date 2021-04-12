@@ -1,0 +1,187 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+808.0,S32.401A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼閉鎖性骨折之初期照護Unspecified fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.402A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼閉鎖性骨折之初期照護Unspecified fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.409A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼閉鎖性骨折之初期照護Unspecified fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.411A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側移位性髖臼前壁閉鎖性骨折之初期照護Displaced fracture of anterior wall of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.412A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側移位性髖臼前壁閉鎖性骨折之初期照護Displaced fracture of anterior wall of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.413A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性移位性髖臼前壁閉鎖性骨折之初期照護Displaced fracture of anterior wall of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.414A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側非移位性髖臼前壁閉鎖性骨折之初期照護Nondisplaced fracture of anterior wall of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.415A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側非移位性髖臼前壁閉鎖性骨折之初期照護Nondisplaced fracture of anterior wall of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.416A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性非移位性髖臼前壁閉鎖性骨折之初期照護Nondisplaced fracture of anterior wall of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.421A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側移位性髖臼後壁閉鎖性骨折之初期照護Displaced fracture of posterior wall of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.422A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側移位性髖臼後壁閉鎖性骨折之初期照護Displaced fracture of posterior wall of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.423A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性移位性髖臼後壁閉鎖性骨折之初期照護Displaced fracture of posterior wall of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.424A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側非移位性髖臼後壁閉鎖性骨折之初期照護Nondisplaced fracture of posterior wall of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.425A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側非移位性髖臼後壁閉鎖性骨折之初期照護Nondisplaced fracture of posterior wall of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.426A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性非移位性髖臼後壁閉鎖性骨折之初期照護Nondisplaced fracture of posterior wall of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.431A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼前柱[髂恥]移位閉鎖性骨折之初期照護Displaced fracture of anterior column [iliopubic] of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.432A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼前柱[髂恥]移位閉鎖性骨折之初期照護Displaced fracture of anterior column [iliopubic] of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.433A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼前柱[髂恥]移位閉鎖性骨折之初期照護Displaced fracture of anterior column [iliopubic] of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.434A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼前柱[髂恥]非移位閉鎖性骨折之初期照護Nondisplaced fracture of anterior column [iliopubic] of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.435A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼前柱[髂恥]非移位閉鎖性骨折之初期照護Nondisplaced fracture of anterior column [iliopubic] of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.436A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼前柱[髂恥]非移位閉鎖性骨折之初期照護Nondisplaced fracture of anterior column [iliopubic] of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.441A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼後柱[髂恥]移位閉鎖性骨折之初期照護Displaced fracture of posterior column [ilioischial] of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.442A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼後柱[髂恥]移位閉鎖性骨折之初期照護Displaced fracture of posterior column [ilioischial] of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.443A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼後柱[髂恥]移位閉鎖性骨折之初期照護Displaced fracture of posterior column [ilioischial] of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.444A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼後柱[髂恥]非移位閉鎖性骨折之初期照護Nondisplaced fracture of posterior column [ilioischial] of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.445A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼後柱[髂恥]非移位閉鎖性骨折之初期照護Nondisplaced fracture of posterior column [ilioischial] of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.446A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼後柱[髂恥]非移位閉鎖性骨折之初期照護Nondisplaced fracture of posterior column [ilioischial] of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.451A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼移位性橫形閉鎖性骨折之初期照護Displaced transverse fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.452A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼移位性橫形閉鎖性骨折之初期照護Displaced transverse fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.453A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼移位性橫形閉鎖性骨折之初期照護Displaced transverse fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.454A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼非移位性橫形閉鎖性骨折之初期照護Nondisplaced transverse fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.455A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼非移位性橫形閉鎖性骨折之初期照護Nondisplaced transverse fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.456A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼非移位性橫形閉鎖性骨折之初期照護Nondisplaced transverse fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.461A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側橫-後髖臼移位性相關閉鎖性骨折之初期照護Displaced associated transverse-posterior fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.462A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側橫-後髖臼移位性相關閉鎖性骨折之初期照護Displaced associated transverse-posterior fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.463A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性側橫-後髖臼移位性相關閉鎖性骨折之初期照護Displaced associated transverse-posterior fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.464A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側橫-後髖臼非移位性相關閉鎖性骨折之初期照護Nondisplaced associated transverse-posterior fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.465A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側橫-後髖臼非移位性相關閉鎖性骨折之初期照護Nondisplaced associated transverse-posterior fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.466A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性側橫-後髖臼非移位性相關閉鎖性骨折之初期照護Nondisplaced associated transverse-posterior fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.471A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼內側壁移位閉鎖性骨折之初期照護Displaced fracture of medial wall of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.472A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼內側壁移位閉鎖性骨折之初期照護Displaced fracture of medial wall of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.473A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼內側壁移位閉鎖性骨折之初期照護Displaced fracture of medial wall of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.474A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼內側壁非移位閉鎖性骨折之初期照護Nondisplaced fracture of medial wall of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.475A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼內側壁非移位閉鎖性骨折之初期照護Nondisplaced fracture of medial wall of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.476A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼內側壁非移位閉鎖性骨折之初期照護Nondisplaced fracture of medial wall of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.481A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼移位性圓頂閉鎖性骨折之初期照護Displaced dome fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.482A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼移位性圓頂閉鎖性骨折之初期照護Displaced dome fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.483A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼移位性圓頂閉鎖性骨折之初期照護Displaced dome fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.484A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼非移位性圓頂閉鎖性骨折之初期照護Nondisplaced dome fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.485A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼非移位性圓頂閉鎖性骨折之初期照護Nondisplaced dome fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.486A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼圓頂非移位閉鎖性骨折之初期照護Nondisplaced dome fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.0,S32.491A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","右側髖臼其他特定閉鎖性骨折之初期照護Other specified fracture of right acetabulum, initial encounter for closed fracture",10000
+808.0,S32.492A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","左側髖臼其他特定閉鎖性骨折之初期照護Other specified fracture of left acetabulum, initial encounter for closed fracture",10000
+808.0,S32.499A,"髖臼閉鎖性骨折Fracture of acetabulum, closed","未明示側性髖臼其他特定閉鎖性骨折之初期照護Other specified fracture of unspecified acetabulum, initial encounter for closed fracture",10000
+808.1,S32.401B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼開放性骨折之初期照護Unspecified fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.402B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼開放性骨折之初期照護Unspecified fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.409B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼開放性骨折之初期照護Unspecified fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.411B,"髖臼開放性骨折Fracture of acetabulum, open","右側移位性髖臼前壁開放性骨折之初期照護Displaced fracture of anterior wall of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.412B,"髖臼開放性骨折Fracture of acetabulum, open","左側移位性髖臼前壁開放性骨折之初期照護Displaced fracture of anterior wall of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.413B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性移位性髖臼前壁開放性骨折之初期照護Displaced fracture of anterior wall of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.414B,"髖臼開放性骨折Fracture of acetabulum, open","右側非移位性髖臼前壁開放性骨折之初期照護Nondisplaced fracture of anterior wall of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.415B,"髖臼開放性骨折Fracture of acetabulum, open","左側非移位性髖臼前壁開放性骨折之初期照護Nondisplaced fracture of anterior wall of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.416B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性非移位性髖臼前壁開放性骨折之初期照護Nondisplaced fracture of anterior wall of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.421B,"髖臼開放性骨折Fracture of acetabulum, open","右側移位性髖臼後壁開放性骨折之初期照護Displaced fracture of posterior wall of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.422B,"髖臼開放性骨折Fracture of acetabulum, open","左側移位性髖臼後壁開放性骨折之初期照護Displaced fracture of posterior wall of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.423B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性移位性髖臼後壁開放性骨折之初期照護Displaced fracture of posterior wall of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.424B,"髖臼開放性骨折Fracture of acetabulum, open","右側非移位性髖臼後壁開放性骨折之初期照護Nondisplaced fracture of posterior wall of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.425B,"髖臼開放性骨折Fracture of acetabulum, open","左側非移位性髖臼後壁開放性骨折之初期照護Nondisplaced fracture of posterior wall of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.426B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性非移位性髖臼後壁開放性骨折之初期照護Nondisplaced fracture of posterior wall of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.431B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼前柱[髂恥]移位開放性骨折之初期照護Displaced fracture of anterior column [iliopubic] of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.432B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼前柱[髂恥]移位開放性骨折之初期照護Displaced fracture of anterior column [iliopubic] of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.433B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼前柱[髂恥]移位開放性骨折之初期照護Displaced fracture of anterior column [iliopubic] of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.434B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼前柱[髂恥]非移位開放性骨折之初期照護Nondisplaced fracture of anterior column [iliopubic] of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.435B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼前柱[髂恥]非移位開放性骨折之初期照護Nondisplaced fracture of anterior column [iliopubic] of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.436B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼前柱[髂恥]非移位開放性骨折之初期照護Nondisplaced fracture of anterior column [iliopubic] of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.441B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼後柱[髂恥]移位開放性骨折之初期照護Displaced fracture of posterior column [ilioischial] of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.442B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼後柱[髂恥]移位開放性骨折之初期照護Displaced fracture of posterior column [ilioischial] of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.443B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼後柱[髂恥]移位開放性骨折之初期照護Displaced fracture of posterior column [ilioischial] of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.444B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼後柱[髂恥]非移位開放性骨折之初期照護Nondisplaced fracture of posterior column [ilioischial] of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.445B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼後柱[髂恥]非移位開放性骨折之初期照護Nondisplaced fracture of posterior column [ilioischial] of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.446B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼後柱[髂恥]非移位開放性骨折之初期照護Nondisplaced fracture of posterior column [ilioischial] of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.451B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼移位性橫形開放性骨折之初期照護Displaced transverse fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.452B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼移位性橫形開放性骨折之初期照護Displaced transverse fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.453B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼移位性橫形開放性骨折之初期照護Displaced transverse fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.454B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼非移位性橫形開放性骨折之初期照護Nondisplaced transverse fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.455B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼非移位性橫形開放性骨折之初期照護Nondisplaced transverse fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.456B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼非移位性橫形開放性骨折之初期照護Nondisplaced transverse fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.461B,"髖臼開放性骨折Fracture of acetabulum, open","右側橫-後髖臼移位性相關開放性骨折之初期照護Displaced associated transverse-posterior fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.462B,"髖臼開放性骨折Fracture of acetabulum, open","左側橫-後髖臼移位性相關開放性骨折之初期照護Displaced associated transverse-posterior fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.463B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性側橫-後髖臼移位性相關開放性骨折之初期照護Displaced associated transverse-posterior fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.464B,"髖臼開放性骨折Fracture of acetabulum, open","右側橫-後髖臼非移位性相關開放性骨折之初期照護Nondisplaced associated transverse-posterior fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.465B,"髖臼開放性骨折Fracture of acetabulum, open","左側橫-後髖臼非移位性相關開放性骨折之初期照護Nondisplaced associated transverse-posterior fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.466B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性側橫-後髖臼非移位性相關開放性骨折之初期照護Nondisplaced associated transverse-posterior fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.471B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼內側壁移位開放性骨折之初期照護Displaced fracture of medial wall of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.472B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼內側壁移位開放性骨折之初期照護Displaced fracture of medial wall of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.473B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼內側壁移位開放性骨折之初期照護Displaced fracture of medial wall of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.474B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼內側壁非移位開放性骨折之初期照護Nondisplaced fracture of medial wall of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.475B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼內側壁非移位開放性骨折之初期照護Nondisplaced fracture of medial wall of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.476B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼內側壁非移位開放性骨折之初期照護Nondisplaced fracture of medial wall of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.481B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼移位性圓頂開放性骨折之初期照護Displaced dome fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.482B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼移位性圓頂開放性骨折之初期照護Displaced dome fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.483B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼移位性圓頂開放性骨折之初期照護Displaced dome fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.484B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼非移位性圓頂開放性骨折之初期照護Nondisplaced dome fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.485B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼非移位性圓頂開放性骨折之初期照護Nondisplaced dome fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.486B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼圓頂非移位開放性骨折之初期照護Nondisplaced dome fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.1,S32.491B,"髖臼開放性骨折Fracture of acetabulum, open","右側髖臼其他特定開放性骨折之初期照護Other specified fracture of right acetabulum, initial encounter for open fracture",10000
+808.1,S32.492B,"髖臼開放性骨折Fracture of acetabulum, open","左側髖臼其他特定開放性骨折之初期照護Other specified fracture of left acetabulum, initial encounter for open fracture",10000
+808.1,S32.499B,"髖臼開放性骨折Fracture of acetabulum, open","未明示側性髖臼其他特定開放性骨折之初期照護Other specified fracture of unspecified acetabulum, initial encounter for open fracture",10000
+808.2,S32.501A,"恥骨閉鎖性骨折Fracture of pubis, closed","右側恥骨閉鎖性骨折之初期照護Unspecified fracture of right pubis, initial encounter for closed fracture",10000
+808.2,S32.502A,"恥骨閉鎖性骨折Fracture of pubis, closed","左側恥骨閉鎖性骨折之初期照護Unspecified fracture of left pubis, initial encounter for closed fracture",10000
+808.2,S32.509A,"恥骨閉鎖性骨折Fracture of pubis, closed","未明示側性恥骨閉鎖性骨折之初期照護Unspecified fracture of unspecified pubis, initial encounter for closed fracture",10000
+808.2,S32.511A,"恥骨閉鎖性骨折Fracture of pubis, closed","恥骨右上邊緣閉鎖性骨折之初期照護Fracture of superior rim of right pubis, initial encounter for closed fracture",10000
+808.2,S32.512A,"恥骨閉鎖性骨折Fracture of pubis, closed","恥骨左上邊緣閉鎖性骨折之初期照護Fracture of superior rim of left pubis, initial encounter for closed fracture",10000
+808.2,S32.519A,"恥骨閉鎖性骨折Fracture of pubis, closed","恥骨未明示側性上邊緣閉鎖性骨折之初期照護Fracture of superior rim of unspecified pubis, initial encounter for closed fracture",10000
+808.2,S32.591A,"恥骨閉鎖性骨折Fracture of pubis, closed","右側恥骨其他特定閉鎖性骨折之初期照護Other specified fracture of right pubis, initial encounter for closed fracture",10000
+808.2,S32.592A,"恥骨閉鎖性骨折Fracture of pubis, closed","左側恥骨其他特定閉鎖性骨折之初期照護Other specified fracture of left pubis, initial encounter for closed fracture",10000
+808.2,S32.599A,"恥骨閉鎖性骨折Fracture of pubis, closed","未明示側性恥骨其他特定閉鎖性骨折之初期照護Other specified fracture of unspecified pubis, initial encounter for closed fracture",10000
+808.3,S32.501B,"恥骨開放性骨折Fracture of pubis, open","右側恥骨開放性骨折之初期照護Unspecified fracture of right pubis, initial encounter for open fracture",10000
+808.3,S32.502B,"恥骨開放性骨折Fracture of pubis, open","左側恥骨開放性骨折之初期照護Unspecified fracture of left pubis, initial encounter for open fracture",10000
+808.3,S32.509B,"恥骨開放性骨折Fracture of pubis, open","未明示側性恥骨開放性骨折之初期照護Unspecified fracture of unspecified pubis, initial encounter for open fracture",10000
+808.3,S32.511B,"恥骨開放性骨折Fracture of pubis, open","恥骨右上邊緣開放性骨折之初期照護Fracture of superior rim of right pubis, initial encounter for open fracture",10000
+808.3,S32.512B,"恥骨開放性骨折Fracture of pubis, open","恥骨左上邊緣開放性骨折之初期照護Fracture of superior rim of left pubis, initial encounter for open fracture",10000
+808.3,S32.519B,"恥骨開放性骨折Fracture of pubis, open","恥骨未明示側性上邊緣開放性骨折之初期照護Fracture of superior rim of unspecified pubis, initial encounter for open fracture",10000
+808.3,S32.591B,"恥骨開放性骨折Fracture of pubis, open","右側恥骨其他特定開放性骨折之初期照護Other specified fracture of right pubis, initial encounter for open fracture",10000
+808.3,S32.592B,"恥骨開放性骨折Fracture of pubis, open","左側恥骨其他特定開放性骨折之初期照護Other specified fracture of left pubis, initial encounter for open fracture",10000
+808.3,S32.599B,"恥骨開放性骨折Fracture of pubis, open","未明示側性恥骨其他特定開放性骨折之初期照護Other specified fracture of unspecified pubis, initial encounter for open fracture",10000
+808.41,S32.301A,"腸骨閉鎖性骨折Fracture of ilium, closed","右側髂骨閉鎖性骨折之初期照護Unspecified fracture of right ilium, initial encounter for closed fracture",10000
+808.41,S32.302A,"腸骨閉鎖性骨折Fracture of ilium, closed","左側髂骨閉鎖性骨折之初期照護Unspecified fracture of left ilium, initial encounter for closed fracture",10000
+808.41,S32.309A,"腸骨閉鎖性骨折Fracture of ilium, closed","未明示側性髂骨閉鎖性骨折之初期照護Unspecified fracture of unspecified ilium, initial encounter for closed fracture",10000
+808.41,S32.311A,"腸骨閉鎖性骨折Fracture of ilium, closed","右側髂骨移位性撕脫閉鎖性骨折之初期照護Displaced avulsion fracture of right ilium, initial encounter for closed fracture",10000
+808.41,S32.312A,"腸骨閉鎖性骨折Fracture of ilium, closed","左側髂骨移位性撕脫閉鎖性骨折之初期照護Displaced avulsion fracture of left ilium, initial encounter for closed fracture",10000
+808.41,S32.313A,"腸骨閉鎖性骨折Fracture of ilium, closed","未明示側性髂骨移位性撕脫閉鎖性骨折之初期照護Displaced avulsion fracture of unspecified ilium, initial encounter for closed fracture",10000
+808.41,S32.314A,"腸骨閉鎖性骨折Fracture of ilium, closed","右側髂骨非移位性撕脫閉鎖性骨折之初期照護Nondisplaced avulsion fracture of right ilium, initial encounter for closed fracture",10000
+808.41,S32.315A,"腸骨閉鎖性骨折Fracture of ilium, closed","左側髂骨非移位性撕脫閉鎖性骨折之初期照護Nondisplaced avulsion fracture of left ilium, initial encounter for closed fracture",10000
+808.41,S32.316A,"腸骨閉鎖性骨折Fracture of ilium, closed","未明示側性髂骨非移位性撕脫閉鎖性骨折之初期照護Nondisplaced avulsion fracture of unspecified ilium, initial encounter for closed fracture",10000
+808.41,S32.391A,"腸骨閉鎖性骨折Fracture of ilium, closed","右側其他髂骨閉鎖性骨折之初期照護Other fracture of right ilium, initial encounter for closed fracture",10000
+808.41,S32.392A,"腸骨閉鎖性骨折Fracture of ilium, closed","左側其他髂骨閉鎖性骨折之初期照護Other fracture of left ilium, initial encounter for closed fracture",10000
+808.41,S32.399A,"腸骨閉鎖性骨折Fracture of ilium, closed","未明示側性其他髂骨閉鎖性骨折之初期照護Other fracture of unspecified ilium, initial encounter for closed fracture",10000
+808.42,S32.601A,"坐骨閉鎖性骨折Fracture of ischium, closed","右側坐骨閉鎖性骨折之初期照護Unspecified fracture of right ischium, initial encounter for closed fracture",10000
+808.42,S32.602A,"坐骨閉鎖性骨折Fracture of ischium, closed","左側坐骨閉鎖性骨折之初期照護Unspecified fracture of left ischium, initial encounter for closed fracture",10000
+808.42,S32.609A,"坐骨閉鎖性骨折Fracture of ischium, closed","未明示側性坐骨閉鎖性骨折之初期照護Unspecified fracture of unspecified ischium, initial encounter for closed fracture",10000
+808.42,S32.611A,"坐骨閉鎖性骨折Fracture of ischium, closed","右側坐骨剝裂移位閉鎖性骨折之初期照護Displaced avulsion fracture of right ischium, initial encounter for closed fracture",10000
+808.42,S32.612A,"坐骨閉鎖性骨折Fracture of ischium, closed","左側坐骨剝裂移位閉鎖性骨折之初期照護Displaced avulsion fracture of left ischium, initial encounter for closed fracture",10000
+808.42,S32.613A,"坐骨閉鎖性骨折Fracture of ischium, closed","未明示側性坐骨剝裂移位閉鎖性骨折之初期照護Displaced avulsion fracture of unspecified ischium, initial encounter for closed fracture",10000
+808.42,S32.614A,"坐骨閉鎖性骨折Fracture of ischium, closed","右側坐骨剝裂非移位閉鎖性骨折之初期照護Nondisplaced avulsion fracture of right ischium, initial encounter for closed fracture",10000
+808.42,S32.615A,"坐骨閉鎖性骨折Fracture of ischium, closed","左側坐骨剝裂非移位閉鎖性骨折之初期照護Nondisplaced avulsion fracture of left ischium, initial encounter for closed fracture",10000
+808.42,S32.616A,"坐骨閉鎖性骨折Fracture of ischium, closed","未明示側性坐骨剝裂非移位閉鎖性骨折之初期照護Nondisplaced avulsion fracture of unspecified ischium, initial encounter for closed fracture",10000
+808.42,S32.691A,"坐骨閉鎖性骨折Fracture of ischium, closed","右側坐骨其他特定閉鎖性骨折之初期照護Other specified fracture of right ischium, initial encounter for closed fracture",10000
+808.42,S32.692A,"坐骨閉鎖性骨折Fracture of ischium, closed","左側坐骨其他特定閉鎖性骨折之初期照護Other specified fracture of left ischium, initial encounter for closed fracture",10000
+808.42,S32.699A,"坐骨閉鎖性骨折Fracture of ischium, closed","未明示側性坐骨其他特定閉鎖性骨折之初期照護Other specified fracture of unspecified ischium, initial encounter for closed fracture",10000
+808.43,S32.810A,"多發性骨盆閉鎖性骨折，合併骨盆環破裂Multiple pelvic fractures with disruption of pelvic circle, closed","骨盆多處閉鎖性骨折合併骨盆環穩定型破裂之初期照護Multiple fractures of pelvis with stable disruption of pelvic ring, initial encounter for closed fracture",10000
+808.43,S32.811A,"多發性骨盆閉鎖性骨折，合併骨盆環破裂Multiple pelvic fractures with disruption of pelvic circle, closed","骨盆多處閉鎖性骨折合併骨盆環不穩定型破裂之初期照護Multiple fractures of pelvis with unstable disruption of pelvic ring, initial encounter for closed fracture",10000
+808.49,S32.82XA,"骨盆之其他閉鎖性骨折Fracture of other specified part of pelvis, closed","骨盆多處閉鎖性骨折未合併骨盆環破裂之初期照護Multiple fractures of pelvis without disruption of pelvic ring, initial encounter for closed fracture",10000
+808.49,S32.89XA,"骨盆之其他閉鎖性骨折Fracture of other specified part of pelvis, closed","骨盆其他部位閉鎖性骨折之初期照護Fracture of other parts of pelvis, initial encounter for closed fracture",10000
+808.49,S32.9xxA,"骨盆之其他閉鎖性骨折Fracture of other specified part of pelvis, closed","腰薦椎和骨盆未明示部位閉鎖性骨折之初期照護Fracture of unspecified parts of lumbosacral spine and pelvis, initial encounter for closed fracture",10000
+808.51,S32.301B,"腸骨開放性骨折Fracture of ilium, open","右側髂骨開放性骨折之初期照護Unspecified fracture of right ilium, initial encounter for open fracture",10000
+808.51,S32.302B,"腸骨開放性骨折Fracture of ilium, open","左側髂骨開放性骨折之初期照護Unspecified fracture of left ilium, initial encounter for open fracture",10000
+808.51,S32.309B,"腸骨開放性骨折Fracture of ilium, open","未明示側性髂骨開放性骨折之初期照護Unspecified fracture of unspecified ilium, initial encounter for open fracture",10000
+808.51,S32.311B,"腸骨開放性骨折Fracture of ilium, open","右側髂骨移位性撕脫開放性骨折之初期照護Displaced avulsion fracture of right ilium, initial encounter for open fracture",10000
+808.51,S32.312B,"腸骨開放性骨折Fracture of ilium, open","左側髂骨移位性撕脫開放性骨折之初期照護Displaced avulsion fracture of left ilium, initial encounter for open fracture",10000
+808.51,S32.313B,"腸骨開放性骨折Fracture of ilium, open","未明示側性髂骨移位性撕脫開放性骨折之初期照護Displaced avulsion fracture of unspecified ilium, initial encounter for open fracture",10000
+808.51,S32.314B,"腸骨開放性骨折Fracture of ilium, open","右側髂骨非移位性撕脫開放性骨折之初期照護Nondisplaced avulsion fracture of right ilium, initial encounter for open fracture",10000
+808.51,S32.315B,"腸骨開放性骨折Fracture of ilium, open","左側髂骨非移位性撕脫開放性骨折之初期照護Nondisplaced avulsion fracture of left ilium, initial encounter for open fracture",10000
+808.51,S32.316B,"腸骨開放性骨折Fracture of ilium, open","未明示側性髂骨非移位性撕脫開放性骨折之初期照護Nondisplaced avulsion fracture of unspecified ilium, initial encounter for open fracture",10000
+808.51,S32.391B,"腸骨開放性骨折Fracture of ilium, open","右側其他髂骨開放性骨折之初期照護Other fracture of right ilium, initial encounter for open fracture",10000
+808.51,S32.392B,"腸骨開放性骨折Fracture of ilium, open","左側其他髂骨開放性骨折之初期照護Other fracture of left ilium, initial encounter for open fracture",10000
+808.51,S32.399B,"腸骨開放性骨折Fracture of ilium, open","未明示側性其他髂骨開放性骨折之初期照護Other fracture of unspecified ilium, initial encounter for open fracture",10000
+808.52,S32.601B,"坐骨開放性骨折Fracture of ischium, open","右側坐骨開放性骨折之初期照護Unspecified fracture of right ischium, initial encounter for open fracture",10000
+808.52,S32.602B,"坐骨開放性骨折Fracture of ischium, open","左側坐骨開放性骨折之初期照護Unspecified fracture of left ischium, initial encounter for open fracture",10000
+808.52,S32.609B,"坐骨開放性骨折Fracture of ischium, open","未明示側性坐骨開放性骨折之初期照護Unspecified fracture of unspecified ischium, initial encounter for open fracture",10000
+808.52,S32.611B,"坐骨開放性骨折Fracture of ischium, open","右側坐骨剝裂移位開放性骨折之初期照護Displaced avulsion fracture of right ischium, initial encounter for open fracture",10000
+808.52,S32.612B,"坐骨開放性骨折Fracture of ischium, open","左側坐骨剝裂移位開放性骨折之初期照護Displaced avulsion fracture of left ischium, initial encounter for open fracture",10000
+808.52,S32.613B,"坐骨開放性骨折Fracture of ischium, open","未明示側性坐骨剝裂移位開放性骨折之初期照護Displaced avulsion fracture of unspecified ischium, initial encounter for open fracture",10000
+808.52,S32.614B,"坐骨開放性骨折Fracture of ischium, open","右側坐骨剝裂非移位開放性骨折之初期照護Nondisplaced avulsion fracture of right ischium, initial encounter for open fracture",10000
+808.52,S32.615B,"坐骨開放性骨折Fracture of ischium, open","左側坐骨剝裂非移位開放性骨折之初期照護Nondisplaced avulsion fracture of left ischium, initial encounter for open fracture",10000
+808.52,S32.616B,"坐骨開放性骨折Fracture of ischium, open","未明示側性坐骨剝裂非移位開放性骨折之初期照護Nondisplaced avulsion fracture of unspecified ischium, initial encounter for open fracture",10000
+808.52,S32.691B,"坐骨開放性骨折Fracture of ischium, open","右側坐骨其他特定開放性骨折之初期照護Other specified fracture of right ischium, initial encounter for open fracture",10000
+808.52,S32.692B,"坐骨開放性骨折Fracture of ischium, open","左側坐骨其他特定開放性骨折之初期照護Other specified fracture of left ischium, initial encounter for open fracture",10000
+808.52,S32.699B,"坐骨開放性骨折Fracture of ischium, open","未明示側性坐骨其他特定開放性骨折之初期照護Other specified fracture of unspecified ischium, initial encounter for open fracture",10000
+808.53,S32.810B,"多發性骨盆開放性骨折，合併骨盆環破裂Multiple pelvic fractures with disruption of pelvic circle, open","骨盆多處開放性骨折合併骨盆環穩定型破裂之初期照護Multiple fractures of pelvis with stable disruption of pelvic ring, initial encounter for open fracture",10000
+808.53,S32.811B,"多發性骨盆開放性骨折，合併骨盆環破裂Multiple pelvic fractures with disruption of pelvic circle, open","骨盆多處開放性骨折合併骨盆環不穩定型破裂之初期照護Multiple fractures of pelvis with unstable disruption of pelvic ring, initial encounter for open fracture",10000
+808.59,S32.82XB,"骨盆其他開放性骨折Fracture of other specified part of pelvis, open","骨盆多處開放性骨折未合併骨盆環破裂之初期照護Multiple fractures of pelvis without disruption of pelvic ring, initial encounter for open fracture",10000
+808.59,S32.89XB,"骨盆其他開放性骨折Fracture of other specified part of pelvis, open","骨盆其他部位開放性骨折之初期照護Fracture of other parts of pelvis, initial encounter for open fracture",10000
+808.59,S32.9xxB,"骨盆其他開放性骨折Fracture of other specified part of pelvis, open","腰薦椎和骨盆未明示部位開放性骨折之初期照護Fracture of unspecified parts of lumbosacral spine and pelvis, initial encounter for open fracture",10000
+808.8,S32.9XXA,"骨盆閉鎖性骨折Unspecified fracture of pelvis, closed","腰薦椎和骨盆未明示部位閉鎖性骨折之初期照護Fracture of unspecified parts of lumbosacral spine and pelvis, initial encounter for closed fracture",10000
+808.9,S32.9XXB,"骨盆開放性骨折Unspecified fracture of pelvis, open","腰薦椎和骨盆未明示部位開放性骨折之初期照護Fracture of unspecified parts of lumbosacral spine and pelvis, initial encounter for open fracture",10000

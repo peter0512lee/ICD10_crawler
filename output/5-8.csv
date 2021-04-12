@@ -1,0 +1,25 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+802.2,S02.609A,"下頷骨閉鎖性骨折Fracture of mandible, closed, unspecified site","下頷骨未明示部位閉鎖性骨折之初期照護Fracture of mandible, unspecified, initial encounter for closed fracture",10000
+802.2,S02.69XA,"下頷骨閉鎖性骨折Fracture of mandible, closed, unspecified site","下頷骨其他特定部位閉鎖性骨折之初期照護Fracture of mandible of other specified site, initial encounter for closed fracture",10000
+802.21,S02.61XA,"下頷骨髁狀突閉鎖性骨折Fracture of mandible, closed, condylar process","下頷骨髁狀突閉鎖性骨折之初期照護Fracture of condylar process of mandible, initial encounter for closed fracture",10000
+802.22,S02.62XA,"下頷骨下髁閉鎖性骨折Fracture of mandible, closed, subcondylar","下頷骨下髁閉鎖性骨折之初期照護Fracture of subcondylar process of mandible, initial encounter for closed fracture",10000
+802.23,S02.63XA,"下頷骨喙狀突閉鎖性骨折Fracture of mandible, closed, coronoid process","下頷骨喙狀突閉鎖性骨折之初期照護Fracture of coronoid process of mandible, initial encounter for closed fracture",10000
+802.24,S02.64XA,"下頷骨枝閉鎖性骨折Fracture of mandible, closed, ramus, unspecified","下頷骨枝閉鎖性骨折之初期照護Fracture of ramus of mandible, initial encounter for closed fracture",10000
+802.25,S02.65XA,"頷角閉鎖性骨折Fracture of mandible, closed, angle of jaw","頷角閉鎖性骨折之初期照護Fracture of angle of mandible, initial encounter for closed fracture",10000
+802.26,S02.66XA,"下頷骨聯合體閉鎖性骨折Fracture of mandible, closed, symphysis of body","下頷骨聯合體閉鎖性骨折之初期照護Fracture of symphysis of mandible, initial encounter for closed fracture",10000
+802.27,S02.67XA,"下頷體齒槽邊緣閉鎖性骨折Fracture of mandible, closed, alveolar border of body","下頷骨齒槽閉鎖性骨折之初期照護Fracture of alveolus of mandible, initial encounter for closed fracture",10000
+802.28,S02.600A,"其他下頷體閉鎖性骨折Fracture of mandible, closed, body, other and unspecified","下頷體未明示部位閉鎖性骨折之初期照護Fracture of unspecified part of body of mandible, initial encounter for closed fracture",10000
+802.29,S02.609A,"下頷骨多處閉鎖性骨折Fracture of mandible, closed, mutiple sites","下頷骨未明示部位閉鎖性骨折之初期照護Fracture of mandible, unspecified, initial encounter for closed fracture",10000
+802.29,S02.69XA,"下頷骨多處閉鎖性骨折Fracture of mandible, closed, mutiple sites","下頷骨其他特定部位閉鎖性骨折之初期照護Fracture of mandible of other specified site, initial encounter for closed fracture",10000
+802.3,S02.609B,"下頷骨開放性骨折Fracture of mandible, open, unspecified site","下頷骨未明示部位開放性骨折之初期照護Fracture of mandible, unspecified, initial encounter for open fracture",10000
+802.3,S02.69XB,"下頷骨開放性骨折Fracture of mandible, open, unspecified site","下頷骨其他特定部位開放性骨折之初期照護Fracture of mandible of other specified site, initial encounter for open fracture",10000
+802.31,S02.61XB,"下頷骨髁狀突開放性骨折Fracture of mandible, open, condylar process","下頷骨髁狀突開放性骨折之初期照護Fracture of condylar process of mandible, initial encounter for open fracture",10000
+802.32,S02.62XB,"下頷骨下髁開放性骨折Fracture of mandible, open, subcondylar","下頷骨下髁開放性骨折之初期照護Fracture of subcondylar process of mandible, initial encounter for open fracture",10000
+802.33,S02.63XB,"下頷骨喙狀突開放性骨折Fracture of mandible, open, coronoid process","下頷骨喙狀突開放性骨折之初期照護Fracture of coronoid process of mandible, initial encounter for open fracture",10000
+802.34,S02.64XB,"下頷骨枝開放性骨折Fracture of mandible, open, ramus, unspecified","下頷骨枝開放性骨折之初期照護Fracture of ramus of mandible, initial encounter for open fracture",10000
+802.35,S02.65XB,"頷角開放性骨折Fracture of mandible, open, angle of jaw","頷角開放性骨折之初期照護Fracture of angle of mandible, initial encounter for open fracture",10000
+802.36,S02.66XB,"下頷骨聯合體開放性骨折Fracture of mandible, open, symphysis of body","下頷骨聯合體開放性骨折之初期照護Fracture of symphysis of mandible, initial encounter for open fracture",10000
+802.37,S02.67XB,"下頷體齒槽邊緣開放性骨折Fracture of mandible, open, alveolar border of body","下頷骨齒槽開放性骨折之初期照護Fracture of alveolus of mandible, initial encounter for open fracture",10000
+802.38,S02.600B,"其他下頷體開放性骨折Fracture of mandible, open, body, other and unspecified","下頷體未明示部位開放性骨折之初期照護Fracture of unspecified part of body of mandible, initial encounter for open fracture",10000
+802.39,S02.609B,"下頷骨開放性多處骨折Fracture of mandible, open, multiple sites","下頷骨未明示部位開放性骨折之初期照護Fracture of mandible, unspecified, initial encounter for open fracture",10000
+802.39,S02.69XB,"下頷骨開放性多處骨折Fracture of mandible, open, multiple sites","下頷骨其他特定部位開放性骨折之初期照護Fracture of mandible of other specified site, initial encounter for open fracture",10000

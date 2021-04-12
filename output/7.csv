@@ -1,0 +1,214 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+733.1,M80.00XA,"病理性骨折Pathologic fracture, unspecified site","未明示部位之老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified site, initial encounter for fracture",10000
+733.1,M80.80XA,"病理性骨折Pathologic fracture, unspecified site","未明示部位之其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified site, initial encounter for fracture",10000
+733.1,M84.40XA,"病理性骨折Pathologic fracture, unspecified site","未明示部位之病理性骨折之初期照護Pathological fracture, unspecified site, initial encounter for fracture",10000
+733.1,M84.50XA,"病理性骨折Pathologic fracture, unspecified site","腫瘤所致之未明示部位病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified site, initial encounter for fracture",10000
+733.1,M84.60XA,"病理性骨折Pathologic fracture, unspecified site","其他疾病所致之未明示部位病理性骨折之初期照護Pathological fracture in other disease, unspecified site, initial encounter for fracture",10000
+733.11,M80.021A,肱骨病理性骨折Pathologic fracture of humerus,"右側肱骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right humerus, initial encounter for fracture",10000
+733.11,M80.022A,肱骨病理性骨折Pathologic fracture of humerus,"左側肱骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left humerus, initial encounter for fracture",10000
+733.11,M80.029A,肱骨病理性骨折Pathologic fracture of humerus,"未明示側性肱骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified humerus, initial encounter for fracture",10000
+733.11,M80.821A,肱骨病理性骨折Pathologic fracture of humerus,"右側肱骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right humerus, initial encounter for fracture",10000
+733.11,M80.822A,肱骨病理性骨折Pathologic fracture of humerus,"左側肱骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left humerus, initial encounter for fracture",10000
+733.11,M80.829A,肱骨病理性骨折Pathologic fracture of humerus,"未明示側性肱骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified humerus, initial encounter for fracture",10000
+733.11,M84.421A,肱骨病理性骨折Pathologic fracture of humerus,"右側肱骨病理性骨折之初期照護Pathological fracture, right humerus, initial encounter for fracture",10000
+733.11,M84.422A,肱骨病理性骨折Pathologic fracture of humerus,"左側肱骨病理性骨折之初期照護Pathological fracture, left humerus, initial encounter for fracture",10000
+733.11,M84.429A,肱骨病理性骨折Pathologic fracture of humerus,"未明示側性肱骨病理性骨折之初期照護Pathological fracture, unspecified humerus, initial encounter for fracture",10000
+733.11,M84.521A,肱骨病理性骨折Pathologic fracture of humerus,"腫瘤所致之右側肱骨病理性骨折之初期照護Pathological fracture in neoplastic disease, right humerus, initial encounter for fracture",10000
+733.11,M84.522A,肱骨病理性骨折Pathologic fracture of humerus,"腫瘤所致之左側肱骨病理性骨折之初期照護Pathological fracture in neoplastic disease, left humerus, initial encounter for fracture",10000
+733.11,M84.529A,肱骨病理性骨折Pathologic fracture of humerus,"腫瘤所致之未明示側性肱骨病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified humerus, initial encounter for fracture",10000
+733.11,M84.621A,肱骨病理性骨折Pathologic fracture of humerus,"其他疾病所致之右側肱骨病理性骨折之初期照護Pathological fracture in other disease, right humerus, initial encounter for fracture",10000
+733.11,M84.622A,肱骨病理性骨折Pathologic fracture of humerus,"其他疾病所致之左側肱骨病理性骨折之初期照護Pathological fracture in other disease, left humerus, initial encounter for fracture",10000
+733.11,M84.629A,肱骨病理性骨折Pathologic fracture of humerus,"其他疾病所致之未明示側性肱骨病理性骨折之初期照護Pathological fracture in other disease, unspecified humerus, initial encounter for fracture",10000
+733.12,M80.031A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"右側前臂老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right forearm, initial encounter for fracture",10000
+733.12,M80.032A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"左側前臂老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left forearm, initial encounter for fracture",10000
+733.12,M80.039A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"未明示側性前臂老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified forearm, initial encounter for fracture",10000
+733.12,M80.831A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"右側前臂其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right forearm, initial encounter for fracture",10000
+733.12,M80.832A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"左側前臂其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left forearm, initial encounter for fracture",10000
+733.12,M80.839A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"未明示側性前臂其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified forearm, initial encounter for fracture",10000
+733.12,M84.431A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"右側尺骨病理性骨折之初期照護Pathological fracture, right ulna, initial encounter for fracture",10000
+733.12,M84.432A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"左側尺骨病理性骨折之初期照護Pathological fracture, left ulna, initial encounter for fracture",10000
+733.12,M84.433A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"右側橈骨病理性骨折之初期照護Pathological fracture, right radius, initial encounter for fracture",10000
+733.12,M84.434A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"左側橈骨病理性骨折之初期照護Pathological fracture, left radius, initial encounter for fracture",10000
+733.12,M84.439A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"未明示側性尺骨及橈骨病理性骨折之初期照護Pathological fracture, unspecified ulna and radius, initial encounter for fracture",10000
+733.12,M84.531A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"腫瘤所致之右側尺骨病理性骨折之初期照護Pathological fracture in neoplastic disease, right ulna, initial encounter for fracture",10000
+733.12,M84.532A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"腫瘤所致之左側尺骨病理性骨折之初期照護Pathological fracture in neoplastic disease, left ulna, initial encounter for fracture",10000
+733.12,M84.533A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"腫瘤所致之右側橈骨病理性骨折之初期照護Pathological fracture in neoplastic disease, right radius, initial encounter for fracture",10000
+733.12,M84.534A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"腫瘤所致之左側橈骨病理性骨折之初期照護Pathological fracture in neoplastic disease, left radius, initial encounter for fracture",10000
+733.12,M84.539A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"腫瘤所致之未明示側性尺骨及橈骨病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified ulna and radius, initial encounter for fracture",10000
+733.12,M84.631A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"其他疾病所致之右側尺骨病理性骨折之初期照護Pathological fracture in other disease, right ulna, initial encounter for fracture",10000
+733.12,M84.632A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"其他疾病所致之左側尺骨病理性骨折之初期照護Pathological fracture in other disease, left ulna, initial encounter for fracture",10000
+733.12,M84.633A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"其他疾病所致之右側橈骨病理性骨折之初期照護Pathological fracture in other disease, right radius, initial encounter for fracture",10000
+733.12,M84.634A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"其他疾病所致之左側橈骨病理性骨折之初期照護Pathological fracture in other disease, left radius, initial encounter for fracture",10000
+733.12,M84.639A,遠端橈骨及尺骨病理性骨折Pathologic fracture of distal radius and ulna,"其他疾病所致之未明示側性尺骨及橈骨病理性骨折之初期照護Pathological fracture in other disease, unspecified ulna and radius, initial encounter for fracture",10000
+733.13,M48.50XA,椎骨病理性骨折Pathologic fracture of vertebrae,"未明示部位脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, site unspecified, initial encounter for fracture",10000
+733.13,M48.51XA,椎骨病理性骨折Pathologic fracture of vertebrae,"寰枕樞椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, occipito-atlanto-axial region, initial encounter for fracture",10000
+733.13,M48.52XA,椎骨病理性骨折Pathologic fracture of vertebrae,"頸椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, cervical region, initial encounter for fracture",10000
+733.13,M48.53XA,椎骨病理性骨折Pathologic fracture of vertebrae,"頸胸椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, cervicothoracic region, initial encounter for fracture",10000
+733.13,M48.54XA,椎骨病理性骨折Pathologic fracture of vertebrae,"胸椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture",10000
+733.13,M48.55XA,椎骨病理性骨折Pathologic fracture of vertebrae,"胸腰椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, thoracolumbar region, initial encounter for fracture",10000
+733.13,M48.56XA,椎骨病理性骨折Pathologic fracture of vertebrae,"腰椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, lumbar region, initial encounter for fracture",10000
+733.13,M48.57XA,椎骨病理性骨折Pathologic fracture of vertebrae,"腰薦椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, lumbosacral region, initial encounter for fracture",10000
+733.13,M48.58XA,椎骨病理性骨折Pathologic fracture of vertebrae,"薦骨及薦尾部脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, sacral and sacrococcygeal region, initial encounter for fracture",10000
+733.13,M80.08XA,椎骨病理性骨折Pathologic fracture of vertebrae,"椎骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",10000
+733.13,M80.88XA,椎骨病理性骨折Pathologic fracture of vertebrae,"椎骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",10000
+733.13,M84.48XA,椎骨病理性骨折Pathologic fracture of vertebrae,"其他部位病理性骨折之初期照護Pathological fracture, other site, initial encounter for fracture",10000
+733.13,M84.58XA,椎骨病理性骨折Pathologic fracture of vertebrae,"腫瘤所致之其他特定部位病理性骨折之初期照護Pathological fracture in neoplastic disease, other specified site, initial encounter for fracture",10000
+733.13,M84.68XA,椎骨病理性骨折Pathologic fracture of vertebrae,"其他疾病所致之其他部位病理性骨折之初期照護Pathological fracture in other disease, other site, initial encounter for fracture",10000
+733.14,M80.051A,股骨頸病理性骨折Pathologic fracture of neck of femur,"右側股骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right femur, initial encounter for fracture",10000
+733.14,M80.052A,股骨頸病理性骨折Pathologic fracture of neck of femur,"左側股骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left femur, initial encounter for fracture",10000
+733.14,M80.059A,股骨頸病理性骨折Pathologic fracture of neck of femur,"未明示側性股骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified femur, initial encounter for fracture",10000
+733.14,M80.851A,股骨頸病理性骨折Pathologic fracture of neck of femur,"右側股骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right femur, initial encounter for fracture",10000
+733.14,M80.852A,股骨頸病理性骨折Pathologic fracture of neck of femur,"左側股骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left femur, initial encounter for fracture",10000
+733.14,M80.859A,股骨頸病理性骨折Pathologic fracture of neck of femur,"未明示側性股骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified femur, initial encounter for fracture",10000
+733.14,M84.451A,股骨頸病理性骨折Pathologic fracture of neck of femur,"右側股骨病理性骨折之初期照護Pathological fracture, right femur, initial encounter for fracture",10000
+733.14,M84.452A,股骨頸病理性骨折Pathologic fracture of neck of femur,"左側股骨病理性骨折之初期照護Pathological fracture, left femur, initial encounter for fracture",10000
+733.14,M84.459A,股骨頸病理性骨折Pathologic fracture of neck of femur,"髖部病理性骨折之初期照護Pathological fracture, hip, unspecified, initial encounter for fracture",10000
+733.14,M84.551A,股骨頸病理性骨折Pathologic fracture of neck of femur,"腫瘤所致之右側股骨病理性骨折之初期照護Pathological fracture in neoplastic disease, right femur, initial encounter for fracture",10000
+733.14,M84.552A,股骨頸病理性骨折Pathologic fracture of neck of femur,"腫瘤所致之左側股骨病理性骨折之初期照護Pathological fracture in neoplastic disease, left femur, initial encounter for fracture",10000
+733.14,M84.553A,股骨頸病理性骨折Pathologic fracture of neck of femur,"腫瘤所致之未明示側性股骨病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified femur, initial encounter for fracture",10000
+733.14,M84.559A,股骨頸病理性骨折Pathologic fracture of neck of femur,"腫瘤所致之髖部病理性骨折之初期照護Pathological fracture in neoplastic disease, hip, unspecified, initial encounter for fracture",10000
+733.14,M84.651A,股骨頸病理性骨折Pathologic fracture of neck of femur,"其他疾病所致之右側股骨病理性骨折之初期照護Pathological fracture in other disease, right femur, initial encounter for fracture",10000
+733.14,M84.652A,股骨頸病理性骨折Pathologic fracture of neck of femur,"其他疾病所致之左側股骨病理性骨折之初期照護Pathological fracture in other disease, left femur, initial encounter for fracture",10000
+733.14,M84.653A,股骨頸病理性骨折Pathologic fracture of neck of femur,"其他疾病所致之未明示側性股骨病理性骨折之初期照護Pathological fracture in other disease, unspecified femur, initial encounter for fracture",10000
+733.14,M84.659A,股骨頸病理性骨折Pathologic fracture of neck of femur,"其他疾病所致之髖部病理性骨折之初期照護Pathological fracture in other disease, hip, unspecified, initial encounter for fracture",10000
+733.15,M80.051A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"右側股骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right femur, initial encounter for fracture",10000
+733.15,M80.052A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"左側股骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left femur, initial encounter for fracture",10000
+733.15,M80.059A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"未明示側性股骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified femur, initial encounter for fracture",10000
+733.15,M80.851A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"右側股骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right femur, initial encounter for fracture",10000
+733.15,M80.852A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"左側股骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left femur, initial encounter for fracture",10000
+733.15,M80.859A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"未明示側性股骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified femur, initial encounter for fracture",10000
+733.15,M84.451A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"右側股骨病理性骨折之初期照護Pathological fracture, right femur, initial encounter for fracture",10000
+733.15,M84.452A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"左側股骨病理性骨折之初期照護Pathological fracture, left femur, initial encounter for fracture",10000
+733.15,M84.453A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"未明示側性股骨病理性骨折之初期照護Pathological fracture, unspecified femur, initial encounter for fracture",10000
+733.15,M84.551A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"腫瘤所致之右側股骨病理性骨折之初期照護Pathological fracture in neoplastic disease, right femur, initial encounter for fracture",10000
+733.15,M84.552A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"腫瘤所致之左側股骨病理性骨折之初期照護Pathological fracture in neoplastic disease, left femur, initial encounter for fracture",10000
+733.15,M84.553A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"腫瘤所致之未明示側性股骨病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified femur, initial encounter for fracture",10000
+733.15,M84.559A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"腫瘤所致之髖部病理性骨折之初期照護Pathological fracture in neoplastic disease, hip, unspecified, initial encounter for fracture",10000
+733.15,M84.651A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"其他疾病所致之右側股骨病理性骨折之初期照護Pathological fracture in other disease, right femur, initial encounter for fracture",10000
+733.15,M84.652A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"其他疾病所致之左側股骨病理性骨折之初期照護Pathological fracture in other disease, left femur, initial encounter for fracture",10000
+733.15,M84.653A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"其他疾病所致之未明示側性股骨病理性骨折之初期照護Pathological fracture in other disease, unspecified femur, initial encounter for fracture",10000
+733.15,M84.659A,股骨之其他特定部位病理性骨折Pathologic fracture of other specified part of femur,"其他疾病所致之髖部病理性骨折之初期照護Pathological fracture in other disease, hip, unspecified, initial encounter for fracture",10000
+733.16,M80.061A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側小腿老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right lower leg, initial encounter for fracture",10000
+733.16,M80.062A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側小腿老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left lower leg, initial encounter for fracture",10000
+733.16,M80.069A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"未明示側性小腿老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified lower leg, initial encounter for fracture",10000
+733.16,M80.071A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側踝部及足部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right ankle and foot, initial encounter for fracture",10000
+733.16,M80.072A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側踝部及足部手老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left ankle and foot, initial encounter for fracture",10000
+733.16,M80.079A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"未明示側性踝部及足部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified ankle and foot, initial encounter for fracture",10000
+733.16,M80.861A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側小腿其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right lower leg, initial encounter for fracture",10000
+733.16,M80.862A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側小腿其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left lower leg, initial encounter for fracture",10000
+733.16,M80.869A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"未明示側性小腿其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified lower leg, initial encounter for fracture",10000
+733.16,M80.871A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側踝部及足部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right ankle and foot, initial encounter for fracture",10000
+733.16,M80.872A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側踝部及足部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left ankle and foot, initial encounter for fracture",10000
+733.16,M80.879A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"未明示側性踝部及足部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified ankle and foot, initial encounter for fracture",10000
+733.16,M84.361A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側脛骨壓?性骨折之初期照護Stress fracture, right tibia, initial encounter for fracture",10000
+733.16,M84.362A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側脛骨壓?性骨折之初期照護Stress fracture, left tibia, initial encounter for fracture",10000
+733.16,M84.363A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側腓骨壓?性骨折之初期照護Stress fracture, right fibula, initial encounter for fracture",10000
+733.16,M84.364A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側腓骨壓?性骨折之初期照護Stress fracture, left fibula, initial encounter for fracture",10000
+733.16,M84.369A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"未明示側性脛骨及腓骨壓?性骨折之初期照護Stress fracture, unspecified tibia and fibula, initial encounter for fracture",10000
+733.16,M84.461A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側脛骨病理性骨折之初期照護Pathological fracture, right tibia, initial encounter for fracture",10000
+733.16,M84.462A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側脛骨病理性骨折之初期照護Pathological fracture, left tibia, initial encounter for fracture",10000
+733.16,M84.463A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側腓骨病理性骨折之初期照護Pathological fracture, right fibula, initial encounter for fracture",10000
+733.16,M84.464A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側腓骨病理性骨折之初期照護Pathological fracture, left fibula, initial encounter for fracture",10000
+733.16,M84.469A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"未明示側性脛骨及腓骨病理性骨折之初期照護Pathological fracture, unspecified tibia and fibula, initial encounter for fracture",10000
+733.16,M84.471A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"右側踝部病理性骨折之初期照護Pathological fracture, right ankle, initial encounter for fracture",10000
+733.16,M84.472A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"左側踝部病理性骨折之初期照護Pathological fracture, left ankle, initial encounter for fracture",10000
+733.16,M84.473A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"未明示側性踝部病理性骨折之初期照護Pathological fracture, unspecified ankle, initial encounter for fracture",10000
+733.16,M84.561A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之右側脛骨病理性骨折之初期照護Pathological fracture in neoplastic disease, right tibia, initial encounter for fracture",10000
+733.16,M84.562A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之左側脛骨病理性骨折之初期照護Pathological fracture in neoplastic disease, left tibia, initial encounter for fracture",10000
+733.16,M84.563A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之右側腓骨病理性骨折之初期照護Pathological fracture in neoplastic disease, right fibula, initial encounter for fracture",10000
+733.16,M84.564A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之左側腓骨病理性骨折之初期照護Pathological fracture in neoplastic disease, left fibula, initial encounter for fracture",10000
+733.16,M84.569A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之未明示側性脛骨及腓骨病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified tibia and fibula, initial encounter for fracture",10000
+733.16,M84.571A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之右側踝部病理性骨折之初期照護Pathological fracture in neoplastic disease, right ankle, initial encounter for fracture",10000
+733.16,M84.572A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之左側踝部病理性骨折之初期照護Pathological fracture in neoplastic disease, left ankle, initial encounter for fracture",10000
+733.16,M84.573A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"腫瘤所致之未明示側性踝部病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified ankle, initial encounter for fracture",10000
+733.16,M84.661A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之右側脛骨病理性骨折之初期照護Pathological fracture in other disease, right tibia, initial encounter for fracture",10000
+733.16,M84.662A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之左側脛骨病理性骨折之初期照護Pathological fracture in other disease, left tibia, initial encounter for fracture",10000
+733.16,M84.663A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之右側腓骨病理性骨折之初期照護Pathological fracture in other disease, right fibula, initial encounter for fracture",10000
+733.16,M84.664A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之左側腓骨病理性骨折之初期照護Pathological fracture in other disease, left fibula, initial encounter for fracture",10000
+733.16,M84.669A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之未明示側性脛骨及腓骨病理性骨折之初期照護Pathological fracture in other disease, unspecified tibia and fibula, initial encounter for fracture",10000
+733.16,M84.671A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之右側踝部病理性骨折之初期照護Pathological fracture in other disease, right ankle, initial encounter for fracture",10000
+733.16,M84.672A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之左側踝部病理性骨折之初期照護Pathological fracture in other disease, left ankle, initial encounter for fracture",10000
+733.16,M84.673A,脛骨及腓骨病理性骨折Pathologic fracture of tibia or fibula,"其他疾病所致之未明示側性踝部病理性骨折之初期照護Pathological fracture in other disease, unspecified ankle, initial encounter for fracture",10000
+733.19,M80.011A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側肩部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right shoulder, initial encounter for fracture",10000
+733.19,M80.012A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側肩部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left shoulder, initial encounter for fracture",10000
+733.19,M80.019A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性肩部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified shoulder, initial encounter for fracture",10000
+733.19,M80.041A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側手部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right hand, initial encounter for fracture",10000
+733.19,M80.042A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側手部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left hand, initial encounter for fracture",10000
+733.19,M80.049A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性手部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified hand, initial encounter for fracture",10000
+733.19,M80.071A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側踝部及足部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, right ankle and foot, initial encounter for fracture",10000
+733.19,M80.072A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側踝部及足部手老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, left ankle and foot, initial encounter for fracture",10000
+733.19,M80.079A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性踝部及足部老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, unspecified ankle and foot, initial encounter for fracture",10000
+733.19,M80.811A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側肩部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right shoulder, initial encounter for fracture",10000
+733.19,M80.812A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側肩部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left shoulder, initial encounter for fracture",10000
+733.19,M80.819A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性肩部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified shoulder, initial encounter for fracture",10000
+733.19,M80.841A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側手部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right hand, initial encounter for fracture",10000
+733.19,M80.842A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側手部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left hand, initial encounter for fracture",10000
+733.19,M80.849A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性手部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified hand, initial encounter for fracture",10000
+733.19,M80.871A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側踝部及足部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, right ankle and foot, initial encounter for fracture",10000
+733.19,M80.872A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側踝部及足部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, left ankle and foot, initial encounter for fracture",10000
+733.19,M80.879A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性踝部及足部其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, unspecified ankle and foot, initial encounter for fracture",10000
+733.19,M84.311A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側肩部壓?性骨折之初期照護Stress fracture, right shoulder, initial encounter for fracture",10000
+733.19,M84.312A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側肩部壓?性骨折之初期照護Stress fracture, left shoulder, initial encounter for fracture",10000
+733.19,M84.319A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性肩部壓?性骨折之初期照護Stress fracture, unspecified shoulder, initial encounter for fracture",10000
+733.19,M84.321A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側肱骨壓?性骨折之初期照護Stress fracture, right humerus, initial encounter for fracture",10000
+733.19,M84.322A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側肱骨壓?性骨折之初期照護Stress fracture, left humerus, initial encounter for fracture",10000
+733.19,M84.331A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側尺骨壓?性骨折之初期照護Stress fracture, right ulna, initial encounter for fracture",10000
+733.19,M84.332A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側尺骨壓?性骨折之初期照護Stress fracture, left ulna, initial encounter for fracture",10000
+733.19,M84.333A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側橈骨壓?性骨折之初期照護Stress fracture, right radius, initial encounter for fracture",10000
+733.19,M84.334A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側橈骨壓?性骨折之初期照護Stress fracture, left radius, initial encounter for fracture",10000
+733.19,M84.341A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側手部壓?性骨折之初期照護Stress fracture, right hand, initial encounter for fracture",10000
+733.19,M84.342A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側手部壓?性骨折之初期照護Stress fracture, left hand, initial encounter for fracture",10000
+733.19,M84.343A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性手部壓?性骨折之初期照護Stress fracture, unspecified hand, initial encounter for fracture",10000
+733.19,M84.344A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側手指壓?性骨折之初期照護Stress fracture, right finger(s), initial encounter for fracture",10000
+733.19,M84.345A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側手指壓?性骨折之初期照護Stress fracture, left finger(s), initial encounter for fracture",10000
+733.19,M84.346A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性手指壓?性骨折之初期照護Stress fracture, unspecified finger(s), initial encounter for fracture",10000
+733.19,M84.350A,其他特定部位病理性骨折Pathologic fracture of other specified site,"骨盆壓?性骨折之初期照護Stress fracture, pelvis, initial encounter for fracture",10000
+733.19,M84.351A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側股骨壓?性骨折之初期照護Stress fracture, right femur, initial encounter for fracture",10000
+733.19,M84.352A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側股骨壓?性骨折之初期照護Stress fracture, left femur, initial encounter for fracture",10000
+733.19,M84.371A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側踝部壓?性骨折之初期照護Stress fracture, right ankle, initial encounter for fracture",10000
+733.19,M84.372A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側踝部壓?性骨折之初期照護Stress fracture, left ankle, initial encounter for fracture",10000
+733.19,M84.374A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側足部壓?性骨折之初期照護Stress fracture, right foot, initial encounter for fracture",10000
+733.19,M84.375A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側足部壓?性骨折之初期照護Stress fracture, left foot, initial encounter for fracture",10000
+733.19,M84.376A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性足部壓?性骨折之初期照護Stress fracture, unspecified foot, initial encounter for fracture",10000
+733.19,M84.377A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側腳趾壓?性骨折之初期照護Stress fracture, right toe(s), initial encounter for fracture",10000
+733.19,M84.378A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側腳趾壓?性骨折之初期照護Stress fracture, left toe(s), initial encounter for fracture",10000
+733.19,M84.379A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性腳趾壓?性骨折之初期照護Stress fracture, unspecified toe(s), initial encounter for fracture",10000
+733.19,M84.38xA,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他部位壓?性骨折之初期照護Stress fracture, other site, initial encounter for fracture",10000
+733.19,M84.411A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側肩部病理性骨折之初期照護Pathological fracture, right shoulder, initial encounter for fracture",10000
+733.19,M84.412A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側肩部病理性骨折之初期照護Pathological fracture, left shoulder, initial encounter for fracture",10000
+733.19,M84.419A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性肩部病理性骨折之初期照護Pathological fracture, unspecified shoulder, initial encounter for fracture",10000
+733.19,M84.441A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側手部病理性骨折之初期照護Pathological fracture, right hand, initial encounter for fracture",10000
+733.19,M84.442A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側手部病理性骨折之初期照護Pathological fracture, left hand, initial encounter for fracture",10000
+733.19,M84.443A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性手部病理性骨折之初期照護Pathological fracture, unspecified hand, initial encounter for fracture",10000
+733.19,M84.444A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側手指病理性骨折之初期照護Pathological fracture, right finger(s), initial encounter for fracture",10000
+733.19,M84.445A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側手指病理性骨折之初期照護Pathological fracture, left finger(s), initial encounter for fracture",10000
+733.19,M84.446A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性手指病理性骨折之初期照護Pathological fracture, unspecified finger(s), initial encounter for fracture",10000
+733.19,M84.454A,其他特定部位病理性骨折Pathologic fracture of other specified site,"骨盆病理性骨折之初期照護Pathological fracture, pelvis, initial encounter for fracture",10000
+733.19,M84.474A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側足部病理性骨折之初期照護Pathological fracture, right foot, initial encounter for fracture",10000
+733.19,M84.475A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側足部病理性骨折之初期照護Pathological fracture, left foot, initial encounter for fracture",10000
+733.19,M84.476A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性足部病理性骨折之初期照護Pathological fracture, unspecified foot, initial encounter for fracture",10000
+733.19,M84.477A,其他特定部位病理性骨折Pathologic fracture of other specified site,"右側腳趾病理性骨折之初期照護Pathological fracture, right toe(s), initial encounter for fracture",10000
+733.19,M84.478A,其他特定部位病理性骨折Pathologic fracture of other specified site,"左側腳趾病理性骨折之初期照護Pathological fracture, left toe(s), initial encounter for fracture",10000
+733.19,M84.479A,其他特定部位病理性骨折Pathologic fracture of other specified site,"未明示側性腳趾病理性骨折之初期照護Pathological fracture, unspecified toe(s), initial encounter for fracture",10000
+733.19,M84.48XA,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他部位病理性骨折之初期照護Pathological fracture, other site, initial encounter for fracture",10000
+733.19,M84.511A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之右側肩部病理性骨折之初期照護Pathological fracture in neoplastic disease, right shoulder, initial encounter for fracture",10000
+733.19,M84.512A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之左側肩部病理性骨折之初期照護Pathological fracture in neoplastic disease, left shoulder, initial encounter for fracture",10000
+733.19,M84.519A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之未明示側性肩部病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified shoulder, initial encounter for fracture",10000
+733.19,M84.541A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之右側手部病理性骨折之初期照護Pathological fracture in neoplastic disease, right hand, initial encounter for fracture",10000
+733.19,M84.542A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之左側手部病理性骨折之初期照護Pathological fracture in neoplastic disease, left hand, initial encounter for fracture",10000
+733.19,M84.549A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之未明示側性手部病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified hand, initial encounter for fracture",10000
+733.19,M84.550A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之骨盆病理性骨折之初期照護Pathological fracture in neoplastic disease, pelvis, initial encounter for fracture",10000
+733.19,M84.574A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之右側足部病理性骨折之初期照護Pathological fracture in neoplastic disease, right foot, initial encounter for fracture",10000
+733.19,M84.575A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之左側足部病理性骨折之初期照護Pathological fracture in neoplastic disease, left foot, initial encounter for fracture",10000
+733.19,M84.576A,其他特定部位病理性骨折Pathologic fracture of other specified site,"腫瘤所致之未明示側性足部病理性骨折之初期照護Pathological fracture in neoplastic disease, unspecified foot, initial encounter for fracture",10000
+733.19,M84.611A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之右側肩部病理性骨折之初期照護Pathological fracture in other disease, right shoulder, initial encounter for fracture",10000
+733.19,M84.612A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之左側肩部病理性骨折之初期照護Pathological fracture in other disease, left shoulder, initial encounter for fracture",10000
+733.19,M84.619A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之未明示側性肩部病理性骨折之初期照護Pathological fracture in other disease, unspecified shoulder, initial encounter for fracture",10000
+733.19,M84.641A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之右側手部病理性骨折之初期照護Pathological fracture in other disease, right hand, initial encounter for fracture",10000
+733.19,M84.642A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之左側手部病理性骨折之初期照護Pathological fracture in other disease, left hand, initial encounter for fracture",10000
+733.19,M84.649A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之未明示側性手部病理性骨折之初期照護Pathological fracture in other disease, unspecified hand, initial encounter for fracture",10000
+733.19,M84.650A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之骨盆病理性骨折之初期照護Pathological fracture in other disease, pelvis, initial encounter for fracture",10000
+733.19,M84.674A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之右側足部病理性骨折之初期照護Pathological fracture in other disease, right foot, initial encounter for fracture",10000
+733.19,M84.675A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之左側足部病理性骨折之初期照護Pathological fracture in other disease, left foot, initial encounter for fracture",10000
+733.19,M84.676A,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之未明示側性足部病理性骨折之初期照護Pathological fracture in other disease, unspecified foot, initial encounter for fracture",10000
+733.19,M84.68XA,其他特定部位病理性骨折Pathologic fracture of other specified site,"其他疾病所致之其他部位病理性骨折之初期照護Pathological fracture in other disease, other site, initial encounter for fracture",10000

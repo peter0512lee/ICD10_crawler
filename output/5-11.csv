@@ -1,0 +1,73 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+811.0,S42.101A,"肩胛骨閉鎖性骨折Fracture in unspecified part of scapula, closed","右側肩胛骨未明示部位閉鎖性骨折之初期照護Fracture of unspecified part of scapula, right shoulder, initial encounter for closed fracture",10000
+811.0,S42.102A,"肩胛骨閉鎖性骨折Fracture in unspecified part of scapula, closed","左側肩胛骨未明示部位閉肩胛性骨折之初期照護Fracture of unspecified part of scapula, left shoulder, initial encounter for closed fracture",10000
+811.0,S42.109A,"肩胛骨閉鎖性骨折Fracture in unspecified part of scapula, closed","未明示側性肩胛骨未明示部位閉鎖骨折之初期照護Fracture of unspecified part of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.01,S42.121A,"肩胛骨肩峰突閉鎖性骨折Fracture in acromial process of scapula, closed","右側肩峰突移位閉鎖性骨折之初期照護Displaced fracture of acromial process, right shoulder, initial encounter for closed fracture",10000
+811.01,S42.122A,"肩胛骨肩峰突閉鎖性骨折Fracture in acromial process of scapula, closed","左側肩峰突移位閉鎖性骨折之初期照護Displaced fracture of acromial process, left shoulder, initial encounter for closed fracture",10000
+811.01,S42.123A,"肩胛骨肩峰突閉鎖性骨折Fracture in acromial process of scapula, closed","未明示側性肩峰突移位閉鎖性骨折之初期照護Displaced fracture of acromial process, unspecified shoulder, initial encounter for closed fracture",10000
+811.01,S42.124A,"肩胛骨肩峰突閉鎖性骨折Fracture in acromial process of scapula, closed","右側肩峰突非移位閉鎖性骨折之初期照護Nondisplaced fracture of acromial process, right shoulder, initial encounter for closed fracture",10000
+811.01,S42.125A,"肩胛骨肩峰突閉鎖性骨折Fracture in acromial process of scapula, closed","左側肩峰突非移位閉鎖性骨折之初期照護Nondisplaced fracture of acromial process, left shoulder, initial encounter for closed fracture",10000
+811.01,S42.126A,"肩胛骨肩峰突閉鎖性骨折Fracture in acromial process of scapula, closed","未明示側性肩舺骨肩峰突非移位閉鎖性骨折之初期照護Nondisplaced fracture of acromial process, unspecified shoulder, initial encounter for closed fracture",10000
+811.02,S42.131A,"肩胛骨喙突閉鎖性骨折Fracture in coracoid process of scapula, closed","右側肩舺骨喙突移位閉鎖性骨折之初期照護Displaced fracture of coracoid process, right shoulder, initial encounter for closed fracture",10000
+811.02,S42.132A,"肩胛骨喙突閉鎖性骨折Fracture in coracoid process of scapula, closed","左側肩舺骨喙突移位閉鎖性骨折之初期照護Displaced fracture of coracoid process, left shoulder, initial encounter for closed fracture",10000
+811.02,S42.133A,"肩胛骨喙突閉鎖性骨折Fracture in coracoid process of scapula, closed","未明示側性肩舺骨喙突移位閉鎖性骨折之初期照護Displaced fracture of coracoid process, unspecified shoulder, initial encounter for closed fracture",10000
+811.02,S42.134A,"肩胛骨喙突閉鎖性骨折Fracture in coracoid process of scapula, closed","右側肩舺骨喙突非移位閉鎖性骨折之初期照護Nondisplaced fracture of coracoid process, right shoulder, initial encounter for closed fracture",10000
+811.02,S42.135A,"肩胛骨喙突閉鎖性骨折Fracture in coracoid process of scapula, closed","左側肩舺骨喙突非移位閉鎖性骨折之初期照護Nondisplaced fracture of coracoid process, left shoulder, initial encounter for closed fracture",10000
+811.02,S42.136A,"肩胛骨喙突閉鎖性骨折Fracture in coracoid process of scapula, closed","未明示側性肩舺骨喙突非移位閉鎖性骨折之初期照護Nondisplaced fracture of coracoid process, unspecified shoulder, initial encounter for closed fracture",10000
+811.03,S42.141A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","右側肩舺關節盂移位閉鎖性骨折之初期照護Displaced fracture of glenoid cavity of scapula, right shoulder, initial encounter for closed fracture",10000
+811.03,S42.142A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","左側肩舺關節盂移位閉鎖性骨折之初期照護Displaced fracture of glenoid cavity of scapula, left shoulder, initial encounter for closed fracture",10000
+811.03,S42.143A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","未明示側性肩舺關節盂移位閉鎖性骨折之初期照護Displaced fracture of glenoid cavity of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.03,S42.144A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","右側肩舺關節盂非移位閉鎖性骨折之初期照護Nondisplaced fracture of glenoid cavity of scapula, right shoulder, initial encounter for closed fracture",10000
+811.03,S42.145A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","左側肩舺關節盂非移位閉鎖性骨折之初期照護Nondisplaced fracture of glenoid cavity of scapula, left shoulder, initial encounter for closed fracture",10000
+811.03,S42.146A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","未明示側性肩舺關節盂非移位閉鎖性骨折之初期照護Nondisplaced fracture of glenoid cavity of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.03,S42.151A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","右側肩舺骨頸部移位閉鎖性骨折之初期照護Displaced fracture of neck of scapula, right shoulder, initial encounter for closed fracture",10000
+811.03,S42.152A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","左側肩舺骨頸部移位閉鎖性骨折之初期照護Displaced fracture of neck of scapula, left shoulder, initial encounter for closed fracture",10000
+811.03,S42.153A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","未明示側性肩舺骨頸部移位閉鎖性骨折之初期照護Displaced fracture of neck of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.03,S42.154A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","右側肩舺骨頸部非移位閉鎖性骨折之初期照護Nondisplaced fracture of neck of scapula, right shoulder, initial encounter for closed fracture",10000
+811.03,S42.155A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","左側肩舺骨頸部非移位閉鎖性骨折之初期照護Nondisplaced fracture of neck of scapula, left shoulder, initial encounter for closed fracture",10000
+811.03,S42.156A,"肩胛骨頸部及關節盂閉鎖性骨折Fracture in glenoid cavity and neck of scapula, closed","未明示側性肩舺骨頸部非移位閉鎖性骨折之初期照護Nondisplaced fracture of neck of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.09,S42.111A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","右側肩舺骨體部移位閉鎖性骨折之初期照護Displaced fracture of body of scapula, right shoulder, initial encounter for closed fracture",10000
+811.09,S42.112A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","左側肩舺骨體部移位閉鎖性骨折之初期照護Displaced fracture of body of scapula, left shoulder, initial encounter for closed fracture",10000
+811.09,S42.113A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","未明示側性肩舺骨體部移位閉鎖性骨折之初期照護Displaced fracture of body of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.09,S42.114A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","右側肩舺骨體部非移位閉鎖性骨折之初期照護Nondisplaced fracture of body of scapula, right shoulder, initial encounter for closed fracture",10000
+811.09,S42.115A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","左側肩舺骨體部非移位閉鎖性骨折之初期照護Nondisplaced fracture of body of scapula, left shoulder, initial encounter for closed fracture",10000
+811.09,S42.116A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","未明示側性肩舺骨體部非移位閉鎖性骨折之初期照護Nondisplaced fracture of body of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.09,S42.191A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","右側肩舺骨其他部位閉鎖性骨折之初期照護Fracture of other part of scapula, right shoulder, initial encounter for closed fracture",10000
+811.09,S42.192A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","左側肩舺骨其他部位閉鎖性骨折之初期照護Fracture of other part of scapula, left shoulder, initial encounter for closed fracture",10000
+811.09,S42.199A,"肩胛骨其他閉鎖性骨折Fracture in other part of scapula, closed","未明示側性 肩舺骨其他部位閉鎖性骨折之初期照護Fracture of other part of scapula, unspecified shoulder, initial encounter for closed fracture",10000
+811.1,S42.101B,"肩胛骨開放性骨折Fracture in unspecified part of scapula, open","右側肩胛骨未明示部位開放性骨折之初期照護Fracture of unspecified part of scapula, right shoulder, initial encounter for open fracture",10000
+811.1,S42.102B,"肩胛骨開放性骨折Fracture in unspecified part of scapula, open","左側肩胛骨未明示部位開放性骨折之初期照護Fracture of unspecified part of scapula, left shoulder, initial encounter for open fracture",10000
+811.1,S42.109B,"肩胛骨開放性骨折Fracture in unspecified part of scapula, open","未明示側性肩胛骨未明示部位開放性骨折之初期照護Fracture of unspecified part of scapula, unspecified shoulder, initial encounter for open fracture",10000
+811.11,S42.121B,"肩胛骨肩峰突開放性骨折Fracture in acromial process of scapula, open","右側肩峰突移位開放性骨折之初期照護Displaced fracture of acromial process, right shoulder, initial encounter for open fracture",10000
+811.11,S42.122B,"肩胛骨肩峰突開放性骨折Fracture in acromial process of scapula, open","左側肩峰突移位開放性骨折之初期照護Displaced fracture of acromial process, left shoulder, initial encounter for open fracture",10000
+811.11,S42.123B,"肩胛骨肩峰突開放性骨折Fracture in acromial process of scapula, open","未明示側性肩峰突移位開放性骨折之初期照護Displaced fracture of acromial process, unspecified shoulder, initial encounter for open fracture",10000
+811.11,S42.124B,"肩胛骨肩峰突開放性骨折Fracture in acromial process of scapula, open","右側肩峰突非移位開放性骨折之初期照護Nondisplaced fracture of acromial process, right shoulder, initial encounter for open fracture",10000
+811.11,S42.125B,"肩胛骨肩峰突開放性骨折Fracture in acromial process of scapula, open","左側肩峰突非移位開放性骨折之初期照護Nondisplaced fracture of acromial process, left shoulder, initial encounter for open fracture",10000
+811.11,S42.126B,"肩胛骨肩峰突開放性骨折Fracture in acromial process of scapula, open","未明示側性肩舺骨肩峰突非移位開放性骨折之初期照護Nondisplaced fracture of acromial process, unspecified shoulder, initial encounter for open fracture",10000
+811.12,S42.131B,"肩胛骨喙突開放性骨折Fracture in coracoid process of scapula, open","右側肩舺骨喙突移位開放性骨折之初期照護Displaced fracture of coracoid process, right shoulder, initial encounter for open fracture",10000
+811.12,S42.132B,"肩胛骨喙突開放性骨折Fracture in coracoid process of scapula, open","左側肩舺骨喙突移位開放性骨折之初期照護Displaced fracture of coracoid process, left shoulder, initial encounter for open fracture",10000
+811.12,S42.133B,"肩胛骨喙突開放性骨折Fracture in coracoid process of scapula, open","未明示側性肩舺骨喙突移位開放性骨折之初期照護Displaced fracture of coracoid process, unspecified shoulder, initial encounter for open fracture",10000
+811.12,S42.134B,"肩胛骨喙突開放性骨折Fracture in coracoid process of scapula, open","右側肩舺骨喙突非移位開放性骨折之初期照護Nondisplaced fracture of coracoid process, right shoulder, initial encounter for open fracture",10000
+811.12,S42.135B,"肩胛骨喙突開放性骨折Fracture in coracoid process of scapula, open","左側肩舺骨喙突非移位開放性骨折之初期照護Nondisplaced fracture of coracoid process, left shoulder, initial encounter for open fracture",10000
+811.12,S42.136B,"肩胛骨喙突開放性骨折Fracture in coracoid process of scapula, open","未明示側性肩舺骨喙突非移位開放性骨折之初期照護Nondisplaced fracture of coracoid process, unspecified shoulder, initial encounter for open fracture",10000
+811.13,S42.141B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","右側肩舺關節盂移位開放性骨折之初期照護Displaced fracture of glenoid cavity of scapula, right shoulder, initial encounter for open fracture",10000
+811.13,S42.142B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","左側肩舺關節盂移位開放性骨折之初期照護Displaced fracture of glenoid cavity of scapula, left shoulder, initial encounter for open fracture",10000
+811.13,S42.143B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","未明示側性肩舺關節盂移位開放性骨折之初期照護Displaced fracture of glenoid cavity of scapula, unspecified shoulder, initial encounter for open fracture",10000
+811.13,S42.144B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","右側肩舺關節盂非移位開放性骨折之初期照護Nondisplaced fracture of glenoid cavity of scapula, right shoulder, initial encounter for open fracture",10000
+811.13,S42.145B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","左側肩舺關節盂非移位開放性骨折之初期照護Nondisplaced fracture of glenoid cavity of scapula, left shoulder, initial encounter for open fracture",10000
+811.13,S42.146B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","未明示側性肩舺關節盂非移位性骨折,開放性骨折之初期照護Nondisplaced fracture of glenoid cavity of scapula, unspecified shoulder, initial encounter for open fracture",10000
+811.13,S42.151B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","右側肩舺骨頸部移位開放性骨折之初期照護Displaced fracture of neck of scapula, right shoulder, initial encounter for open fracture",10000
+811.13,S42.152B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","左側肩舺骨頸部移位開放性骨折之初期照護Displaced fracture of neck of scapula, left shoulder, initial encounter for open fracture",10000
+811.13,S42.153B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","未明示側性肩舺骨頸部移位開放性骨折之初期照護Displaced fracture of neck of scapula, unspecified shoulder, initial encounter for open fracture",10000
+811.13,S42.154B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","右側肩舺骨頸部非移位開放性骨折之初期照護Nondisplaced fracture of neck of scapula, right shoulder, initial encounter for open fracture",10000
+811.13,S42.155B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","左側肩舺骨頸部非移位開放性骨折之初期照護Nondisplaced fracture of neck of scapula, left shoulder, initial encounter for open fracture",10000
+811.13,S42.156B,"肩胛骨頸部及關節盂開放性骨折Fracture in glenoid cavity and neck of scapula, open","未明示側性肩舺骨頸部非移位開放性骨折之初期照護Nondisplaced fracture of neck of scapula, unspecified shoulder, initial encounter for open fracture",10000
+811.19,S42.111B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","右側肩舺骨體部移位開放性骨折之初期照護Displaced fracture of body of scapula, right shoulder, initial encounter for open fracture",10000
+811.19,S42.112B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","左側肩舺骨體部移位開放性骨折之初期照護Displaced fracture of body of scapula, left shoulder, initial encounter for open fracture",10000
+811.19,S42.113B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","未明示側性肩舺骨體部移位開放性骨折之初期照護Displaced fracture of body of scapula, unspecified shoulder, initial encounter for open fracture",10000
+811.19,S42.114B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","右側肩舺骨體部非移位開放性骨折之初期照護Nondisplaced fracture of body of scapula, right shoulder, initial encounter for open fracture",10000
+811.19,S42.115B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","左側肩舺骨體部非移位開放性骨折之初期照護Nondisplaced fracture of body of scapula, left shoulder, initial encounter for open fracture",10000
+811.19,S42.116B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","未明示側性肩舺骨體部非移位開放性骨折之初期照護Nondisplaced fracture of body of scapula, unspecified shoulder, initial encounter for open fracture",10000
+811.19,S42.191B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","右側肩舺骨其他部位開放性骨折之初期照護Fracture of other part of scapula, right shoulder, initial encounter for open fracture",10000
+811.19,S42.192B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","左側肩舺骨其他部位開放性骨折之初期照護Fracture of other part of scapula, left shoulder, initial encounter for open fracture",10000
+811.19,S42.199B,"肩胛骨之其他開放性骨折Fracture in other part of scapula, open","未明示側性肩舺骨其他部位開放性骨折之初期照護Fracture of other part of scapula, unspecified shoulder, initial encounter for open fracture",10000

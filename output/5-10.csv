@@ -1,0 +1,91 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+822.0,S82.001A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨閉鎖性骨折之初期照護Unspecified fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.002A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨閉鎖性骨折之初期照護Unspecified fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.009A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨閉鎖性骨折之初期照護Unspecified fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.011A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨骨軟骨移位閉鎖性骨折之初期照護Displaced osteochondral fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.012A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨骨軟骨移位閉鎖性骨折之初期照護Displaced osteochondral fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.013A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨骨軟骨移位閉鎖性骨折之初期照護Displaced osteochondral fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.014A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨骨軟骨非移位閉鎖性骨折之初期照護Nondisplaced osteochondral fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.015A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨骨軟骨非移位閉鎖性骨折之初期照護Nondisplaced osteochondral fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.016A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨骨軟骨非移位閉鎖性骨折之初期照護Nondisplaced osteochondral fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.021A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨縱裂移位閉鎖性骨折之初期照護Displaced longitudinal fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.022A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨縱裂移位閉鎖性骨折之初期照護Displaced longitudinal fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.023A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨縱裂移位閉鎖性骨折之初期照護Displaced longitudinal fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.024A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨縱裂非移位閉鎖性骨折之初期照護Nondisplaced longitudinal fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.025A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨縱裂非移位閉鎖性骨折之初期照護Nondisplaced longitudinal fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.026A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨縱裂非移位閉鎖性骨折之初期照護Nondisplaced longitudinal fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.031A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨橫斷移位閉鎖性骨折之初期照護Displaced transverse fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.032A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨橫斷移位閉鎖性骨折之初期照護Displaced transverse fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.033A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨橫斷移位閉鎖性骨折之初期照護Displaced transverse fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.034A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨橫斷非移位閉鎖性骨折之初期照護Nondisplaced transverse fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.035A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨橫斷非移位閉鎖性骨折之初期照護Nondisplaced transverse fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.036A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨橫斷非移位閉鎖性骨折之初期照護Nondisplaced transverse fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.041A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨粉碎移位閉鎖性骨折之初期照護Displaced comminuted fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.042A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨粉碎移位閉鎖性骨折之初期照護Displaced comminuted fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.043A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨粉碎移位閉鎖性骨折之初期照護Displaced comminuted fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.044A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨粉碎非移位閉鎖性骨折之初期照護Nondisplaced comminuted fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.045A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨粉碎非移位閉鎖性骨折之初期照護Nondisplaced comminuted fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.046A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨粉碎非移位閉鎖性骨折之初期照護Nondisplaced comminuted fracture of unspecified patella, initial encounter for closed fracture",10000
+822.0,S82.091A,"髕骨閉鎖性骨折Fracture of patella, closed","右側髕骨其他閉鎖性骨折之初期照護Other fracture of right patella, initial encounter for closed fracture",10000
+822.0,S82.092A,"髕骨閉鎖性骨折Fracture of patella, closed","左側髕骨其他閉鎖性骨折之初期照護Other fracture of left patella, initial encounter for closed fracture",10000
+822.0,S82.099A,"髕骨閉鎖性骨折Fracture of patella, closed","未明示側性髕骨其他閉鎖性骨折之初期照護Other fracture of unspecified patella, initial encounter for closed fracture",10000
+822.1,S82.001B,"髕骨開放性骨折Fracture of patella, open","右側髕骨第I或第II型開放性骨折之初期照護Unspecified fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.001C,"髕骨開放性骨折Fracture of patella, open","右側髕骨IIIA,IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.002B,"髕骨開放性骨折Fracture of patella, open","左側髕骨第I或第II型開放性骨折之初期照護Unspecified fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.002C,"髕骨開放性骨折Fracture of patella, open","左側髕骨IIIA,IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.009B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨第I或第II型開放性骨折之初期照護Unspecified fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.009C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨IIIA,IIIB或IIIC型開放性骨折之初期照護Unspecified fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.011B,"髕骨開放性骨折Fracture of patella, open","右側髕骨骨軟骨移位開放性骨折第I或第II型之初期照護Displaced osteochondral fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.011C,"髕骨開放性骨折Fracture of patella, open","右側髕骨骨軟骨移位性IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced osteochondral fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.012B,"髕骨開放性骨折Fracture of patella, open","左側髕骨骨軟骨移位第I或第II型開放性骨折之初期照護Displaced osteochondral fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.012C,"髕骨開放性骨折Fracture of patella, open","左側髕骨骨軟骨移位IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced osteochondral fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.013B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨骨軟骨移位第I或第II型開放性骨折之初期照護Displaced osteochondral fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.013C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨骨軟骨移位IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced osteochondral fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.014B,"髕骨開放性骨折Fracture of patella, open","右側髕骨骨軟骨非移位第I或第II型開放性骨折之初期照護Nondisplaced osteochondral fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.014C,"髕骨開放性骨折Fracture of patella, open","右側髕骨骨軟骨非移位IIIA,IIIB或IIIC型開放性骨折之初期照護Nondisplaced osteochondral fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.015B,"髕骨開放性骨折Fracture of patella, open","左側髕骨骨軟骨非移位第I或第II型開放性骨折之初期照護Nondisplaced osteochondral fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.015C,"髕骨開放性骨折Fracture of patella, open","左側髕骨骨軟骨非移位IIIA,IIIB或IIIC型開放性骨折之初期照護Nondisplaced osteochondral fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.016B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨骨軟骨非移位第I或第II型開放性骨折之初期照護Nondisplaced osteochondral fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.016C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨骨軟骨非移位IIIA,IIIB或IIIC型開放性骨折之初期照護Nondisplaced osteochondral fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.021B,"髕骨開放性骨折Fracture of patella, open","右側髕骨縱裂移位第I或第II型開放性骨折之初期照護Displaced longitudinal fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.021C,"髕骨開放性骨折Fracture of patella, open","右側髕骨縱裂移位IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced longitudinal fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.022B,"髕骨開放性骨折Fracture of patella, open","左側髕骨縱裂移位第I或第II型開放性骨折之初期照護Displaced longitudinal fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.022C,"髕骨開放性骨折Fracture of patella, open","左側髕骨縱裂移位IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced longitudinal fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.023B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨縱裂移位第I或第II型開放性骨折之初期照護Displaced longitudinal fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.023C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨縱裂移位IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced longitudinal fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.024B,"髕骨開放性骨折Fracture of patella, open","右側髕骨第I或第II型開放性骨折之初期照護Nondisplaced longitudinal fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.024C,"髕骨開放性骨折Fracture of patella, open","右側髕骨縱裂非移位IIIA,IIIB或IIIC型開放性骨折之初期照護Nondisplaced longitudinal fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.025B,"髕骨開放性骨折Fracture of patella, open","左側髕骨第I或第II型開放性骨折之初期照護Nondisplaced longitudinal fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.025C,"髕骨開放性骨折Fracture of patella, open","左側髕骨縱裂非移位IIIA,IIIB或IIIC型開放性骨折之初期照護Nondisplaced longitudinal fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.026B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨縱裂非移位第I或第II型開放性骨折之初期照護Nondisplaced longitudinal fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.026C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨縱裂非移位IIIA,IIIB或IIIC型開放性骨折之初期照護Nondisplaced longitudinal fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.031B,"髕骨開放性骨折Fracture of patella, open","右側髕骨橫斷移位第I或第II型開放性骨折之初期照護Displaced transverse fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.031C,"髕骨開放性骨折Fracture of patella, open","右側髕骨橫斷移位IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced transverse fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.032B,"髕骨開放性骨折Fracture of patella, open","左側髕骨橫斷移位第I或第II型開放性骨折之初期照護Displaced transverse fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.032C,"髕骨開放性骨折Fracture of patella, open","左側髕骨橫斷移位IIIA,IIIB或IIIC型開放性骨折之初期照護Displaced transverse fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.033B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨橫斷移位第 I 或第 II型開放性骨折之初期照護Displaced transverse fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.033C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨橫斷移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Displaced transverse fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.034B,"髕骨開放性骨折Fracture of patella, open","右側髕骨橫斷非移位第 I 或 第II型開放性骨折之初期照護Nondisplaced transverse fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.034C,"髕骨開放性骨折Fracture of patella, open","右側髕骨橫斷非移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Nondisplaced transverse fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.035B,"髕骨開放性骨折Fracture of patella, open","左側髕骨橫斷非移位第 I 或 第II型開放性骨折之初期照護Nondisplaced transverse fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.035C,"髕骨開放性骨折Fracture of patella, open","左側髕骨橫斷非移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Nondisplaced transverse fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.036B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨橫斷非移位第 I 或 第II型開放性骨折之初期照護Nondisplaced transverse fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.036C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨橫斷非移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Nondisplaced transverse fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.041B,"髕骨開放性骨折Fracture of patella, open","右側髕骨粉碎移位第 I 或 第II型開放性骨折之初期照護Displaced comminuted fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.041C,"髕骨開放性骨折Fracture of patella, open","右側髕骨粉碎移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Displaced comminuted fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.042B,"髕骨開放性骨折Fracture of patella, open","左側髕骨粉碎移位第 I 或 第II型開放性骨折之初期照護Displaced comminuted fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.042C,"髕骨開放性骨折Fracture of patella, open","左側髕骨粉碎移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Displaced comminuted fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.043B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨粉碎移位第 I 或 第II型開放性骨折之初期照護Displaced comminuted fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.043C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨粉碎移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Displaced comminuted fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.044B,"髕骨開放性骨折Fracture of patella, open","右側髕骨粉碎非移位第 I 或 II型開放性粉碎無]移位性骨折之初期照護Nondisplaced comminuted fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.044C,"髕骨開放性骨折Fracture of patella, open","右側髕骨粉碎非移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Nondisplaced comminuted fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.045B,"髕骨開放性骨折Fracture of patella, open","左側髕骨粉碎非移位第 I 或 II型開放性粉碎無]移位性骨折之初期照護Nondisplaced comminuted fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.045C,"髕骨開放性骨折Fracture of patella, open","左側髕骨粉碎非移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Nondisplaced comminuted fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.046B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨粉碎非移位第 I 或 II型開放性粉碎無]移位性骨折之初期照護Nondisplaced comminuted fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.046C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨粉碎非移位IIIA,IIIB,或IIIC型開放性骨折之初期照護Nondisplaced comminuted fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.091B,"髕骨開放性骨折Fracture of patella, open","右側髕骨其他第 I 或 第II型開放性骨折之初期照護Other fracture of right patella, initial encounter for open fracture type I or II",10000
+822.1,S82.091C,"髕骨開放性骨折Fracture of patella, open","右側髕骨其他IIIA,IIIB,或IIIC型開放性骨折之初期照護Other fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.092B,"髕骨開放性骨折Fracture of patella, open","左側髕骨其他第 I 或 第II型開放性骨折之初期照護Other fracture of left patella, initial encounter for open fracture type I or II",10000
+822.1,S82.092C,"髕骨開放性骨折Fracture of patella, open","左側髕骨其他IIIA,IIIB,或IIIC型開放性骨折之初期照護Other fracture of left patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000
+822.1,S82.099B,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨其他第 I 或 第II型開放性骨折之初期照護Other fracture of unspecified patella, initial encounter for open fracture type I or II",10000
+822.1,S82.099C,"髕骨開放性骨折Fracture of patella, open","未明示側性髕骨其他IIIA,IIIB,或IIIC型開放性骨折之初期照護Other fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",10000

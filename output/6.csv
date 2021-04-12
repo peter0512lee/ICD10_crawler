@@ -1,0 +1,15 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+733.13,M48.50XA,椎骨病理性骨折Pathologic fracture of vertebrae,"未明示部位脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, site unspecified, initial encounter for fracture",10000
+733.13,M48.51XA,椎骨病理性骨折Pathologic fracture of vertebrae,"寰枕樞椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, occipito-atlanto-axial region, initial encounter for fracture",10000
+733.13,M48.52XA,椎骨病理性骨折Pathologic fracture of vertebrae,"頸椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, cervical region, initial encounter for fracture",10000
+733.13,M48.53XA,椎骨病理性骨折Pathologic fracture of vertebrae,"頸胸椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, cervicothoracic region, initial encounter for fracture",10000
+733.13,M48.54XA,椎骨病理性骨折Pathologic fracture of vertebrae,"胸椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture",10000
+733.13,M48.55XA,椎骨病理性骨折Pathologic fracture of vertebrae,"胸腰椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, thoracolumbar region, initial encounter for fracture",10000
+733.13,M48.56XA,椎骨病理性骨折Pathologic fracture of vertebrae,"腰椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, lumbar region, initial encounter for fracture",10000
+733.13,M48.57XA,椎骨病理性骨折Pathologic fracture of vertebrae,"腰薦椎脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, lumbosacral region, initial encounter for fracture",10000
+733.13,M48.58XA,椎骨病理性骨折Pathologic fracture of vertebrae,"薦骨及薦尾部脊椎萎(塌)陷之初期照護，他處未歸類Collapsed vertebra, not elsewhere classified, sacral and sacrococcygeal region, initial encounter for fracture",10000
+733.13,M80.08XA,椎骨病理性骨折Pathologic fracture of vertebrae,"椎骨老年性骨質疏鬆症伴有病?性骨折之初期照護Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",10000
+733.13,M80.88XA,椎骨病理性骨折Pathologic fracture of vertebrae,"椎骨其他骨質疏鬆症伴有病?性骨折之初期照護Other osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",10000
+733.13,M84.48XA,椎骨病理性骨折Pathologic fracture of vertebrae,"其他部位病理性骨折之初期照護Pathological fracture, other site, initial encounter for fracture",10000
+733.13,M84.58XA,椎骨病理性骨折Pathologic fracture of vertebrae,"腫瘤所致之其他特定部位病理性骨折之初期照護Pathological fracture in neoplastic disease, other specified site, initial encounter for fracture",10000
+733.13,M84.68XA,椎骨病理性骨折Pathologic fracture of vertebrae,"其他疾病所致之其他部位病理性骨折之初期照護Pathological fracture in other disease, other site, initial encounter for fracture",10000

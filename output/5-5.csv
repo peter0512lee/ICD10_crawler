@@ -1,0 +1,67 @@
+ICD9編碼,ICD10編碼,ICD9內容,ICD10內容,對應情形
+825.25,S92.301A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側足部未明示蹠骨閉鎖性骨折之初期照護Fracture of unspecified metatarsal bone(s), right foot, initial encounter for closed fracture",10000
+825.25,S92.302A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側足部未明示蹠骨閉鎖性骨折之初期照護Fracture of unspecified metatarsal bone(s), left foot, initial encounter for closed fracture",10000
+825.25,S92.309A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性足部未明示蹠骨閉鎖性骨折之初期照護Fracture of unspecified metatarsal bone(s), unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.311A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側足部第一蹠骨移位閉鎖性骨折之初期照護Displaced fracture of first metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.312A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側足部第一蹠骨移位閉鎖性骨折之初期照護Displaced fracture of first metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.313A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性足部第一蹠骨移位閉鎖性骨折之初期照護Displaced fracture of first metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.314A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側足部第一蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of first metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.315A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側足部第一蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of first metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.316A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性足部第一蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of first metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.321A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側足部第二蹠骨移位閉鎖性骨折之初期照護Displaced fracture of second metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.322A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側足部第二蹠骨移位閉鎖性骨折之初期照護Displaced fracture of second metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.323A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性足部第二蹠骨移位閉鎖性骨折之初期照護Displaced fracture of second metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.324A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側足部第二蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of second metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.325A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側足部第二蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of second metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.326A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性足部第二蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of second metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.331A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側足部第三蹠骨移位閉鎖性骨折之初期照護Displaced fracture of third metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.332A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側足部第三蹠骨移位閉鎖性骨折之初期照護Displaced fracture of third metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.333A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性第三蹠骨移位閉鎖性骨折之初期照護Displaced fracture of third metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.334A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側第三蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of third metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.335A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側第三蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of third metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.336A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性第三蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of third metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.341A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側第四蹠骨移位閉鎖性骨折之初期照護Displaced fracture of fourth metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.342A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側第四蹠骨移位閉鎖性骨折之初期照護Displaced fracture of fourth metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.343A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性第四蹠骨移位閉鎖性骨折之初期照護Displaced fracture of fourth metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.344A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側第四蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of fourth metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.345A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側第四蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of fourth metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.346A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性第四蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of fourth metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.351A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側第五蹠骨移位閉鎖性骨折之初期照護Displaced fracture of fifth metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.352A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側第五蹠骨移位閉鎖性骨折之初期照護Displaced fracture of fifth metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.353A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性第五蹠骨移位閉鎖性骨折之初期照護Displaced fracture of fifth metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.25,S92.354A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","右側第五蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of fifth metatarsal bone, right foot, initial encounter for closed fracture",10000
+825.25,S92.355A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","左側第五蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of fifth metatarsal bone, left foot, initial encounter for closed fracture",10000
+825.25,S92.356A,"蹠骨閉鎖性骨折Fracture of metatarsal bone(s), closed","未明示側性第五蹠骨非移位閉鎖性骨折之初期照護Nondisplaced fracture of fifth metatarsal bone, unspecified foot, initial encounter for closed fracture",10000
+825.35,S92.336B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性第三蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of third metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.341B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側第四蹠骨移位開放性骨折之初期照護Displaced fracture of fourth metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.342B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側第四蹠骨移位開放性骨折之初期照護Displaced fracture of fourth metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.343B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性第四蹠骨移位開放性骨折之初期照護Displaced fracture of fourth metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.344B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側第四蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of fourth metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.345B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側第四蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of fourth metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.346B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性第四蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of fourth metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.351B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側第五蹠骨移位開放性骨折之初期照護Displaced fracture of fifth metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.352B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側第五蹠骨移位開放性骨折之初期照護Displaced fracture of fifth metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.353B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性第五蹠骨移位開放性骨折之初期照護Displaced fracture of fifth metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.354B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側第五蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of fifth metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.355B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側第五蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of fifth metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.356B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性第五蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of fifth metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.301B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側足部未明示蹠骨開放性骨折之初期照護Fracture of unspecified metatarsal bone(s), right foot, initial encounter for open fracture",10000
+825.35,S92.302B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側足部未明示蹠骨開放性骨折之初期照護Fracture of unspecified metatarsal bone(s), left foot, initial encounter for open fracture",10000
+825.35,S92.309B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性足部未明示蹠骨開放性骨折之初期照護Fracture of unspecified metatarsal bone(s), unspecified foot, initial encounter for open fracture",10000
+825.35,S92.311B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側足部第一蹠骨移位開放性骨折之初期照護Displaced fracture of first metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.312B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側足部第一蹠骨移位開放性骨折之初期照護Displaced fracture of first metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.313B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性足部第一蹠骨移位開放性骨折之初期照護Displaced fracture of first metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.314B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側足部第一蹠骨非移位開放性骨折之初期照護Nondisplaced fracture of first metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.315B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側足部第一蹠骨非移位開放性骨折之初期照護Nondisplaced fracture of first metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.316B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性足部第一蹠骨非移位開放性骨折之初期照護Nondisplaced fracture of first metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.321B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側足部第二蹠骨移位開放性骨折之初期照護Displaced fracture of second metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.322B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側足部第二蹠骨移位開放性骨折之初期照護Displaced fracture of second metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.323B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性足部第二蹠骨移位開放性骨折之初期照護Displaced fracture of second metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.324B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側足部第二蹠骨非移位開放性骨折之初期照護Nondisplaced fracture of second metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.325B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側足部第二蹠骨非移位開放性骨折之初期照護Nondisplaced fracture of second metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.326B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性足部第二蹠骨非移位開放性骨折之初期照護Nondisplaced fracture of second metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.331B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側足部第三蹠骨移位開放性骨折之初期照護Displaced fracture of third metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.332B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側足部第三蹠骨移位開放性骨折之初期照護Displaced fracture of third metatarsal bone, left foot, initial encounter for open fracture",10000
+825.35,S92.333B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","未明示側性第三蹠骨移位開放性骨折之初期照護Displaced fracture of third metatarsal bone, unspecified foot, initial encounter for open fracture",10000
+825.35,S92.334B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","右側第三蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of third metatarsal bone, right foot, initial encounter for open fracture",10000
+825.35,S92.335B,"蹠骨開放性骨折Fracture of metatarsal bone(s), open","左側第三蹠骨非移位性開放性骨折之初期照護Nondisplaced fracture of third metatarsal bone, left foot, initial encounter for open fracture",10000
